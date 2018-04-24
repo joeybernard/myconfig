@@ -20,3 +20,5 @@ windows
 .local
 .valkyrie
 .viminfo
+.gnupg
+.emacs.d
