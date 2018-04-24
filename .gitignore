@@ -22,3 +22,7 @@ windows
 .viminfo
 .gnupg
 .emacs.d
+.jupyter
+.npm
+anaconda3
+__pycache__
