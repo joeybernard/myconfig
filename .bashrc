@@ -118,7 +118,7 @@ fi
 
 # Config repository settings
 alias config='/usr/bin/git --git-dir=/home/jbernard/.myconfig --work-tree=/home/jbernard'
-alias get-clone='sudo apt-clone clone --with-dpkg-repack wsl_clone'
-alias set-clone='sudo apt-clone restore wsl_clone.apt-clone.tar.gz'
 
 export DISPLAY="localhost:0.0"
+
+export PATH="~/scripts:$PATH"
