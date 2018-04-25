@@ -26,3 +26,7 @@ windows
 .npm
 anaconda3
 __pycache__
+repos
+.aspell.en.pws
+.aspell.en.prepl
+.git-credentials
