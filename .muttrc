@@ -1,0 +1,17 @@
+# GMail configuration
+set imap_user = 'druid.bernard@gmail.com'
+set imap_pass = 'MAGIC!K99'
+
+# Incoming mail
+set folder = imaps://imap.gmail.com/
+set spoolfile = +INBOX
+set record = "+[Gmail]/Sent Mail"
+set postponed = "+[Gmail]/Drafts"
+
+# Outgoing mail
+set smtp_url = 'smtps://druid.bernard@smtp.gmail.com'
+set smtp_pass = 'MAGIC!K99'
+set record=""
+
+# Set the official mbox
+set mbox="imaps://imap.gmail.com/[Gmail]/All Mail"
