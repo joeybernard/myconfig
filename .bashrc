@@ -119,6 +119,4 @@ fi
 # Config repository settings
 alias config='/usr/bin/git --git-dir=/home/jbernard/.myconfig --work-tree=/home/jbernard'
 
-export DISPLAY="localhost:0.0"
-
 export PATH="~/scripts:$PATH"
