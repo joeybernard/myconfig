@@ -25,4 +25,11 @@
 (use-package org
 	     :ensure t)
 
+; IPython support
+(use-package ob-ipython
+             :ensure t)
+(org-babel-do-load-languages 'org-babel-load-languages
+             '((ipython . t)
+             ;; other languages..
+              ))
 
