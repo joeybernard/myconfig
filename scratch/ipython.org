@@ -1,3 +1,12 @@
 * Introduction
 This is a test of the ipython org-mode connection.
+#+BEGIN_SRC ipython :session mysession :exports both :results raw drawer
+  def foo(x):
+      return x + 9
+  %timeit  [foo(x) + 7 for x in range(7)]
+#+END_SRC
 
+#+RESULTS:
+:RESULTS:
+# Out[4]:
+:END:
