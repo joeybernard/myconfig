@@ -60,3 +60,5 @@ maple2016
 .xsession-errors.old
 .conda
 examples.desktop
+.ispell_american
+.kivy
