@@ -123,3 +123,6 @@ export PATH="~/scripts:$PATH"
 
 # added by Anaconda3 4.3.1 installer
 export PATH="/home/jbernard/anaconda3/bin:$PATH"
+
+# added by Anaconda3 installer
+export PATH="/home/jbernard/anaconda3/bin:$PATH"
