@@ -65,3 +65,6 @@ examples.desktop
 .wine
 .subversion
 .vscode
+.cmake
+.ddd
+.wget-hsts
