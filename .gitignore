@@ -68,3 +68,5 @@ examples.desktop
 .cmake
 .ddd
 .wget-hsts
+.gnuplot_history
+.sqlite_history
