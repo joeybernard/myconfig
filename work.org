@@ -1,0 +1,53 @@
+This file contains all of my notes around the work for CHAIN and E-CHAIM. This will contain a work log as well as todo items that need to be tracked.
+
+
+
+* <2018-09-03 Mon>
+** TODO Create a cron job to pull the latest E-CHAIM DB to chain-new :ECHAIM:
+** TODO Create a start script for apache and mariadb on chain-new    :ECHAIM:
+** DONE Rdesign gnuplot script for E-CHAIM web application	     :ECHAIM:
+   <2018-09-03 Mon> The script below is the core functionality to generate the plots and then display them on the web application.    
+   $script = $cwd . "/" . $id . "/temp.gnuplot";
+   $pd = fopen($script, "w");
+   fwrite($pd, "set term pngcairo font ',7' size 800,600\n");
+   fwrite($pd, "set out '../images/echaim/".$id."ECHAIMOutput.png'\n");
+   fwrite($pd, "unset key\n");
+   fwrite($pd, "set contour base\n");
+   fwrite($pd, "set cntrparam bspline\n");
+   fwrite($pd, "set cntrparam levels auto 5\n");
+   fwrite($pd, "set style data lines\n");
+   fwrite($pd, "set timefmt '%Y%m%d%H%M%S'\n");
+   fwrite($pd, "set xdata time\n");
+   fwrite($pd, "set xlabel 'Date - Time'\n");
+   fwrite($pd, "set xtics 17280\n");
+   fwrite($pd, "set ylabel 'Longitude'\n");
+   if ($parameter == "NmF2") {
+      fwrite($pd, "set zlabel 'NmF2 [10^{11} m^{-3}]'\n");
+      fwrite($pd, "set title 'NmF2 [10^{11} m^{-3}] - Latitude = ".$latitude."'\n");
+      fwrite($pd, "splot 'data.dat' using 1:2:($3/1e11) palette\n");
+   } elseif ($parameter == "hmF2") {
+      fwrite($pd, "set zlabel 'height[km]'\n");
+      fwrite($pd, "set title 'hmF2 [km] - Latitude = ".$latitude."'\n");
+      fwrite($pd, "splot 'data.dat' using 1:2:3 palette\n");
+   } elseif ($parameter == "hmF1") {
+      fwrite($pd, "set zlabel 'height[km]'\n");
+      fwrite($pd, "set title 'hmF1 [km] - Latitude = ".$latitude."'\n");
+      fwrite($pd, "splot 'data.dat' using 1:2:3 palette\n");
+   }
+   fwrite($pd, "set out\n");
+   fclose($pd);
+   $dd = fopen($id."/data.dat", "w");
+   $curr_long = $longitudes[0];
+   for ($j=0; $j<$interval_count2; $j++) {
+      for ($i=0; $i<$interval_count; $i++) {
+         $data_str = $arr[$i]." ".$curr_long." ".$data_mat[$i][$j];
+         fwrite($dd, $data_str);
+      }
+      fwrite($dd, "\n");
+      $curr_long = $curr_long + $longitudes[1];
+   }
+   fclose($dd);
+   $str_cmd = "cd ".$id."; /usr/local/bin/gnuplot temp.gnuplot";
+   shell_exec($str_cmd);
+   echo "&lt;img src='https://chain-new.chain-project.net/images/echaim/".$id."ECHAIMOutput.png'&gt;";
+
