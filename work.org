@@ -1,12 +1,30 @@
-This file contains all of my notes around the work for CHAIN and E-CHAIM. This will contain a work log as well as todo items that need to be tracked.
+This file contains all of my notes around the work for CHAIN and E-CHAIM.
+This will contain a work log as well as todo items that need to be tracked.
 
+
+
+* <2018-09-04 Tue>
+** TODO Create a data file that generates the problem in January 1 2011 :ECHAIM:
+** TODO There is an issue with forwarding SSL connections from apache through to gitlab when using "git clone"
+*** Changed the certificate entry in /etc/httpd/conf.d/ssl.conf to use fullchain.pem.
+    Will restart httpd tonight to see if this fixes the SSL problem.
+
+** DONE Compiled a new version of echaim, using the release version. Copied the file ECHAIM.c into the lib directory, then used the following to compile: :ECHAIM:
+   CLOSED: [2018-09-04 Tue 13:32]
+   gcc -o echaim *.c -std=c99 -lm -pthread -ldl
+** TODO Redo the output list and file to use the same file format as that used by gnuplot. :ECHAIM:
 
 
 * <2018-09-03 Mon>
 ** TODO Create a cron job to pull the latest E-CHAIM DB to chain-new :ECHAIM:
+*** The script needs to keep a date stamped version of the older DBs
+*** The files are CHAIM_DB.db and MATLAB_DB.mat in /var/www/html/joomla/echaim_downloads
+*** The new files on chain-cs1.chain-project.net
+      /home2/amccaffr/ECHAIM_DB/CHAIM_DB.db
+      /home2/amccaffr/ECHAIM_DB/CSV/MATLAB_DB.mat
 ** TODO Create a start script for apache and mariadb on chain-new    :ECHAIM:
 ** DONE Rdesign gnuplot script for E-CHAIM web application	     :ECHAIM:
-   <2018-09-03 Mon> The script below is the core functionality to generate the plots and then display them on the web application.    
+   CLOSED: [2018-09-03 Mon] The script below is the core functionality to generate the plots and then display them on the web application.    
    $script = $cwd . "/" . $id . "/temp.gnuplot";
    $pd = fopen($script, "w");
    fwrite($pd, "set term pngcairo font ',7' size 800,600\n");
@@ -50,4 +68,3 @@ This file contains all of my notes around the work for CHAIN and E-CHAIM. This w
    $str_cmd = "cd ".$id."; /usr/local/bin/gnuplot temp.gnuplot";
    shell_exec($str_cmd);
    echo "&lt;img src='https://chain-new.chain-project.net/images/echaim/".$id."ECHAIMOutput.png'&gt;";
-
