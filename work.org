@@ -5,10 +5,13 @@ This will contain a work log as well as todo items that need to be tracked.
 
 * <2018-09-04 Tue>
 ** TODO Create a data file that generates the problem in January 1 2011 :ECHAIM:
-** TODO There is an issue with forwarding SSL connections from apache through to gitlab when using "git clone"
+** DONE There is an issue with forwarding SSL connections from apache through to gitlab when using "git clone"
+   CLOSED: [2018-09-04 Tue 22:59]
 *** Changed the certificate entry in /etc/httpd/conf.d/ssl.conf to use fullchain.pem.
     Will restart httpd tonight to see if this fixes the SSL problem.
-
+    This did not work. Can't find a complete solution.
+*** Just tell git not to verify the SSL certs with the command
+    git config --global http.sslVerify false
 ** DONE Compiled a new version of echaim, using the release version. Copied the file ECHAIM.c into the lib directory, then used the following to compile: :ECHAIM:
    CLOSED: [2018-09-04 Tue 13:32]
    gcc -o echaim *.c -std=c99 -lm -pthread -ldl
