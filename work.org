@@ -1,16 +1,25 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* <2018-09-07 Fri>
+** Gave the travel reimbursement form to Todd for Rankin Inlet.
+** Closed a bunch of todo items
+
 * <2018-09-06 Thu>
 ** Checked the January 1 2011 date that caused problems earlier. This seems to work now.
 ** Paperwork for cash advance for Qikiqtarjuaq and Sachs Harbour was sent in.
 ** TODO Need to fix the SSL certs on chain-new so that we have just a single cert for both domain names.
-** TODO In the Lat-Alt contour plot, the Lat is not counting correctly. It goes forever.
-** TODO Redo the contour plots to be just 2D view maps.
-** TODO Change any plots that have altitudes to put the altitudes on the Y axis.
-** TODO Remove the next prev buttons at the bottom of the E-CHAIM windows
-** TODO Resize the plots to fit in the Y-axis label
-
+** DONE In the Lat-Alt contour plot, the Lat is not counting correctly. It goes forever.
+   CLOSED: [2018-09-07 Fri 12:50]
+** DONE Redo the contour plots to be just 2D view maps.
+   CLOSED: [2018-09-07 Fri 13:17]
+** DONE Change any plots that have altitudes to put the altitudes on the Y axis.
+   CLOSED: [2018-09-07 Fri 13:17]
+** DONE Remove the next prev buttons at the bottom of the E-CHAIM windows
+   CLOSED: [2018-09-07 Fri 12:44]
+** DONE Resize the plots to fit in the Y-axis label
+   CLOSED: [2018-09-07 Fri 13:18]
+*** Since these are now all 2D, the label manipulation happened automatically.
 
 * <2018-09-05 Wed>
 ** Applied the command
