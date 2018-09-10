@@ -34,6 +34,8 @@
 (use-package org
 	     :ensure t)
 (setq org-log-done 'time)
+(setq org-agenda-files (list "~/work.org"))
+(define-key global-map "\C-ca" 'org-agenda)
 
 ; IPython support
 (use-package ob-ipython

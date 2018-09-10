@@ -1,6 +1,10 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* <2018-09-10 Mon>
+** Entered all of my flight info into the calendar.
+** Added a software archive section on the E-CHAIM website. Also updated the version of the Matlab code.
+
 * <2018-09-07 Fri>
 ** Gave the travel reimbursement form to Todd for Rankin Inlet.
 ** Closed a bunch of todo items
@@ -32,7 +36,6 @@ This will contain a work log as well as todo items that need to be tracked.
    #+END_SRC
 *** Then edited /etc/sysconfig/selinux and set "SELINUX=disabled"
 
-
 * <2018-09-04 Tue>
 ** DONE Create a data file that generates the problem in January 1 2011 :ECHAIM:
    CLOSED: [2018-09-06 Thu 08:27]
@@ -52,7 +55,6 @@ This will contain a work log as well as todo items that need to be tracked.
 
 ** DONE Redo the output list and file to use the same file format as that used by gnuplot. :ECHAIM:
    CLOSED: [2018-09-06 Thu 10:33]
-
 
 * <2018-09-03 Mon>
 ** DONE Create a cron job to pull the latest E-CHAIM DB to chain-new :ECHAIM:
