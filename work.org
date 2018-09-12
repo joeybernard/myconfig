@@ -3,6 +3,9 @@ This will contain a work log as well as todo items that need to be tracked.
 
 * <2018-09-12 Wed>
 ** Sent new E-CHAIM user account info to David.
+** Blocked users Sara, Gowher and Shiva on gitlab.
+** Changed Edward and Anton so that they are no longer external in gitlab.
+** Anthony noticed that I had a typo in his auto_db script. He fixed it.
 * <2018-09-11 Tue>
 ** Worked from home in order to let the flooring guys into the house.
 * <2018-09-10 Mon>
