@@ -1,6 +1,10 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* <2018-09-12 Wed>
+** Sent new E-CHAIM user account info to David.
+* <2018-09-11 Tue>
+** Worked from home in order to let the flooring guys into the house.
 * <2018-09-10 Mon>
 ** Entered all of my flight info into the calendar.
 ** Added a software archive section on the E-CHAIM website. Also updated the version of the Matlab code.
