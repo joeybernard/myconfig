@@ -1,6 +1,24 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* <2018-09-23 Sun>
+** Sent out the latest LJ Up[Front article :PERSONAL:
+** We are in Qikiqtarjuaq. I have completely neglected to list each day's log. The list of thing done so far is:
+*** Tower put up.
+*** Dipoles installed.
+*** Delta installed.
+*** Metal fence installed.
+*** Rack built and equipment installed.
+*** Satellite installed and configured.
+*** GPS installed.
+*** Initial cleanup inside.
+** The items left are:
+*** DONE Finish list Richard sent for computer equipment instalation steps.
+*** Bring leftovers to the dump.
+*** Finish cleanup inside and take pictures.
+*** Finish the rope part of the fencing.
+** Installed chromium on the cadi machine so that Anton and Swadesh could email data out.
+
 * <2018-09-12 Wed>
 ** Sent new E-CHAIM user account info to David.
 ** Blocked users Sara, Gowher and Shiva on gitlab.

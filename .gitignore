@@ -71,3 +71,5 @@ examples.desktop
 .gnuplot_history
 .sqlite_history
 data
+.Scilab
+.oracle_jre_usage
