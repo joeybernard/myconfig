@@ -1,6 +1,11 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* <2018-09-11 Tue>
+** Sent a list of the currently registered users of the E-CHAIM web site to David. There are only two.
+** Added version 1.0.1 of the C code to the web site.
+** Compiled version 1.0.1 to be used by the web app.
+** TODO Need to add logging to track username, version and date for all downloads.
 * <2018-09-10 Mon>
 ** Entered all of my flight info into the calendar.
 ** Added a software archive section on the E-CHAIM website. Also updated the version of the Matlab code.
