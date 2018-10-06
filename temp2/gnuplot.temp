@@ -1,0 +1,19 @@
+set term pngcairo font ',7' size 800,600
+set out "test.png"
+set key off
+#unset surface
+
+set timefmt '%Y%m%d%H%M%S'
+set xdata time
+set xtics 17280
+
+set contour base
+set cntrparam order 8
+set cntrparam bspline
+set cntrparam levels auto 5
+set cntrlabel format '%8.3g' font ',7'
+
+set style data lines
+#set view map
+ 
+splot "data.dat" using 1:2:($3/1e11) palette

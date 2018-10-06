@@ -68,3 +68,14 @@ input.nec
 output.nec 
 Piramid.nec
 .octave_hist
+.wine
+.subversion
+.vscode
+.cmake
+.ddd
+.wget-hsts
+.gnuplot_history
+.sqlite_history
+data
+.Scilab
+.oracle_jre_usage

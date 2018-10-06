@@ -1,0 +1,148 @@
+This file contains all of my notes around the work for CHAIN and E-CHAIM.
+This will contain a work log as well as todo items that need to be tracked.
+
+* <2018-09-23 Sun>
+** Sent out the latest LJ Up[Front article :PERSONAL:
+** We are in Qikiqtarjuaq. I have completely neglected to list each day's log. The list of thing done so far is:
+*** Tower put up.
+*** Dipoles installed.
+*** Delta installed.
+*** Metal fence installed.
+*** Rack built and equipment installed.
+*** Satellite installed and configured.
+*** GPS installed.
+*** Initial cleanup inside.
+** The items left are:
+*** DONE Finish list Richard sent for computer equipment instalation steps.
+*** Bring leftovers to the dump.
+*** Finish cleanup inside and take pictures.
+*** Finish the rope part of the fencing.
+** Installed chromium on the cadi machine so that Anton and Swadesh could email data out.
+
+* <2018-09-12 Wed>
+** Sent new E-CHAIM user account info to David.
+** Blocked users Sara, Gowher and Shiva on gitlab.
+** Changed Edward and Anton so that they are no longer external in gitlab.
+** Anthony noticed that I had a typo in his auto_db script. He fixed it.
+
+* <2018-09-11 Tue>
+** Worked from home in order to let the flooring guys into the house.
+** Sent a list of the currently registered users of the E-CHAIM web site to David. There are only two.
+** Added version 1.0.1 of the C code to the web site.
+** Compiled version 1.0.1 to be used by the web app.
+** TODO Need to add logging to track username, version and date for all downloads.
+
+* <2018-09-10 Mon>
+** Entered all of my flight info into the calendar.
+** Added a software archive section on the E-CHAIM website. Also updated the version of the Matlab code.
+
+* <2018-09-07 Fri>
+** Gave the travel reimbursement form to Todd for Rankin Inlet.
+** Closed a bunch of todo items
+
+* <2018-09-06 Thu>
+** Checked the January 1 2011 date that caused problems earlier. This seems to work now.
+** Paperwork for cash advance for Qikiqtarjuaq and Sachs Harbour was sent in.
+** TODO Need to fix the SSL certs on chain-new so that we have just a single cert for both domain names.
+** DONE In the Lat-Alt contour plot, the Lat is not counting correctly. It goes forever.
+   CLOSED: [2018-09-07 Fri 12:50]
+** DONE Redo the contour plots to be just 2D view maps.
+   CLOSED: [2018-09-07 Fri 13:17]
+** DONE Change any plots that have altitudes to put the altitudes on the Y axis.
+   CLOSED: [2018-09-07 Fri 13:17]
+** DONE Remove the next prev buttons at the bottom of the E-CHAIM windows
+   CLOSED: [2018-09-07 Fri 12:44]
+** DONE Resize the plots to fit in the Y-axis label
+   CLOSED: [2018-09-07 Fri 13:18]
+*** Since these are now all 2D, the label manipulation happened automatically.
+
+* <2018-09-05 Wed>
+** Applied the command
+    git config --global http.sslVerify false
+   to my work machine.
+
+** Had to disable selinux on the compute machine.
+   #+BEGIN_SRC shell
+     sudo setenforce Permissive
+   #+END_SRC
+*** Then edited /etc/sysconfig/selinux and set "SELINUX=disabled"
+
+* <2018-09-04 Tue>
+** DONE Create a data file that generates the problem in January 1 2011 :ECHAIM:
+   CLOSED: [2018-09-06 Thu 08:27]
+*** <2018-09-06 Thu> Tried to rerun the problem date. It seems to work OK now. Maybe the new version of the ECHAIM C code fixed this issue?
+
+** DONE There is an issue with forwarding SSL connections from apache through to gitlab when using "git clone"
+   CLOSED: [2018-09-04 Tue 22:59]
+*** Changed the certificate entry in /etc/httpd/conf.d/ssl.conf to use fullchain.pem.
+    Will restart httpd tonight to see if this fixes the SSL problem.
+    This did not work. Can't find a complete solution.
+*** Just tell git not to verify the SSL certs with the command
+    git config --global http.sslVerify false
+
+** DONE Compiled a new version of echaim, using the release version. Copied the file ECHAIM.c into the lib directory, then used the following to compile: :ECHAIM:
+   CLOSED: [2018-09-04 Tue 13:32]
+   gcc -o echaim *.c -std=c99 -lm -pthread -ldl
+
+** DONE Redo the output list and file to use the same file format as that used by gnuplot. :ECHAIM:
+   CLOSED: [2018-09-06 Thu 10:33]
+
+* <2018-09-03 Mon>
+** DONE Create a cron job to pull the latest E-CHAIM DB to chain-new :ECHAIM:
+   CLOSED: [2018-09-06 Thu 14:55]
+*** The script needs to keep a date stamped version of the older DBs
+*** The files are CHAIM_DB.db and MATLAB_DB.mat in /var/www/html/joomla/echaim_downloads
+*** The new files on chain-cs1.chain-project.net
+      /home2/amccaffr/ECHAIM_DB/CHAIM_DB.db
+      /home2/amccaffr/ECHAIM_DB/CSV/MATLAB_DB.mat
+*** Edited the file /home2/ammcaffr/ECHAIM_DB/autodb.sh so that it would copy the new database files to /home/jbernard/DB
+*** Created the script db_update.sh and it is in the bin subdirectory for the root user. I copied in the private key into the .ssh subdirectory so that it can scp from jbernard@chain-cs1.chain-project.net. 
+*** Created a cron job that does the following:
+      10 7 * * * ~/bin/db_update.sh >>~/log/db_update.log 1>&2
+
+** TODO Create a start script for apache and mariadb on chain-new    :ECHAIM:
+** DONE Rdesign gnuplot script for E-CHAIM web application	     :ECHAIM:
+   CLOSED: [2018-09-03 Mon] The script below is the core functionality to generate the plots and then display them on the web application.    
+   $script = $cwd . "/" . $id . "/temp.gnuplot";
+   $pd = fopen($script, "w");
+   fwrite($pd, "set term pngcairo font ',7' size 800,600\n");
+   fwrite($pd, "set out '../images/echaim/".$id."ECHAIMOutput.png'\n");
+   fwrite($pd, "unset key\n");
+   fwrite($pd, "set contour base\n");
+   fwrite($pd, "set cntrparam bspline\n");
+   fwrite($pd, "set cntrparam levels auto 5\n");
+   fwrite($pd, "set style data lines\n");
+   fwrite($pd, "set timefmt '%Y%m%d%H%M%S'\n");
+   fwrite($pd, "set xdata time\n");
+   fwrite($pd, "set xlabel 'Date - Time'\n");
+   fwrite($pd, "set xtics 17280\n");
+   fwrite($pd, "set ylabel 'Longitude'\n");
+   if ($parameter == "NmF2") {
+      fwrite($pd, "set zlabel 'NmF2 [10^{11} m^{-3}]'\n");
+      fwrite($pd, "set title 'NmF2 [10^{11} m^{-3}] - Latitude = ".$latitude."'\n");
+      fwrite($pd, "splot 'data.dat' using 1:2:($3/1e11) palette\n");
+   } elseif ($parameter == "hmF2") {
+      fwrite($pd, "set zlabel 'height[km]'\n");
+      fwrite($pd, "set title 'hmF2 [km] - Latitude = ".$latitude."'\n");
+      fwrite($pd, "splot 'data.dat' using 1:2:3 palette\n");
+   } elseif ($parameter == "hmF1") {
+      fwrite($pd, "set zlabel 'height[km]'\n");
+      fwrite($pd, "set title 'hmF1 [km] - Latitude = ".$latitude."'\n");
+      fwrite($pd, "splot 'data.dat' using 1:2:3 palette\n");
+   }
+   fwrite($pd, "set out\n");
+   fclose($pd);
+   $dd = fopen($id."/data.dat", "w");
+   $curr_long = $longitudes[0];
+   for ($j=0; $j<$interval_count2; $j++) {
+      for ($i=0; $i<$interval_count; $i++) {
+         $data_str = $arr[$i]." ".$curr_long." ".$data_mat[$i][$j];
+         fwrite($dd, $data_str);
+      }
+      fwrite($dd, "\n");
+      $curr_long = $curr_long + $longitudes[1];
+   }
+   fclose($dd);
+   $str_cmd = "cd ".$id."; /usr/local/bin/gnuplot temp.gnuplot";
+   shell_exec($str_cmd);
+   echo "&lt;img src='https://chain-new.chain-project.net/images/echaim/".$id."ECHAIMOutput.png'&gt;";

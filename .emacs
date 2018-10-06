@@ -7,6 +7,7 @@
 (display-battery-mode t)
 (display-time-mode t)
 (size-indication-mode t)
+(global-visual-line-mode t)
 
 ; Load the package management system
 (require 'package)
@@ -32,6 +33,9 @@
 ;; Make sure org mode is loaded
 (use-package org
 	     :ensure t)
+(setq org-log-done 'time)
+(setq org-agenda-files (list "~/work.org"))
+(define-key global-map "\C-ca" 'org-agenda)
 
 ; IPython support
 (use-package ob-ipython
@@ -41,3 +45,19 @@
              ;; other languages..
               ))
 
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(column-number-mode t)
+ '(display-time-mode t)
+ '(package-selected-packages (quote (ob-ipython use-package)))
+ '(size-indication-mode t)
+ '(tool-bar-mode nil))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )
