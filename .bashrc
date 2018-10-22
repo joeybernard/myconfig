@@ -117,12 +117,10 @@ if ! shopt -oq posix; then
 fi
 
 # Config repository settings
-alias config='/usr/bin/git --git-dir=/home/jbernard/.myconfig --work-tree=/home/jbernard'
+alias config='/usr/bin/git --git-dir=$HOME/.myconfig --work-tree=$HOME'
 
 export PATH="~/scripts:$PATH"
 
 # added by Anaconda3 4.3.1 installer
-export PATH="/home/jbernard/anaconda3/bin:$PATH"
+export PATH="$HOME/anaconda3/bin:$PATH"
 
-# added by Anaconda3 installer
-export PATH="/home/jbernard/anaconda3/bin:$PATH"
