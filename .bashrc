@@ -121,6 +121,8 @@ alias config='/usr/bin/git --git-dir=$HOME/.myconfig --work-tree=$HOME'
 
 export PATH="~/scripts:$PATH"
 
+export DISPLAY=":0.0"
+
 # added by Anaconda3 4.3.1 installer
 export PATH="$HOME/anaconda3/bin:$PATH"
 
