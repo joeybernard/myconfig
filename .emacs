@@ -16,8 +16,7 @@
 ; list the repositories containing them
 (setq package-archives '(("melpa" . "https://melpa.org/packages/")
 			 ("elpa" . "http://tromey.com/elpa/")
-			 ("gnu" . "http://elpa.gnu.org/packages/")
-			 ("marmalade" . "http://marmalade-repo.org/packages/")))
+			 ("gnu" . "http://elpa.gnu.org/packages/")))
 ; activate all the packages (in particular autoloads)
 (package-initialize)
 ; fetch the list of packages available
@@ -45,6 +44,20 @@
              ;; other languages..
               ))
 
+; elpy and flycheck support
+(use-package elpy)
+(elpy-enable)
+(setq python-shell-interpreter "ipython"
+      python-shell-interpreter-args "-i --simple-prompt")
+(use-package flycheck)
+(when (require 'flycheck nil t)
+  (setq elpy-modules (delq 'elpy-module-flymake elpy-modules))
+  (add-hook 'elpy-mode-hook 'flycheck-mode))
+
+; MAGIT support
+(use-package magit)
+
+
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -52,7 +65,7 @@
  ;; If there is more than one, they won't work right.
  '(column-number-mode t)
  '(display-time-mode t)
- '(package-selected-packages (quote (ob-ipython use-package)))
+ '(package-selected-packages (quote (magit flycheck ob-ipython use-package)))
  '(size-indication-mode t)
  '(tool-bar-mode nil))
 (custom-set-faces
