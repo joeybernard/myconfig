@@ -124,3 +124,6 @@ export PATH="~/scripts:$PATH"
 # added by Anaconda3 4.3.1 installer
 export PATH="$HOME/anaconda3/bin:$PATH"
 
+# Quick display
+clear; screenfetch; fortune -a
+
