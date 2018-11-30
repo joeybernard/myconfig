@@ -124,7 +124,6 @@ export PATH="~/scripts:$PATH"
 # added by Anaconda3 4.3.1 installer
 export PATH="$HOME/anaconda3/bin:$PATH"
 
-<<<<<<< HEAD
 # added by Anaconda3 5.3.1 installer
 # >>> conda init >>>
 # !! Contents within this block are managed by 'conda init' !!
