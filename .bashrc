@@ -121,11 +121,10 @@ alias config='/usr/bin/git --git-dir=$HOME/.myconfig --work-tree=$HOME'
 
 export PATH="~/scripts:$PATH"
 
-export DISPLAY=":0.0"
-
 # added by Anaconda3 4.3.1 installer
 export PATH="$HOME/anaconda3/bin:$PATH"
 
+<<<<<<< HEAD
 # added by Anaconda3 5.3.1 installer
 # >>> conda init >>>
 # !! Contents within this block are managed by 'conda init' !!
@@ -142,3 +141,7 @@ else
 fi
 unset __conda_setup
 # <<< conda init <<<
+=======
+# Quick display
+clear; screenfetch; fortune -a
+
