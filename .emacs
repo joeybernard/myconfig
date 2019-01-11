@@ -37,23 +37,22 @@
 (define-key global-map "\C-ca" 'org-agenda)
 
 ; IPython support
-(use-package ob-ipython
-             :ensure t)
+;(use-package ob-ipython
+;             :ensure t)
 (org-babel-do-load-languages 'org-babel-load-languages
-			     '((ipython . t)
-			       (shell . t)
+			     '((shell . t)
              ;; other languages..
               ))
 
 ; elpy and flycheck support
-(use-package elpy)
-(elpy-enable)
-(setq python-shell-interpreter "ipython"
-      python-shell-interpreter-args "-i --simple-prompt")
-(use-package flycheck)
-(when (require 'flycheck nil t)
-  (setq elpy-modules (delq 'elpy-module-flymake elpy-modules))
-  (add-hook 'elpy-mode-hook 'flycheck-mode))
+;(use-package elpy)
+;(elpy-enable)
+;(setq python-shell-interpreter "ipython"
+;      python-shell-interpreter-args "-i --simple-prompt")
+;(use-package flycheck)
+;(when (require 'flycheck nil t)
+;  (setq elpy-modules (delq 'elpy-module-flymake elpy-modules))
+;  (add-hook 'elpy-mode-hook 'flycheck-mode))
 
 ; MAGIT support
 (use-package magit)
@@ -66,7 +65,7 @@
  ;; If there is more than one, they won't work right.
  '(column-number-mode t)
  '(display-time-mode t)
- '(package-selected-packages (quote (magit flycheck ob-ipython use-package)))
+ '(package-selected-packages (quote (epresent magit use-package)))
  '(size-indication-mode t)
  '(tool-bar-mode nil))
 (custom-set-faces
