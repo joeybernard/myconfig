@@ -36,24 +36,6 @@
 (setq org-agenda-files (list "~/work.org"))
 (define-key global-map "\C-ca" 'org-agenda)
 
-; IPython support
-;(use-package ob-ipython
-;             :ensure t)
-(org-babel-do-load-languages 'org-babel-load-languages
-			     '((shell . t)
-             ;; other languages..
-              ))
-
-; elpy and flycheck support
-;(use-package elpy)
-;(elpy-enable)
-;(setq python-shell-interpreter "ipython"
-;      python-shell-interpreter-args "-i --simple-prompt")
-;(use-package flycheck)
-;(when (require 'flycheck nil t)
-;  (setq elpy-modules (delq 'elpy-module-flymake elpy-modules))
-;  (add-hook 'elpy-mode-hook 'flycheck-mode))
-
 ; MAGIT support
 (use-package magit)
 
@@ -64,8 +46,13 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(column-number-mode t)
+ '(custom-enabled-themes (quote (solarized-dark)))
+ '(custom-safe-themes
+   (quote
+    ("8aebf25556399b58091e533e455dd50a6a9cba958cc4ebb0aab175863c25b9a4" default)))
  '(display-time-mode t)
  '(package-selected-packages (quote (epresent magit use-package)))
+ '(show-paren-mode t)
  '(size-indication-mode t)
  '(tool-bar-mode nil))
 (custom-set-faces
