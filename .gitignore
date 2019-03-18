@@ -104,3 +104,9 @@ win
 .face
 .face.icon
 .wbar
+.conky
+.fontconfig
+.gksu.lock
+.gtk-2.0
+.xfce4-session.verbose-log .xfce4-session.verbose-log.last
+.xfce4-session*
