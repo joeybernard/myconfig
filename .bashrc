@@ -144,3 +144,5 @@ unset __conda_setup
 # Quick display
 clear; screenfetch; fortune -a
 
+if [ $TILIX_ID ] || [ $VTE_VERSION ] ; then source /etc/profile.d/vte.sh; fi # Ubuntu Budgie END
+
