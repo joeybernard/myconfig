@@ -1,0 +1,406 @@
+<HTML>
+<HEAD>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <TITLE>RxTools</TITLE>
+  <script LANGUAGE="javascript">
+    function gotoSection()
+    {
+      var regexS = "[\\?&]section=([^&#]*)";
+      var regex = new RegExp(regexS);
+      var results = regex.exec(window.location.href);
+      var hyperlink = "";
+      if (results != null)
+      {
+        name = results[1].toLowerCase();
+        if (name == "sec:scripts-rxassistant")
+          hyperlink = "rxtoolssu97.html#x143-16700010.2.4";
+        else if (name == "sec:spectrum-plot")
+          hyperlink = "rxtoolssu28.html#x45-620002.5.16";
+        else if (name == "sec:linuxuninstall")
+          hyperlink = "rxtoolssu5.html#x10-80001.1.5";
+        else if (name == "sec:receiver-comm-pane")
+          hyperlink = "rxtoolssu31.html#x49-660002.6.1";
+        else if (name == "sec:example_reporter")
+          hyperlink = "rxtoolsse17.html#x99-1230005.3";
+        else if (name == "sec:status-sbfanalyzer")
+          hyperlink = "rxtoolssu63.html#x93-1170005.2.9";
+        else if (name == "sec:time-plots")
+          hyperlink = "rxtoolssu26.html#x42-600002.5.14";
+        else if (name == "sec:returncodes-rxupgrade")
+          hyperlink = "rxtoolssu79.html#x115-1390007.1.3";
+        else if (name == "sec:comandline-rxlogger")
+          hyperlink = "rxtoolssu76.html#x110-1340006.2.4";
+        else if (name == "sec:stats-sbfanalyzer")
+          hyperlink = "rxtoolssu65.html#x95-1190005.2.11";
+        else if (name == "ch:sbftools")
+          hyperlink = "rxtoolsch11.html#x145-16900011";
+        else if (name == "sec:rxdownload-download")
+          hyperlink = "rxtoolssu88.html#x128-1520008.2.6";
+        else if (name == "sec:launch-sbfconverter")
+          hyperlink = "rxtoolssu45.html#x71-950004.1.2";
+        else if (name == "sec:attitude-window")
+          hyperlink = "rxtoolssu21.html#x37-550002.5.9";
+        else if (name == "sec:example-rxupgrade-upgrade")
+          hyperlink = "rxtoolssu80.html#x117-1410007.2.1";
+        else if (name == "sec:connection_rec_datalink")
+          hyperlink = "rxtoolssu40.html#x64-860003.3.1";
+        else if (name == "sec:example_sbfanalyzer")
+          hyperlink = "rxtoolsse16.html#x84-1080005.2";
+        else if (name == "sec:imu-plot")
+          hyperlink = "rxtoolssu24.html#x40-580002.5.12";
+        else if (name == "sec:sbf-sbfanalyzer")
+          hyperlink = "rxtoolssu64.html#x94-1180005.2.10";
+        else if (name == "sec:example-sbfconverter-ascii")
+          hyperlink = "rxtoolssu47.html#x74-980004.2.2";
+        else if (name == "sec:planimetric-plot")
+          hyperlink = "rxtoolssu16.html#x31-480002.5.4";
+        else if (name == "sec:planiplotmainarea")
+          hyperlink = "rxtoolssu16.html#x31-490002.5.4.1";
+        else if (name == "sec:planimetricplot-menu")
+          hyperlink = "rxtoolssu16.html#x31-500002.5.4.2";
+        else if (name == "sec:compatibilitynote-rxlogger")
+          hyperlink = "rxtoolssu70.html#x103-1270006.1.1";
+        else if (name == "sec:introduction-sbfanalyzer")
+          hyperlink = "rxtoolsse15.html#x80-1040005.1";
+        else if (name == "sec:linux")
+          hyperlink = "rxtoolssu3.html#x8-60001.1.3";
+        else if (name == "sec:diffcorrinfoview")
+          hyperlink = "rxtoolssu18.html#x33-520002.5.6";
+        else if (name == "sec:launch-rxlogger")
+          hyperlink = "rxtoolssu71.html#x104-1280006.1.2";
+        else if (name == "sec:introduction-rxassistant")
+          hyperlink = "rxtoolsse26.html#x136-16000010.1";
+        else if (name == "sec:selectplots-sbfanalyzer")
+          hyperlink = "rxtoolssu55.html#x85-1090005.2.1";
+        else if (name == "sec:cmreports-sbfanalyzer")
+          hyperlink = "rxtoolssu69.html#x100-1240005.3.1";
+        else if (name == "sec:tabular-and-graphical-views")
+          hyperlink = "rxtoolsse6.html#x26-400002.5";
+        else if (name == "sec:example_datalink")
+          hyperlink = "rxtoolsse12.html#x63-850003.3";
+        else if (name == "sec:sky-sbfanalyzer")
+          hyperlink = "rxtoolssu66.html#x96-1200005.2.12";
+        else if (name == "sec:messageinspector-view")
+          hyperlink = "rxtoolssu29.html#x46-630002.5.17";
+        else if (name == "sec:gen-sbfanalyzer")
+          hyperlink = "rxtoolssu68.html#x98-1220005.2.14";
+        else if (name == "sec:nullmodem")
+          hyperlink = "rxtoolsap1.html#x157-181000A";
+        else if (name == "ch:rxupgrade")
+          hyperlink = "rxtoolsch7.html#x111-1350007";
+        else if (name == "sec:quick-guide-to")
+          hyperlink = "rxtoolssu8.html#x16-140002.2.1";
+        else if (name == "sec:rxplanner- example1")
+          hyperlink = "rxtoolssu91.html#x134-1580009.2.1";
+        else if (name == "sec:warnings-and-errors")
+          hyperlink = "rxtoolsap4.html#x168-191000D";
+        else if (name == "sec:compatibilitynote_rxdownload")
+          hyperlink = "rxtoolssu81.html#x120-1440008.1.1";
+        else if (name == "sec:expert-console")
+          hyperlink = "rxtoolsse7.html#x48-650002.6";
+        else if (name == "sec:windows")
+          hyperlink = "rxtoolssu2.html#x7-50001.1.2";
+        else if (name == "sec:tcpip-port-warnings-and-errors")
+          hyperlink = "rxtoolsse47.html#x170-193000D.2";
+        else if (name == "sec:example-sbfconverter-sbfblocks")
+          hyperlink = "rxtoolssu51.html#x78-1020004.2.6";
+        else if (name == "sec:mainwindow-menu")
+          hyperlink = "rxtoolssu12.html#x25-330002.4.3";
+        else if (name == "sec:file-menu")
+          hyperlink = "rxtoolssu12.html#x25-340002.4.3.1";
+        else if (name == "sec:view-menu-entry")
+          hyperlink = "rxtoolssu12.html#x25-350002.4.3.2";
+        else if (name == "sec:receiver-menus")
+          hyperlink = "rxtoolssu12.html#x25-360002.4.3.3";
+        else if (name == "sec:tools-menu")
+          hyperlink = "rxtoolssu12.html#x25-370002.4.3.4";
+        else if (name == "sec:logging-menu-entry")
+          hyperlink = "rxtoolssu12.html#x25-380002.4.3.5";
+        else if (name == "sec:help-menu-entry")
+          hyperlink = "rxtoolssu12.html#x25-390002.4.3.6";
+        else if (name == "sec:mercator-projection")
+          hyperlink = "rxtoolsse40.html#x161-184000B.2";
+        else if (name == "ch:rxdownload")
+          hyperlink = "rxtoolsch8.html#x118-14200010";
+        else if (name == "sec:mode-sbfanalyzer")
+          hyperlink = "rxtoolssu58.html#x88-1120005.2.4";
+        else if (name == "ch:sbfanalyzer")
+          hyperlink = "rxtoolsch5.html#x79-1030005";
+        else if (name == "ch:rxcontrol")
+          hyperlink = "rxtoolsch2.html#x11-90002";
+        else if (name == "sec:conversion-projection")
+          hyperlink = "rxtoolsap2.html#x158-182000B";
+        else if (name == "sec:introduction-rxplanner")
+          hyperlink = "rxtoolsse24.html#x130-1540009.1";
+        else if (name == "sec:example-sbfconverter")
+          hyperlink = "rxtoolsse14.html#x72-960004.2";
+        else if (name == "sec:introduction-rxupgrade")
+          hyperlink = "rxtoolsse20.html#x112-1360007.1";
+        else if (name == "sec:attmode-sbfanalyzer")
+          hyperlink = "rxtoolssu61.html#x91-1150005.2.7";
+        else if (name == "sec:nmea-sentences-pane")
+          hyperlink = "rxtoolssu33.html#x51-680002.6.3";
+        else if (name == "sec:introduction")
+          hyperlink = "rxtoolsse2.html#x12-100002.1";
+        else if (name == "sec:example-rxdownload-connection")
+          hyperlink = "rxtoolssu83.html#x123-1470008.2.1";
+        else if (name == "sec:height-sbfanalyzer")
+          hyperlink = "rxtoolssu57.html#x87-1110005.2.3";
+        else if (name == "sec:installing")
+          hyperlink = "rxtoolsse1.html#x4-30001.1";
+        else if (name == "sec:programlogging")
+          hyperlink = "rxtoolssu35.html#x54-710002.7.1";
+        else if (name == "sec:introduction-rxdownload")
+          hyperlink = "rxtoolsse22.html#x119-1430008.1";
+        else if (name == "sec:example-sbfconverter-gpx")
+          hyperlink = "rxtoolssu50.html#x77-1010004.2.5";
+        else if (name == "sec:example-rxplanner")
+          hyperlink = "rxtoolsse25.html#x133-1570009.2";
+        else if (name == "ch:rxassistant")
+          hyperlink = "rxtoolsch10.html#x135-15900010";
+        else if (name == "sec:cno-sbfanalyzer")
+          hyperlink = "rxtoolssu56.html#x86-1100005.2.2";
+        else if (name == "sec:systemrequirements")
+          hyperlink = "rxtoolssu1.html#x5-40001.1.1";
+        else if (name == "sec:connection_flepos_datalink")
+          hyperlink = "rxtoolssu42.html#x66-900003.3.3";
+        else if (name == "sec:contr-receiver")
+          hyperlink = "rxtoolssu9.html#x17-150002.2.2";
+        else if (name == "sec:channel-tables")
+          hyperlink = "rxtoolssu13.html#x27-410002.5.1";
+        else if (name == "sec:channel-tables-menu")
+          hyperlink = "rxtoolssu13.html#x27-420002.5.1.1";
+        else if (name == "sec:compatibilitynote-rxdownload")
+          hyperlink = "rxtoolssu89.html#x131-1550009.1.1";
+        else if (name == "sec:pp-rxlogger")
+          hyperlink = "rxtoolssu75.html#x109-1330006.2.3";
+        else if (name == "ch:datalink")
+          hyperlink = "rxtoolsch3.html#x57-760003";
+        else if (name == "sec:messagestatistics-view")
+          hyperlink = "rxtoolssu30.html#x47-640002.5.18";
+        else if (name == "sec:add_rec_rtk")
+          hyperlink = "rxtoolssu41.html#x65-870003.3.2";
+        else if (name == "sec:add_rec_com")
+          hyperlink = "rxtoolssu41.html#x65-880003.3.2.1";
+        else if (name == "sec:add_rec_nmea")
+          hyperlink = "rxtoolssu41.html#x65-890003.3.2.2";
+        else if (name == "sec:lbrstatus")
+          hyperlink = "rxtoolssu25.html#x41-590002.5.13";
+        else if (name == "sec:upgrading-receiver")
+          hyperlink = "rxtoolsse9.html#x56-750002.8";
+        else if (name == "sec:compatibilitynote_rxcontrol")
+          hyperlink = "rxtoolssu6.html#x13-110002.1.1";
+        else if (name == "sec:local-datum-coord")
+          hyperlink = "rxtoolsse42.html#x163-186000B.4";
+        else if (name == "ch:rxplanner")
+          hyperlink = "rxtoolsch9.html#x129-1530009";
+        else if (name == "sec:rxdownload-preferences")
+          hyperlink = "rxtoolssu84.html#x124-1480008.2.2";
+        else if (name == "sec:receiver-diagnostics-warnings-and-errors")
+          hyperlink = "rxtoolsse52.html#x175-198000D.7";
+        else if (name == "sec:panels-main-wind")
+          hyperlink = "rxtoolssu11.html#x21-190002.4.2";
+        else if (name == "sec:posit-inform-panel")
+          hyperlink = "rxtoolssu11.html#x21-200002.4.2.1";
+        else if (name == "sec:satell-stat-panel")
+          hyperlink = "rxtoolssu11.html#x21-210002.4.2.2";
+        else if (name == "sec:inform-panel")
+          hyperlink = "rxtoolssu11.html#x21-220002.4.2.3";
+        else if (name == "sec:time-info-tab")
+          hyperlink = "rxtoolssu11.html#x21-230002.4.2.3.1";
+        else if (name == "sec:rxclock-info-tab")
+          hyperlink = "rxtoolssu11.html#x21-240002.4.2.3.2";
+        else if (name == "sec:dop-info-tab")
+          hyperlink = "rxtoolssu11.html#x21-250002.4.2.3.3";
+        else if (name == "sec:pl-info-tab")
+          hyperlink = "rxtoolssu11.html#x21-260002.4.2.3.4";
+        else if (name == "sec:raim-info-tab")
+          hyperlink = "rxtoolssu11.html#x21-270002.4.2.3.5";
+        else if (name == "sec:pvt-info-tab")
+          hyperlink = "rxtoolssu11.html#x21-280002.4.2.3.6";
+        else if (name == "sec:status-info-tab")
+          hyperlink = "rxtoolssu11.html#x21-290002.4.2.3.7";
+        else if (name == "sec:integration-info-tab")
+          hyperlink = "rxtoolssu11.html#x21-300002.4.2.3.8";
+        else if (name == "sec:attitude-info-tab")
+          hyperlink = "rxtoolssu11.html#x21-310002.4.2.3.9";
+        else if (name == "sec:stat-bar")
+          hyperlink = "rxtoolssu11.html#x21-320002.4.2.4";
+        else if (name == "sec:launch-rxupgrade")
+          hyperlink = "rxtoolssu78.html#x114-1380007.1.2";
+        else if (name == "sec:statistics-plot")
+          hyperlink = "rxtoolssu17.html#x32-510002.5.5";
+        else if (name == "sec:nmea-rxassistant")
+          hyperlink = "rxtoolssu96.html#x142-16600010.2.3";
+        else if (name == "ch:introduction")
+          hyperlink = "rxtoolsch1.html#x3-20001";
+        else if (name == "sec:diffcorr-sbfanalyzer")
+          hyperlink = "rxtoolssu59.html#x89-1130005.2.5";
+        else if (name == "sec:launch-rxplanner")
+          hyperlink = "rxtoolssu90.html#x132-1560009.1.2";
+        else if (name == "sec:launch-rxassistant")
+          hyperlink = "rxtoolssu93.html#x138-16200010.1.2";
+        else if (name == "sec:returncodes-sbfanalyzer")
+          hyperlink = "rxtoolssu54.html#x83-1070005.1.3";
+        else if (name == "sec:example-rxassistant")
+          hyperlink = "rxtoolsse27.html#x139-16300010.2";
+        else if (name == "sec:launch-datalink")
+          hyperlink = "rxtoolssu38.html#x60-790003.1.2";
+        else if (name == "sec:receiverlogging")
+          hyperlink = "rxtoolssu36.html#x55-720002.7.2";
+        else if (name == "sec:internalloggingsettings")
+          hyperlink = "rxtoolssu36.html#x55-730002.7.2.1";
+        else if (name == "sec:downloadinternalfiles")
+          hyperlink = "rxtoolssu36.html#x55-740002.7.2.2";
+        else if (name == "sec:logging-warnings-and-errors")
+          hyperlink = "rxtoolsse50.html#x173-196000D.5";
+        else if (name == "sec:getting_started_rxcontrol")
+          hyperlink = "rxtoolsse3.html#x15-130002.2";
+        else if (name == "sec:datalink-getting-started")
+          hyperlink = "rxtoolsse11.html#x61-800003.2";
+        else if (name == "sec:configure-rxlogger")
+          hyperlink = "rxtoolssu74.html#x108-1320006.2.2";
+        else if (name == "ch:rxlogger")
+          hyperlink = "rxtoolsch6.html#x101-1250006";
+        else if (name == "sec:configure-rxassistant")
+          hyperlink = "rxtoolssu95.html#x141-16500010.2.2";
+        else if (name == "sec:compatibilitynote-sbfanalyzer")
+          hyperlink = "rxtoolssu52.html#x81-1050005.1.1";
+        else if (name == "sec:conversion-ellipsoid")
+          hyperlink = "rxtoolsse39.html#x159-183000B.1";
+        else if (name == "sec:imu-3d-plot")
+          hyperlink = "rxtoolssu23.html#x39-570002.5.11";
+        else if (name == "sec:example-rxlogger")
+          hyperlink = "rxtoolsse19.html#x106-1300006.2";
+        else if (name == "sec:general")
+          hyperlink = "rxtoolssu10.html#x20-180002.4.1";
+        else if (name == "sec:cpu-sbfanalyzer")
+          hyperlink = "rxtoolssu62.html#x92-1160005.2.8";
+        else if (name == "sec:rxdownload-output")
+          hyperlink = "rxtoolssu86.html#x126-1500008.2.4";
+        else if (name == "sec:serial-port-warnings-and-errors")
+          hyperlink = "rxtoolsse46.html#x169-192000D.1";
+        else if (name == "sec:carrier-to-noise")
+          hyperlink = "rxtoolssu14.html#x28-430002.5.2";
+        else if (name == "sec:carrier-to-noise-plot-menu")
+          hyperlink = "rxtoolssu14.html#x28-440002.5.2.1";
+        else if (name == "sec:connect-rxassistant")
+          hyperlink = "rxtoolssu94.html#x140-16400010.2.1";
+        else if (name == "sec:agc-table")
+          hyperlink = "rxtoolssu27.html#x44-610002.5.15";
+        else if (name == "sec:upgrade-warnings-and-errors")
+          hyperlink = "rxtoolsse51.html#x174-197000D.6";
+        else if (name == "sec:rxdownload-pp")
+          hyperlink = "rxtoolssu87.html#x127-1510008.2.5";
+        else if (name == "sec:main-window")
+          hyperlink = "rxtoolsse5.html#x19-170002.4";
+        else if (name == "sec:example-sbfconverter-rinex")
+          hyperlink = "rxtoolssu46.html#x73-970004.2.1";
+        else if (name == "ch:sbfconverter")
+          hyperlink = "rxtoolsch4.html#x68-920004";
+        else if (name == "sec:compatibilitynote-sbfconverter")
+          hyperlink = "rxtoolssu44.html#x70-940004.1.1";
+        else if (name == "sec:introduction-datalink")
+          hyperlink = "rxtoolsse10.html#x58-770003.1";
+        else if (name == "sec:compatibilitynote-datalink")
+          hyperlink = "rxtoolssu37.html#x59-780003.1.1";
+        else if (name == "sec:troubleshooting")
+          hyperlink = "rxtoolsap3.html#x164-187000C";
+        else if (name == "sec:ionospheric-plot")
+          hyperlink = "rxtoolssu19.html#x34-530002.5.7";
+        else if (name == "sec:sbf-player-warnings-and-errors")
+          hyperlink = "rxtoolsse48.html#x171-194000D.3";
+        else if (name == "sec:ntrip_script")
+          hyperlink = "rxtoolsap5.html#x176-199000E";
+        else if (name == "sec:logging")
+          hyperlink = "rxtoolsse8.html#x53-700002.7";
+        else if (name == "sec:hpr-sbfanalyzer")
+          hyperlink = "rxtoolssu60.html#x90-1140005.2.6";
+        else if (name == "sec:topoc-enu-coord")
+          hyperlink = "rxtoolsse41.html#x162-185000B.3";
+        else if (name == "sec:connect-rxlogger")
+          hyperlink = "rxtoolssu73.html#x107-1310006.2.1";
+        else if (name == "sec:introduction-rxlogger")
+          hyperlink = "rxtoolsse18.html#x102-1260006.1";
+        else if (name == "sec:auxantpos-plot")
+          hyperlink = "rxtoolssu22.html#x38-560002.5.10";
+        else if (name == "sec:events-pane")
+          hyperlink = "rxtoolssu34.html#x52-690002.6.4";
+        else if (name == "sec:connecting")
+          hyperlink = "rxtoolsse4.html#x18-160002.3";
+        else if (name == "sec:sky-plot")
+          hyperlink = "rxtoolssu15.html#x30-450002.5.3";
+        else if (name == "sec:skyplot-menu")
+          hyperlink = "rxtoolssu15.html#x30-460002.5.3.1";
+        else if (name == "sec:skyplot-toolbar")
+          hyperlink = "rxtoolssu15.html#x30-470002.5.3.2";
+        else if (name == "sec:windowsuninstall")
+          hyperlink = "rxtoolssu4.html#x9-70001.1.4";
+        else if (name == "sec:connection_manage")
+          hyperlink = "rxtoolssu43.html#x67-910003.3.4";
+        else if (name == "sec:returncodes-rxlogger")
+          hyperlink = "rxtoolssu72.html#x105-1290006.1.3";
+        else if (name == "sec:launch-rxontrol")
+          hyperlink = "rxtoolssu7.html#x14-120002.1.2";
+        else if (name == "sec:rxdownload-settings")
+          hyperlink = "rxtoolssu85.html#x125-1490008.2.3";
+        else if (name == "sec:esri-rxassistant")
+          hyperlink = "rxtoolssu98.html#x144-16800010.2.5";
+        else if (name == "sec:example-rxupgrade")
+          hyperlink = "rxtoolsse21.html#x116-1400007.2";
+        else if (name == "sec:example-rxdownload")
+          hyperlink = "rxtoolsse23.html#x122-1460008.2";
+        else if (name == "sec:ascii-pane")
+          hyperlink = "rxtoolssu32.html#x50-670002.6.2";
+        else if (name == "sec:launch-rxdownload")
+          hyperlink = "rxtoolssu82.html#x121-1450008.1.2";
+        else if (name == "sec:launch-sbfanalyzer")
+          hyperlink = "rxtoolssu53.html#x82-1060005.1.2";
+        else if (name == "sec:compatibilitynote-rxassistant")
+          hyperlink = "rxtoolssu92.html#x137-16100010.1.1";
+        else if (name == "sec:quick-guide-connect")
+          hyperlink = "rxtoolssu39.html#x62-810003.2.1";
+        else if (name == "sec:quick-guide-configure")
+          hyperlink = "rxtoolssu39.html#x62-820003.2.1.1";
+        else if (name == "sec:datalinkscripts")
+          hyperlink = "rxtoolssu39.html#x62-830003.2.1.2";
+        else if (name == "sec:datalinklogging")
+          hyperlink = "rxtoolssu39.html#x62-840003.2.1.3";
+        else if (name == "sec:plan-sbfanalyzer")
+          hyperlink = "rxtoolssu67.html#x97-1210005.2.13";
+        else if (name == "sec:example-sbfconverter-kml")
+          hyperlink = "rxtoolssu48.html#x75-990004.2.3";
+        else if (name == "sec:compatibilitynote-rxupgrade")
+          hyperlink = "rxtoolssu77.html#x113-1370007.1.1";
+        else if (name == "sec:stanford")
+          hyperlink = "rxtoolssu20.html#x35-540002.5.8";
+        else if (name == "sec:introduction-sbfconverter")
+          hyperlink = "rxtoolsse13.html#x69-930004.1";
+        else if (name == "sec:parsemessages-warnings-and-errors")
+          hyperlink = "rxtoolsse49.html#x172-195000D.4";
+
+
+        if (hyperlink != "")
+        {
+          parent.frames["mainframe"].document.location.href = hyperlink;
+        }
+      }
+    }
+  </script>
+</HEAD>
+<FRAMESET border="0" frameborder="5" framespacing="0" ROWS="10%,*" onload="gotoSection()">
+  <FRAME SRC="title.html" FRAMEBORDER="no" scrolling="no">
+  <FRAMESET border="5" frameborder="5" framespacing="0" COLS="30%,*%">
+    <FRAME SRC="toc.html" NAME="toc" FRAMEBORDER="no" scrolling="no" height="100%">
+    <FRAME SRC="rxtools.html" NAME="mainframe" FRAMEBORDER="no">
+  </FRAMESET>
+  <NOFRAMES>
+    <BODY>
+    <P>
+    This pages requires a browser that is capable of displaying frames.
+    </P>
+    </BODY>
+  </NOFRAMES>
+</FRAMESET>
+</HTML>
