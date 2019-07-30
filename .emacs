@@ -4,6 +4,11 @@
 ;; just comment it out by adding a semicolon to the start of the line.
 ;; You may delete these explanatory comments.
 (package-initialize)
+(unless (package-installed-p 'use-package)
+    (package-refresh-contents)
+      (package-install 'use-package))
+(require 'use-package)
+(setq use-package-always-ensure t)
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
@@ -14,6 +19,7 @@
  '(custom-enabled-themes (quote (deeper-blue)))
  '(display-time-mode t)
  '(font-use-system-font t)
+ '(package-selected-packages (quote (use-package ob-ipython)))
  '(size-indication-mode t))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
