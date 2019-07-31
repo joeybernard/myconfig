@@ -1,7 +1,0 @@
-#!/bin/bash
-
-PATH=/home/jbernard/RxTools/bin:$PATH
-export PATH
-QT_PLUGIN_PATH=""
-export QT_PLUGIN_PATH
-/home/jbernard/RxTools/bin/sbfconverter $@ &
