@@ -1,6 +1,0 @@
-2019/07/24-14:21:10.746 1b51 Reusing MANIFEST /home/jbernard/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2019/07/24-14:21:10.746 1b51 Recovering log #523
-2019/07/24-14:21:10.828 1b51 Reusing old log /home/jbernard/.config/chromium/Default/Sync Data/LevelDB/000523.log 
-2019/07/24-14:22:42.575 223f Level-0 table #527: started
-2019/07/24-14:22:42.636 223f Level-0 table #527: 329396 bytes OK
-2019/07/24-14:22:42.690 223f Delete type=0 #523

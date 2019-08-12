@@ -121,3 +121,4 @@ real-time
 .cargo
 data_mnt
 .rustup
+.config

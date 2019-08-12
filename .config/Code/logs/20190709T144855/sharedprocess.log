@@ -1,8 +1,0 @@
-[2019-07-09 14:48:59.864] [sharedprocess] [info] main {"machineId":"93169feeaad8a0acf7b66099f393fc980da70b10b773fa7a1da34d93ea1169a9"}
-[2019-07-09 14:49:39.872] [sharedprocess] [info] Starting to clean up unused language packs.
-[2019-07-09 14:50:32.068] [sharedprocess] [info] Installing extension: ikuyadeu.r
-[2019-07-09 14:50:32.404] [sharedprocess] [info] Downloaded extension: ikuyadeu.r /tmp/56d71568-c735-4924-9608-a024977fadeb
-[2019-07-09 14:50:32.465] [sharedprocess] [info] Extracted extension to /home/jbernard/.vscode/extensions/.ikuyadeu.r-1.1.0: ikuyadeu.r
-[2019-07-09 14:50:32.466] [sharedprocess] [info] Renamed to /home/jbernard/.vscode/extensions/ikuyadeu.r-1.1.0
-[2019-07-09 14:50:32.466] [sharedprocess] [info] Installation completed. ikuyadeu.r
-[2019-07-09 14:50:32.503] [sharedprocess] [info] Extensions installed successfully: ikuyadeu.r

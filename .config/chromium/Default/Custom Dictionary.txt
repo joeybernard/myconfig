@@ -1,7 +1,0 @@
-ACEnet
-Evan
-Moncton
-mongo
-observables
-reconfiguring
-checksum_v1 = 80c7839a655a6863a72b3483325cbcc1
