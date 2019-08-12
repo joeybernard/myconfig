@@ -1,0 +1,24 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+    "http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<!-- Do not edit manually - generated and managed by xdg-desktop-menu -->
+<Menu>
+    <Name>Applications</Name>
+<Menu>
+    <Name>3ED49BD1-0727-47E5-B774-22D25380324E-RxTools</Name>
+    <Directory>3ED49BD1-0727-47E5-B774-22D25380324E-RxTools.directory</Directory>
+    <Include>
+        <Filename>rxcontrol-program.desktop</Filename>
+        <Filename>datalink-program.desktop</Filename>
+        <Filename>rxlogger-program.desktop</Filename>
+        <Filename>rxupgrade-program.desktop</Filename>
+        <Filename>sbfconverter-program.desktop</Filename>
+        <Filename>sbfanalyzer-program.desktop</Filename>
+        <Filename>rxdownload-program.desktop</Filename>
+        <Filename>rxplanner-program.desktop</Filename>
+        <Filename>rxlauncher-program.desktop</Filename>
+        <Filename>rxassistant-program.desktop</Filename>
+        <Filename>Septentrio</Filename>
+        <Filename>RxTools-uninstall.desktop</Filename>
+    </Include>
+</Menu>
+</Menu>

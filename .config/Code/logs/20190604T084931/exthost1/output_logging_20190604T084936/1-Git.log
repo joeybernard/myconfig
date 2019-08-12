@@ -1,0 +1,181 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/jbernard/repos/Ionosonde
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Software/Driver/echo.c
+> git ls-files --stage -- Software/Driver/
+> git show :Software/Driver/echo.c
+> git ls-files --stage -- Software/Driver/
+> git show :Software/Driver/Makefile
+> git ls-files --stage -- Software/Driver/
+> git show :Software/Driver/echo.c
+> git ls-files --stage -- Software/Driver/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Software/Driver/echo.c
+> git ls-files --stage -- Software/Driver/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Software/Driver/echo.cpp
+> git ls-files --stage -- Software/Driver/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Software/Driver/Makefile
+> git ls-files --stage -- Software/Driver/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Software/Driver/echo.cpp
+> git ls-files --stage -- Software/Driver/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Software/Driver/echo.cpp
+> git ls-files --stage -- Software/Driver/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :Software/Driver/Makefile
+> git ls-files --stage -- Software/Driver/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse joeybernard
+> git rev-parse --symbolic-full-name joeybernard@{u}
+fatal: no upstream configured for branch 'joeybernard'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

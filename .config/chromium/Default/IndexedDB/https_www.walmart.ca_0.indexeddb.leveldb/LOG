@@ -1,0 +1,26 @@
+2019/07/09-13:47:43.304 23ac Reusing MANIFEST /home/jbernard/.config/chromium/Default/IndexedDB/https_www.walmart.ca_0.indexeddb.leveldb/MANIFEST-000001
+2019/07/09-13:47:43.304 23ac Recovering log #10
+2019/07/09-13:47:43.305 23ac Reusing old log /home/jbernard/.config/chromium/Default/IndexedDB/https_www.walmart.ca_0.indexeddb.leveldb/000010.log 
+2019/07/09-13:47:43.713 23bc Current memtable full; waiting...
+2019/07/09-13:47:43.714 240d Level-0 table #15: started
+2019/07/09-13:47:43.739 240d Level-0 table #15: 2294 bytes OK
+2019/07/09-13:47:43.764 240d Delete type=0 #10
+2019/07/09-13:47:43.775 240d Level-0 table #17: started
+2019/07/09-13:47:43.775 240d Level-0 table #17: 0 bytes OK
+2019/07/09-13:47:43.822 240d Delete type=0 #14
+2019/07/09-13:47:43.822 240d Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2019/07/09-13:47:43.887 23bc Current memtable full; waiting...
+2019/07/09-13:47:43.887 240d Level-0 table #19: started
+2019/07/09-13:47:43.912 240d Level-0 table #19: 329 bytes OK
+2019/07/09-13:47:43.939 240d Delete type=0 #16
+2019/07/09-13:47:43.939 240d Level-0 table #21: started
+2019/07/09-13:47:43.939 240d Level-0 table #21: 0 bytes OK
+2019/07/09-13:47:43.972 240d Delete type=0 #18
+2019/07/09-13:47:43.972 240d Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 61 : 0
+2019/07/09-13:47:43.972 240d Compacting 1@0 + 1@1 files
+2019/07/09-13:47:44.007 240d Generated table #22@0: 20 keys, 2165 bytes
+2019/07/09-13:47:44.007 240d Compacted 1@0 + 1@1 files => 2165 bytes
+2019/07/09-13:47:44.039 240d compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/07/09-13:47:44.039 240d Delete type=2 #15
+2019/07/09-13:47:44.039 240d Delete type=2 #19
+2019/07/09-13:47:44.039 240d Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 61 : 0 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

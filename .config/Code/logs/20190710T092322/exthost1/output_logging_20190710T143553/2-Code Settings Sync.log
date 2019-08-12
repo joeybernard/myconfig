@@ -1,0 +1,28 @@
+CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.3.1
+--------------------
+GitHub Token: ccf9ac85920d90b1374396df7102bdc248fbf8db
+GitHub Gist: ae2dd5c647f66bca42192c08fd024171
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+  extensions.json > extensions.json
+  settings.json > settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  better-toml v0.3.2
+  code-settings-sync v3.3.1
+  cpptools v0.24.0
+  crates v0.4.3
+  r v1.1.0
+  rust v0.6.1
+--------------------
+Done.

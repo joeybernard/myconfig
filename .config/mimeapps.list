@@ -1,0 +1,12 @@
+[Default Applications]
+x-scheme-handler/mailto=gnome-gmail.desktop
+text/html=chromium_chromium.desktop
+x-scheme-handler/http=chromium_chromium.desktop
+x-scheme-handler/https=chromium_chromium.desktop
+x-scheme-handler/about=chromium_chromium.desktop
+x-scheme-handler/unknown=chromium_chromium.desktop
+x-scheme-handler/webcal=chromium-browser.desktop
+inode/directory=nemo.desktop
+
+[Added Associations]
+x-scheme-handler/mailto=gnome-gmail.desktop;

@@ -1,0 +1,24 @@
+{
+   "content_scripts": [ {
+      "css": [ "direct_styles.css" ],
+      "js": [ "jquery-1.11.1.min.js", "direct.js" ],
+      "matches": [ "https://photos.google.com/*", "https://get.google.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Allow you to copy a direct link, with extension, from Google Photos.",
+   "icons": {
+      "128": "img/GPDL-logo-128.png",
+      "19": "img/GPDL-logo-19.png",
+      "48": "img/GPDL-logo-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgs4shAEzB0t/7g/UrtUEMu/OMviZPQuQ3YBRh7QYxKgThmoDvXLa/lvCy1l1C///AvAqIXLi6KxhUtzjWHMhWMWJFx2vJGWfNrH3VL/6FMZiEQGYZAtsM6cY5X7jq12jZF9PKZkcehj8CDrn820bIf6za9lntDThWL2bY1DVf4tqwgdrhyBOy87czYko5qX5m1fuBombKERNUP/SbmQHwYEQ2sZ0wk2Wdqw6DLseESea5jfsdHrhifkFtDW+LB+J/xaiFGc9w3v4lSU2LonjZ0JCa8KoL3Eyx09u810yecQiVQ2dCQ26ggdwh1twbpEcbJnV9Uriji+cFIyf62n9DwIDAQAB",
+   "manifest_version": 2,
+   "name": "Google Photos Direct Link",
+   "options_page": "options.html",
+   "page_action": {
+      "default_icon": "img/GPDL-logo-19.png"
+   },
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

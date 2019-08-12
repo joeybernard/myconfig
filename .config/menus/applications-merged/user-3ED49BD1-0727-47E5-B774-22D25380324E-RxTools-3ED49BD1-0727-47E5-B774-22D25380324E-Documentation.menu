@@ -1,0 +1,17 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+    "http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<!-- Do not edit manually - generated and managed by xdg-desktop-menu -->
+<Menu>
+    <Name>Applications</Name>
+<Menu>
+    <Name>3ED49BD1-0727-47E5-B774-22D25380324E-RxTools</Name>
+    <Directory>3ED49BD1-0727-47E5-B774-22D25380324E-RxTools.directory</Directory>
+<Menu>
+    <Name>3ED49BD1-0727-47E5-B774-22D25380324E-Documentation</Name>
+    <Directory>3ED49BD1-0727-47E5-B774-22D25380324E-Documentation.directory</Directory>
+    <Include>
+        <Filename>sdk_manual.desktop</Filename>
+    </Include>
+</Menu>
+</Menu>
+</Menu>

@@ -1,0 +1,59 @@
+{
+   "author": "InBasic",
+   "background": {
+      "persistent": false,
+      "scripts": [ "common.js" ]
+   },
+   "browser_action": {
+      "browser_style": true,
+      "default_popup": "data/panel/index.html",
+      "theme_icons": [ {
+         "dark": "data/icons/16.png",
+         "light": "data/icons/light/16.png",
+         "size": 16
+      }, {
+         "dark": "data/icons/32.png",
+         "light": "data/icons/light/32.png",
+         "size": 32
+      }, {
+         "dark": "data/icons/48.png",
+         "light": "data/icons/light/48.png",
+         "size": 48
+      }, {
+         "dark": "data/icons/64.png",
+         "light": "data/icons/light/64.png",
+         "size": 64
+      } ]
+   },
+   "description": "An elegant bookmark manager with fuzzy search and more",
+   "homepage_url": "http://add0n.com/bookmarks-manager.html",
+   "icons": {
+      "128": "data/icons/128.png",
+      "16": "data/icons/16.png",
+      "256": "data/icons/256.png",
+      "32": "data/icons/32.png",
+      "48": "data/icons/48.png",
+      "512": "data/icons/512.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0/ZtYccDQEETwFnQz3JsxHXrju/7u58ezm83VjzhjBC2kp0UeYg/EPWYECbcK9XkmQ9qL7rc5hJ0+dJfpyqiU+jtJZ6YrJlyGT37XlonX8QYnO/kG37aSDlEc59EC1P0CtBjMaIDvqcSo1xZI/o30CtX/co8kfIX6gprKW7ymsfUKelTF+JOmiKep+LJiCanVuOw2oiiW4Q8qUPm/sDuyJzWzpf6FaqHguwdw/TmoIwmLE92U+J1d3cmHX8K5EltNNENbJgWXFmVqz2KyVCuetW+mO445yuzY0O/oON6bvWbYs4jKY4HxVyaNu2FcA0qgRxfAw1fhrfZ3JdUxYDPWQIDAQAB",
+   "manifest_version": 2,
+   "name": "Bookmark Manager and Viewer",
+   "options_ui": {
+      "chrome_style": true,
+      "page": "data/options/index.html"
+   },
+   "permissions": [ "storage", "tabs", "bookmarks", "chrome://favicon/*", "\u003Call_urls>", "clipboardWrite", "notifications", "contextMenus" ],
+   "short_name": "bookmark-manager",
+   "sidebar_action": {
+      "default_icon": {
+         "128": "data/icons/128.png",
+         "16": "data/icons/16.png",
+         "32": "data/icons/32.png",
+         "48": "data/icons/48.png"
+      },
+      "default_panel": "data/panel/index.html?in=sidebar"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.4",
+   "web_accessible_resources": [ "favicon.ico" ]
+}

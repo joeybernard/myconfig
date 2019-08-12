@@ -1,0 +1,84 @@
+2019/07/09-13:20:43.239 9f2 Reusing MANIFEST /home/jbernard/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/07/09-13:20:43.239 9f2 Recovering log #488
+2019/07/09-13:20:45.440 9f2 Reusing old log /home/jbernard/.config/chromium/Default/Sync Data/LevelDB/000488.log 
+2019/07/09-13:21:02.580 d2b Level-0 table #492: started
+2019/07/09-13:21:02.784 d2b Level-0 table #492: 140524 bytes OK
+2019/07/09-13:21:02.926 d2b Delete type=0 #488
+2019/07/09-13:21:02.962 d2b Compacting 4@0 + 1@1 files
+2019/07/09-13:21:03.077 d2b Generated table #493@0: 4535 keys, 572661 bytes
+2019/07/09-13:21:03.077 d2b Compacted 4@0 + 1@1 files => 572661 bytes
+2019/07/09-13:21:03.151 d2b compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/07/09-13:21:03.151 d2b Delete type=2 #492
+2019/07/09-13:21:03.151 d2b Delete type=2 #483
+2019/07/09-13:21:03.151 d2b Delete type=2 #487
+2019/07/09-13:21:03.151 d2b Delete type=2 #485
+2019/07/09-13:21:03.151 d2b Delete type=2 #489
+2019/07/09-13:58:48.792 d2b Level-0 table #495: started
+2019/07/09-13:58:48.833 d2b Level-0 table #495: 132934 bytes OK
+2019/07/09-13:58:48.874 d2b Delete type=0 #491
+2019/07/09-15:30:56.989 d2b Level-0 table #497: started
+2019/07/09-15:30:57.017 d2b Level-0 table #497: 108080 bytes OK
+2019/07/09-15:30:57.047 d2b Delete type=0 #494
+2019/07/09-19:57:45.805 d2b Level-0 table #499: started
+2019/07/09-19:57:45.873 d2b Level-0 table #499: 99517 bytes OK
+2019/07/09-19:57:45.932 d2b Delete type=0 #496
+2019/07/10-07:52:33.785 d2b Level-0 table #501: started
+2019/07/10-07:52:33.823 d2b Level-0 table #501: 130831 bytes OK
+2019/07/10-07:52:33.851 d2b Delete type=0 #498
+2019/07/10-07:52:33.851 d2b Compacting 4@0 + 1@1 files
+2019/07/10-07:52:33.891 d2b Generated table #502@0: 4633 keys, 565680 bytes
+2019/07/10-07:52:33.891 d2b Compacted 4@0 + 1@1 files => 565680 bytes
+2019/07/10-07:52:33.926 d2b compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/07/10-07:52:33.926 d2b Delete type=2 #493
+2019/07/10-07:52:33.936 d2b Delete type=2 #501
+2019/07/10-07:52:33.937 d2b Delete type=2 #497
+2019/07/10-07:52:33.937 d2b Delete type=2 #499
+2019/07/10-07:52:33.937 d2b Delete type=2 #495
+2019/07/10-09:32:06.352 d2b Level-0 table #504: started
+2019/07/10-09:32:06.469 d2b Level-0 table #504: 106513 bytes OK
+2019/07/10-09:32:06.542 d2b Delete type=0 #500
+2019/07/10-10:28:31.733 d2b Level-0 table #506: started
+2019/07/10-10:28:31.764 d2b Level-0 table #506: 109866 bytes OK
+2019/07/10-10:28:31.799 d2b Delete type=0 #503
+2019/07/10-13:40:27.724 d2b Level-0 table #508: started
+2019/07/10-13:40:27.794 d2b Level-0 table #508: 109003 bytes OK
+2019/07/10-13:40:27.833 d2b Delete type=0 #505
+2019/07/10-14:33:31.369 d2b Level-0 table #510: started
+2019/07/10-14:33:31.409 d2b Level-0 table #510: 124879 bytes OK
+2019/07/10-14:33:31.456 d2b Delete type=0 #507
+2019/07/10-14:33:31.456 d2b Compacting 4@0 + 1@1 files
+2019/07/10-14:33:31.535 d2b Generated table #511@0: 4705 keys, 568115 bytes
+2019/07/10-14:33:31.535 d2b Compacted 4@0 + 1@1 files => 568115 bytes
+2019/07/10-14:33:31.565 d2b compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/07/10-14:33:31.565 d2b Delete type=2 #502
+2019/07/10-14:33:31.565 d2b Delete type=2 #506
+2019/07/10-14:33:31.565 d2b Delete type=2 #504
+2019/07/10-14:33:31.565 d2b Delete type=2 #510
+2019/07/10-14:33:31.566 d2b Delete type=2 #508
+2019/07/10-17:57:03.858 d2b Level-0 table #513: started
+2019/07/10-17:57:03.916 d2b Level-0 table #513: 120013 bytes OK
+2019/07/10-17:57:03.992 d2b Delete type=0 #509
+2019/07/10-23:32:59.576 d2b Level-0 table #515: started
+2019/07/10-23:32:59.640 d2b Level-0 table #515: 135314 bytes OK
+2019/07/10-23:32:59.687 d2b Delete type=0 #512
+2019/07/11-09:53:41.777 d2b Level-0 table #517: started
+2019/07/11-09:53:41.809 d2b Level-0 table #517: 105495 bytes OK
+2019/07/11-09:53:41.836 d2b Delete type=0 #514
+2019/07/11-12:47:23.059 d2b Level-0 table #519: started
+2019/07/11-12:47:23.116 d2b Level-0 table #519: 104929 bytes OK
+2019/07/11-12:47:23.149 d2b Delete type=0 #516
+2019/07/11-12:47:23.149 d2b Compacting 4@0 + 1@1 files
+2019/07/11-12:47:23.200 d2b Generated table #520@0: 4727 keys, 569219 bytes
+2019/07/11-12:47:23.200 d2b Compacted 4@0 + 1@1 files => 569219 bytes
+2019/07/11-12:47:23.232 d2b compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/07/11-12:47:23.232 d2b Delete type=2 #517
+2019/07/11-12:47:23.232 d2b Delete type=2 #511
+2019/07/11-12:47:23.232 d2b Delete type=2 #515
+2019/07/11-12:47:23.232 d2b Delete type=2 #513
+2019/07/11-12:47:23.232 d2b Delete type=2 #519
+2019/07/11-13:50:32.074 d2b Level-0 table #522: started
+2019/07/11-13:50:32.108 d2b Level-0 table #522: 115304 bytes OK
+2019/07/11-13:50:32.132 d2b Delete type=0 #518
+2019/07/11-14:22:05.643 d2b Level-0 table #524: started
+2019/07/11-14:22:05.678 d2b Level-0 table #524: 109257 bytes OK
+2019/07/11-14:22:05.708 d2b Delete type=0 #521

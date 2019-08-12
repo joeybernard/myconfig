@@ -1,0 +1,2 @@
+[2019-06-04 11:08:53.209] [renderer1] [error] cannot open file:///.vscode/c_cpp_properties.json. Detail: Unable to read file (Error: File not found (/.vscode/c_cpp_properties.json)): Error: cannot open file:///.vscode/c_cpp_properties.json. Detail: Unable to read file (Error: File not found (/.vscode/c_cpp_properties.json))
+    at n.then.e (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:4391:931)
