@@ -122,3 +122,4 @@ real-time
 data_mnt
 .rustup
 .config
+.env
