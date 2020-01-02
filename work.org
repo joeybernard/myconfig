@@ -1,6 +1,17 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* <2020-01-02 Thu>
+** Moved the work desktop to Cinnamon. I think this is a good mix between Gnome 3 and KDE, without too much of either one.
+** Back to work after Christmas break
+** Apparently, there are people from China downloading historical DB files for ECHAIM. Richard noticed, and had to block one particular IP address due to bandwidth issues.
+** TODO Talk to David about what to do about historical DB ECHAIM files.
+** Plymouth changes  :NOTE:
+    To change the plymouth theme, use
+        sudo update-alternatives --config default.plymouth
+    Then you can set it with the command
+        sudo update-initramfs -u
+
 * <2020-01-01 Wed>
 ** Doing a system sync                                                 :NOTE:
    mkdir .myconfig
