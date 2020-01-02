@@ -1,6 +1,21 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* <2020-01-01 Wed>
+** Doing a system sync                                                 :NOTE:
+   mkdir .myconfig
+   mkdir repos
+   echo ".myconfig" >>.gitignore
+   git clone --bare https://github.com/joeybernard/myconfig $HOME/.myconfig
+   alias config='/usr/bin/git --git-dir=$HOME/.myconfig --work-tree=$HOME'
+   config checkout
+** Cadence Licensing   :NOTE:
+   To check license on chain-new
+      cd /opt/cadence/LCU
+      ./tools.lnx86/bin/lmutil lmstat -c license.dat -a
+   To check in a locked license
+      ./tools.lnx86/bin/lmutil lmremove -c license.dat Or_CAD_Designer_Basics c3b27 FR-PHY-35484 0:0
+
 * <2018-09-23 Sun>
 ** Sent out the latest LJ Up[Front article :PERSONAL:
 ** We are in Qikiqtarjuaq. I have completely neglected to list each day's log. The list of thing done so far is:
@@ -30,7 +45,7 @@ This will contain a work log as well as todo items that need to be tracked.
 ** Sent a list of the currently registered users of the E-CHAIM web site to David. There are only two.
 ** Added version 1.0.1 of the C code to the web site.
 ** Compiled version 1.0.1 to be used by the web app.
-** TODO Need to add logging to track username, version and date for all downloads.
+** DONE Need to add logging to track username, version and date for all downloads.
 
 * <2018-09-10 Mon>
 ** Entered all of my flight info into the calendar.
@@ -43,7 +58,7 @@ This will contain a work log as well as todo items that need to be tracked.
 * <2018-09-06 Thu>
 ** Checked the January 1 2011 date that caused problems earlier. This seems to work now.
 ** Paperwork for cash advance for Qikiqtarjuaq and Sachs Harbour was sent in.
-** TODO Need to fix the SSL certs on chain-new so that we have just a single cert for both domain names.
+** DONE Need to fix the SSL certs on chain-new so that we have just a single cert for both domain names.
 ** DONE In the Lat-Alt contour plot, the Lat is not counting correctly. It goes forever.
    CLOSED: [2018-09-07 Fri 12:50]
 ** DONE Redo the contour plots to be just 2D view maps.
@@ -100,7 +115,7 @@ This will contain a work log as well as todo items that need to be tracked.
 *** Created a cron job that does the following:
       10 7 * * * ~/bin/db_update.sh >>~/log/db_update.log 1>&2
 
-** TODO Create a start script for apache and mariadb on chain-new    :ECHAIM:
+** DONE Create a start script for apache and mariadb on chain-new    :ECHAIM:
 ** DONE Rdesign gnuplot script for E-CHAIM web application	     :ECHAIM:
    CLOSED: [2018-09-03 Mon] The script below is the core functionality to generate the plots and then display them on the web application.    
    $script = $cwd . "/" . $id . "/temp.gnuplot";
