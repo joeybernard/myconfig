@@ -1,6 +1,10 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* <2020-01-03 Fri>
+** Got an email from Anthony. Apparently AACGM got updated January 1 so that the old version no longer works. Anthony is currently updating the ECHAIM software.
+** Updated the achaim globe plots to use UTC time in the plot title.
+
 * <2020-01-02 Thu>
 ** Encrypted Storage  :NOTE:
     There is an encrypted file in the storage subdirectory. You can unencrypt it with the following command
@@ -22,7 +26,7 @@ This will contain a work log as well as todo items that need to be tracked.
    mkdir .myconfig
    mkdir repos
    echo ".myconfig" >>.gitignore
-   git clone --bare https://github.com/joeybernard/myconfig $HOME/.myconfig
+   git clone --bare https://github.com/joeybernard/myconfig.git $HOME/.myconfig
    alias config='/usr/bin/git --git-dir=$HOME/.myconfig --work-tree=$HOME'
    config checkout
 ** Cadence Licensing   :NOTE:
