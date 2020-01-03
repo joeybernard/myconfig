@@ -25,8 +25,7 @@ windows
 anaconda3
 __pycache__
 repos
-.aspell.en.pws
-.aspell.en.prepl
+.aspell*
 .git-credentials
 .lesshst
 .ICEauthority
@@ -126,3 +125,8 @@ data_mnt
 Live-usb-storage
 .cinnamon
 .themes
+backups
+.emacs*
+.iscape
+.links
+.nvm
