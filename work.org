@@ -1,11 +1,21 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
-* <2020-01-03 Fri>
+* [2020-01-06 Mon]
+** Richard noticed that file expansion in bash was working weirdly. When he tried to do an ls with the range [a-f], he was also getting some upper case values. It looks like the en_US locale gives aAbBcCdDeEf as the range. In order to get abcdef as the range, need to set LC_COLLATE as either C or POSIX.
+** TODO Meet with Aaron, Anton and Shayan
+   SCHEDULED: <2020-01-08 Wed 11:30>
+** Just recompiled the C version of the echaim binary for the web site. The command used is   :NOTE:
+    gcc -o echaim *.c -std=c99 -lm -pthread -ldl -lcurl
+** Anthony notified us that the new version of the CHAIM software is now available and using the new AACGM. Need to update what is offered on the web site.
+** Richard is continuing his issue with ITS around what they are blocking/allowing through their firewall and in to our systems.
+** Richard noticed that there were 408 status codes from the chain-new web server. After searching Google, it looks like the most likely case is that the client browser is keeping an unused connection open that the browser decides to close with a 408 code.
+
+* [2020-01-03 Fri]
 ** Got an email from Anthony. Apparently AACGM got updated January 1 so that the old version no longer works. Anthony is currently updating the ECHAIM software.
 ** Updated the achaim globe plots to use UTC time in the plot title.
 
-* <2020-01-02 Thu>
+* [2020-01-02 Thu]
 ** Encrypted Storage  :NOTE:
     There is an encrypted file in the storage subdirectory. You can unencrypt it with the following command
         openssl enc -d -aes256 -in secured.tar.gz | tar xvz
@@ -21,7 +31,7 @@ This will contain a work log as well as todo items that need to be tracked.
     Then you can set it with the command
         sudo update-initramfs -u
 
-* <2020-01-01 Wed>
+* [2020-01-01 Wed]
 ** Doing a system sync                                                 :NOTE:
    mkdir .myconfig
    mkdir repos
@@ -36,7 +46,7 @@ This will contain a work log as well as todo items that need to be tracked.
    To check in a locked license
       ./tools.lnx86/bin/lmutil lmremove -c license.dat Or_CAD_Designer_Basics c3b27 FR-PHY-35484 0:0
 
-* <2018-09-23 Sun>
+* [2018-09-23 Sun]
 ** Sent out the latest LJ Up[Front article :PERSONAL:
 ** We are in Qikiqtarjuaq. I have completely neglected to list each day's log. The list of thing done so far is:
 *** Tower put up.
@@ -54,28 +64,28 @@ This will contain a work log as well as todo items that need to be tracked.
 *** Finish the rope part of the fencing.
 ** Installed chromium on the cadi machine so that Anton and Swadesh could email data out.
 
-* <2018-09-12 Wed>
+* [2018-09-12 Wed]
 ** Sent new E-CHAIM user account info to David.
 ** Blocked users Sara, Gowher and Shiva on gitlab.
 ** Changed Edward and Anton so that they are no longer external in gitlab.
 ** Anthony noticed that I had a typo in his auto_db script. He fixed it.
 
-* <2018-09-11 Tue>
+* [2018-09-11 Tue]
 ** Worked from home in order to let the flooring guys into the house.
 ** Sent a list of the currently registered users of the E-CHAIM web site to David. There are only two.
 ** Added version 1.0.1 of the C code to the web site.
 ** Compiled version 1.0.1 to be used by the web app.
 ** DONE Need to add logging to track username, version and date for all downloads.
 
-* <2018-09-10 Mon>
+* [2018-09-10 Mon]
 ** Entered all of my flight info into the calendar.
 ** Added a software archive section on the E-CHAIM website. Also updated the version of the Matlab code.
 
-* <2018-09-07 Fri>
+* [2018-09-07 Fri]
 ** Gave the travel reimbursement form to Todd for Rankin Inlet.
 ** Closed a bunch of todo items
 
-* <2018-09-06 Thu>
+* [2018-09-06 Thu]
 ** Checked the January 1 2011 date that caused problems earlier. This seems to work now.
 ** Paperwork for cash advance for Qikiqtarjuaq and Sachs Harbour was sent in.
 ** DONE Need to fix the SSL certs on chain-new so that we have just a single cert for both domain names.
@@ -91,7 +101,7 @@ This will contain a work log as well as todo items that need to be tracked.
    CLOSED: [2018-09-07 Fri 13:18]
 *** Since these are now all 2D, the label manipulation happened automatically.
 
-* <2018-09-05 Wed>
+* [2018-09-05 Wed]
 ** Applied the command
     git config --global http.sslVerify false
    to my work machine.
@@ -102,10 +112,10 @@ This will contain a work log as well as todo items that need to be tracked.
    #+END_SRC
 *** Then edited /etc/sysconfig/selinux and set "SELINUX=disabled"
 
-* <2018-09-04 Tue>
+* [2018-09-04 Tue]
 ** DONE Create a data file that generates the problem in January 1 2011 :ECHAIM:
    CLOSED: [2018-09-06 Thu 08:27]
-*** <2018-09-06 Thu> Tried to rerun the problem date. It seems to work OK now. Maybe the new version of the ECHAIM C code fixed this issue?
+*** [2018-09-06 Thu] Tried to rerun the problem date. It seems to work OK now. Maybe the new version of the ECHAIM C code fixed this issue?
 
 ** DONE There is an issue with forwarding SSL connections from apache through to gitlab when using "git clone"
    CLOSED: [2018-09-04 Tue 22:59]
@@ -122,7 +132,7 @@ This will contain a work log as well as todo items that need to be tracked.
 ** DONE Redo the output list and file to use the same file format as that used by gnuplot. :ECHAIM:
    CLOSED: [2018-09-06 Thu 10:33]
 
-* <2018-09-03 Mon>
+* [2018-09-03 Mon]
 ** DONE Create a cron job to pull the latest E-CHAIM DB to chain-new :ECHAIM:
    CLOSED: [2018-09-06 Thu 14:55]
 *** The script needs to keep a date stamped version of the older DBs

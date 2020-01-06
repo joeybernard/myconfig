@@ -1,0 +1,5 @@
+This file will be my record of work for BSC, around the motus server-side software.
+
+* [2020-01-05 Sun]
+** Worked on debugging find_tags. The next step is to run it under nemiver and single step through the entire process.
+
