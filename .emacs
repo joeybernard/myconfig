@@ -26,3 +26,24 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
+(if (display-graphic-p)
+    (progn
+     (setq initial-frame-alist
+         '(
+           (tool-bar-lines . 0)
+           (width . 120) ; chars
+           (height . 32) ; lines
+           ;(left . 50)
+           ;(top . 50)
+	   ))
+     (setq default-frame-alist
+         '(
+           (tool-bar-lines . 0)
+           (width . 120)
+           (height . 32)
+           ;(left . 50)
+           ;(top . 50)
+	   )))
+    (progn
+     (setq initial-frame-alist '( (tool-bar-lines . 0)))
+     (setq default-frame-alist '( (tool-bar-lines . 0)))))
