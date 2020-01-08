@@ -1,6 +1,24 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* [2020-01-08 Wed]
+** Added the "Rules of the Road" to the introductory pages for each section on the CHAIM web site.
+** Removed the A-CHAIM model output files from the E-CHAIM supplementary section, since it is already in the A-CHAIM section.
+** Reorganized the ISMR data files so that they are broken up by location. Now to parse out the pieces I need.
+** Filtering out the data needed for S4 analysis using
+    ls | xargs -i{} gunzip -c {} | cut -f1,2,3,5,6,8,9 -d',' >>../arc_2015_S4.csv
+where the fields are
+    1 - Week Number
+    2 - Time Of Week
+    3 - SVID
+    5 - Azimuth
+    6 - Elevation
+    8 - Total S4 on Sig1
+    9 - Correction to S4
+
+* [2020-01-07 Tue]
+** Updated Win10 partition on work hard drive.
+
 * [2020-01-06 Mon]
 ** Richard noticed that file expansion in bash was working weirdly. When he tried to do an ls with the range [a-f], he was also getting some upper case values. It looks like the en_US locale gives aAbBcCdDeEf as the range. In order to get abcdef as the range, need to set LC_COLLATE as either C or POSIX.
 ** TODO Meet with Aaron, Anton and Shayan
