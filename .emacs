@@ -47,3 +47,6 @@
     (progn
      (setq initial-frame-alist '( (tool-bar-lines . 0)))
      (setq default-frame-alist '( (tool-bar-lines . 0)))))
+
+(setq line-move-visual nil)
+

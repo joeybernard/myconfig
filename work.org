@@ -1,6 +1,18 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* [2020-01-10 Fri]
+** Weekly meeting
+   Aaron gave a talk on modeling the transmit antenna on the CADI.
+** Helping Shayan
+   Shayan had a git problem. He somehow created a file that had backslashes as part of the file name. This means that when he tried to do a checkout on a Windows box, it fails. I deleted the file in question and pushed it back up to gitlab. It now works.
+
+* [2020-01-09 Thu]
+** Made several changes to the CHAIM section of chain-new:
+*** Removed the model files from the supplementary software section, since they already existed on the A-CHAIM side.
+*** Added a "rules of the Road" section to each of the introductory sections of the CHAIM side of the web site.
+*** Created a php file to manage downloading the single model file that a client is interested in. It takes the run time, subtracts 2 hours and adds 52 minutes and downloads the file that matches that time
+
 * [2020-01-08 Wed]
 ** Added the "Rules of the Road" to the introductory pages for each section on the CHAIM web site.
 ** Removed the A-CHAIM model output files from the E-CHAIM supplementary section, since it is already in the A-CHAIM section.
@@ -21,7 +33,7 @@ where the fields are
 
 * [2020-01-06 Mon]
 ** Richard noticed that file expansion in bash was working weirdly. When he tried to do an ls with the range [a-f], he was also getting some upper case values. It looks like the en_US locale gives aAbBcCdDeEf as the range. In order to get abcdef as the range, need to set LC_COLLATE as either C or POSIX.
-** TODO Meet with Aaron, Anton and Shayan
+** DONE Meet with Aaron, Anton and Shayan
    SCHEDULED: <2020-01-08 Wed 11:30>
 ** Just recompiled the C version of the echaim binary for the web site. The command used is   :NOTE:
     gcc -o echaim *.c -std=c99 -lm -pthread -ldl -lcurl
