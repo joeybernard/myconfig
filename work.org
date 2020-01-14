@@ -1,6 +1,10 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* [2020-01-14 Tue]
+** Did a first pass on our part of the AO proposal. Still need to cut most of a page out of it.
+** Started looking for S4 jumps. Between 1/3 and 1/2 done the first pass.
+
 * [2020-01-13 Mon]
 ** Moved my github hosted blog to using Nikola. The initial post is up and running.
 ** Richard is out, not feeling well.
