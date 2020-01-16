@@ -1,6 +1,19 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* [2020-01-16 Thu]
+** Mentored Shayan and provided some direction in fixing the authentication part of the web site.
+** Finished the initial S4 analysis. Have a number of candidates to review.
+** TODO Update github
+** TODO Update php
+** TODO Update chain-new
+** TODO chain-new.physics.unb.ca doesn't seem to resolve quite correctly.
+** TODO Rescue boot for sites [0%]
+   We need a way to ensure that we can always get into the remote sites. The idea is to have a USB key that can be booted and provide access to the machine.
+*** TODO Look at Churchill as one of the oldest remote sites and use that as the base to plan for. Everything else should work more easily.
+*** TODO Create a test VM to work with.
+*** TODO Create a tinycore or MXLinux image that has all of the tools we need.
+
 * [2020-01-15 Wed]
 ** Sent in a bio and CV to Chris to be included in the AO grant proposal.
 ** Did more S$ analysis. Almost done.
