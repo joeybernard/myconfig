@@ -1,6 +1,11 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* [2020-01-21 Tue]
+** Pushed an updated version of the CHAIM Matlab package to the web site.
+** Cut down the data management plan for the GO Canada AO proposal to the 3 page maximum that we have
+** Yesterday was mostly reading
+
 * [2020-01-16 Thu]
 ** Mentored Shayan and provided some direction in fixing the authentication part of the web site.
 ** Finished the initial S4 analysis. Have a number of candidates to review.
