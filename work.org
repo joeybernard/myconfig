@@ -1,6 +1,11 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* [2020-01-23 Thu]
+** Got a basic server set up to listen for requests. Need to define the API.
+** Richard is back from being out sick.
+** Starting the RCHAIM API for making requests.
+
 * [2020-01-21 Tue]
 ** Pushed an updated version of the CHAIM Matlab package to the web site.
 ** Cut down the data management plan for the GO Canada AO proposal to the 3 page maximum that we have
