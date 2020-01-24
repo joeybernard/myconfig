@@ -1,6 +1,10 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* [2020-01-24 Fri]
+** Added some checks to the model_file.php download function to verify that the file exists and is readable.
+** Weekly meeting
+
 * [2020-01-23 Thu]
 ** Got a basic server set up to listen for requests. Need to define the API.
 ** Richard is back from being out sick.
