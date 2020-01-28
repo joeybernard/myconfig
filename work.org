@@ -1,6 +1,18 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* [2020-01-28 Tue]
+** Cleaning up getpocket list
+** Spent the morning at home
+** SSH over ADB :NOTES:
+   We can use and ADB connection over USB to SSH into an Android device.  You need to install adb with
+      sudo apt-get install adb
+   Then you can create a port forward rule
+      adb forward tcp:8022 tcp:8022
+   This forwards the local port 8022 to the port 8022 on Android. This is because SSH on termux listens on 8022 by default.
+   You can now connect using
+      ssh localhost -p 8022
+
 * [2020-01-24 Fri]
 ** Added some checks to the model_file.php download function to verify that the file exists and is readable.
 ** Weekly meeting
