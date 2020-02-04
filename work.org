@@ -1,6 +1,11 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* [2020-02-04 Tue]
+** Continued development of the R-CHAIM API
+   I added some logic that returns a list of files in the current working directory.
+   The API can now return a file from the current directory when given the filename.
+
 * [2020-01-28 Tue]
 ** Cleaning up getpocket list
 ** Spent the morning at home
