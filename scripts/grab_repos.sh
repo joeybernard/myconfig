@@ -14,6 +14,9 @@ git clone https://github.com/joeybernard/scratch.git
 git clone https://git.chain-project.net/Joey/jbernard.git
 git clone https://git.chain-project.net/RadioPhysics/GeneralInfo.git
 #git clone https://git.chain-project.net/RadioPhysics/Ionosonde.git
+git clone https://github.com/UNB-Radio-Physics/Software.git
+git clone https://github.com/UNB-Radio-Physics/Hardware.git
+git clone https://github.com/UNB-Radio-Physics/FPGA.git
 
 git clone https://github.com/MotusWTS/motusServer.git
 git clone https://github.com/MotusWTS/find_tags.git
