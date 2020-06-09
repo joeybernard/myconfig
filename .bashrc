@@ -128,3 +128,5 @@ if [ $WSLENV ]; then
 	export DISPLAY="172.18.224.1:0.0"
 fi
 
+
+eval "$(thefuck --alias)"
