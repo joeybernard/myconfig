@@ -122,7 +122,6 @@ alias config='/usr/bin/git --git-dir=$HOME/.myconfig --work-tree=$HOME'
 export PATH="~/scripts:$PATH"
 
 clear; screenfetch; fortune -a
-if [ $TILIX_ID ] || [ $VTE_VERSION ] ; then source /etc/profile.d/vte.sh; fi # Ubuntu Budgie END
 
 if [ $WSLENV ]; then
 	export DISPLAY="172.18.224.1:0.0"
