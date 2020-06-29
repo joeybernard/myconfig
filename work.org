@@ -1,6 +1,12 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* <2020-06-29 Mon>
+** TODO Moving my work notes back to an electronic version. I had been working on paper, but for work and for calendaring, I am moving back to electronic versions.
+** Working from campus. This is my second Monday.
+** TODO Need to update my work stuff and my calendar stuff when I get home.
+** TODO Update Matlab Release on the web site.
+*** Waiting for Anthony to get back about whether we need a new version number.
 * [2020-02-04 Tue]
 ** Continued development of the R-CHAIM API
    I added some logic that returns a list of files in the current working directory.
@@ -35,15 +41,15 @@ This will contain a work log as well as todo items that need to be tracked.
 * [2020-01-16 Thu]
 ** Mentored Shayan and provided some direction in fixing the authentication part of the web site.
 ** Finished the initial S4 analysis. Have a number of candidates to review.
-** TODO Update github
-** TODO Update php
-** TODO Update chain-new
-** TODO chain-new.physics.unb.ca doesn't seem to resolve quite correctly.
-** TODO Rescue boot for sites [0%]
+** DONE Update github
+** DONE Update php
+** DONE Update chain-new
+** DONE chain-new.physics.unb.ca doesn't seem to resolve quite correctly.
+** DONE Rescue boot for sites [100%]
    We need a way to ensure that we can always get into the remote sites. The idea is to have a USB key that can be booted and provide access to the machine.
-*** TODO Look at Churchill as one of the oldest remote sites and use that as the base to plan for. Everything else should work more easily.
-*** TODO Create a test VM to work with.
-*** TODO Create a tinycore or MXLinux image that has all of the tools we need.
+*** DONE Look at Churchill as one of the oldest remote sites and use that as the base to plan for. Everything else should work more easily.
+*** DONE Create a test VM to work with.
+*** DONE Create a tinycore or MXLinux image that has all of the tools we need.
 
 * [2020-01-15 Wed]
 ** Sent in a bio and CV to Chris to be included in the AO grant proposal.
@@ -57,7 +63,7 @@ This will contain a work log as well as todo items that need to be tracked.
 * [2020-01-13 Mon]
 ** Moved my github hosted blog to using Nikola. The initial post is up and running.
 ** Richard is out, not feeling well.
-** TODO Add checks into the file download php file, make it more robust.
+** DONE Add checks into the file download php file, make it more robust.
 
 * [2020-01-10 Fri]
 ** Weekly meeting
@@ -112,7 +118,7 @@ where the fields are
 ** Moved the work desktop to Cinnamon. I think this is a good mix between Gnome 3 and KDE, without too much of either one.
 ** Back to work after Christmas break
 ** Apparently, there are people from China downloading historical DB files for ECHAIM. Richard noticed, and had to block one particular IP address due to bandwidth issues.
-** TODO Talk to David about what to do about historical DB ECHAIM files.
+** DONE Talk to David about what to do about historical DB ECHAIM files.
 ** Plymouth changes  :NOTE:
     To change the plymouth theme, use
         sudo update-alternatives --config default.plymouth
