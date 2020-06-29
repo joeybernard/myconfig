@@ -126,7 +126,7 @@ Live-usb-storage
 .cinnamon
 .themes
 backups
-.emacs*
+.emacs.d
 .iscape
 .links
 .nvm
