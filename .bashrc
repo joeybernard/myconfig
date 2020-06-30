@@ -121,11 +121,12 @@ alias config='/usr/bin/git --git-dir=$HOME/.myconfig --work-tree=$HOME'
 
 export PATH="~/scripts:$PATH"
 
-clear; screenfetch; fortune -a
+clear
+#screenfetch
+fortune -a
 
-if [ $WSLENV ]; then
-	export DISPLAY="172.18.224.1:0.0"
-fi
-
+#if [ $WSLENV ]; then
+#	export DISPLAY="172.18.224.1:0.0"
+#fi
 
 eval "$(thefuck --alias)"
