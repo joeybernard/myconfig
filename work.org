@@ -1,7 +1,7 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
-* <2020-06-29 Mon>
+* [2020-06-29 Mon]
 ** TODO Add RCHAIM API restart stuff, for when the server reboots
 ** TODO Add precipitation flag to the ECHAIM pages
 ** TODO Write array version of the nrlm MSIS code
@@ -14,6 +14,7 @@ This will contain a work log as well as todo items that need to be tracked.
 ** TODO Need to update my work stuff and my calendar stuff when I get home.
 ** TODO Update Matlab Release on the web site.
 *** Waiting for Anthony to get back about whether we need a new version number.
+*** <2020-06-29 Mon> Anthony got back to me. There is a new version number tagged.
 * [2020-02-04 Tue]
 ** Continued development of the R-CHAIM API
    I added some logic that returns a list of files in the current working directory.
