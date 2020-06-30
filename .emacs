@@ -8,24 +8,26 @@
 (setq package-enable-at-startup nil)
 ;; instead load them explicitly
 (package-initialize)
+(add-to-list 'package-archives
+             '("melpa-stable" . "https://stable.melpa.org/packages/") t)
 ;; refresh package descriptions
 (unless package-archive-contents
    (package-refresh-contents))
 
 ;;; use-package initialization
 ;;; install use-package if not already done
-;(if (not (package-installed-p 'use-package))
-;    (progn
-;      (package-refresh-contents)
-;      (package-install 'use-package)))
-;;; use-package for all others
-;(require 'use-package)
+(if (not (package-installed-p 'use-package))
+    (progn
+      (package-refresh-contents)
+      (package-install 'use-package)))
+;; use-package for all others
+(require 'use-package)
 
 ;; install your packages
 ;(use-package helm
 ;  :ensure t)
-;(use-package magit
-;  :ensure t)
+(use-package magit
+  :ensure t)
 
 
 (custom-set-variables

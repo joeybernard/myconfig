@@ -2,6 +2,13 @@ This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
 * <2020-06-29 Mon>
+** TODO Add RCHAIM API restart stuff, for when the server reboots
+** TODO Add precipitation flag to the ECHAIM pages
+** TODO Write array version of the nrlm MSIS code
+** TODO Break up apache logging into separate files to make chain-new more debuggable
+** TODO Update the gitlab wiki for Anton's code
+** TODO Contain Lu Yang about back pay once the contract gets signed
+** TODO Add custom code from chain-new into gitlab
 ** TODO Moving my work notes back to an electronic version. I had been working on paper, but for work and for calendaring, I am moving back to electronic versions.
 ** Working from campus. This is my second Monday.
 ** TODO Need to update my work stuff and my calendar stuff when I get home.
