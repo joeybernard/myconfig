@@ -1,0 +1,7 @@
+[user]
+	email = druid.bernard@gmail.com
+	name = Joey Bernard
+[push]
+	default = simple
+[credential]
+	helper = store
