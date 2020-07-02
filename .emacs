@@ -30,6 +30,15 @@
   :ensure t)
 
 
+;; org-mode stuff
+(setq org-log-done 'time)
+(setq org-agenda-files (list "~/work.org" "~/bsc.org"))
+
+
+;; Initial setup stuff
+(global-visual-line-mode 1)
+
+
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -41,9 +50,7 @@
    (quote
     ("8aebf25556399b58091e533e455dd50a6a9cba958cc4ebb0aab175863c25b9a4" default)))
  '(display-time-mode t)
- '(fringe-mode 0 nil (fringe))
  '(indicate-empty-lines t)
- '(org-agenda-files (quote ("~/work.org" "~/bsc.org")))
  '(package-selected-packages (quote (celestial-mode-line)))
  '(show-paren-mode t)
  '(size-indication-mode t)
