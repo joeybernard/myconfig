@@ -1,12 +1,19 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* [2020-07-06 Mon]
+** TODO Build Linux version of the IDL NRLM MSIS code.
+** TODO Update php on chain-new
+https://linuxconfig.org/how-to-install-or-upgrade-to-php-7-on-centos-linux-server
+
+
 * [2020-07-02 Thu]
 ** Yesterday was Canada Day
 ** Morning was spent getting groceries, etc.
 ** DONE Add a validation check on the ECHAIM web app to make sure single value inputs only have a single value. Looked into this in more detail. This is not the source of the sigabrt errors.
    CLOSED: [2020-07-02 Thu 15:04]
-** TODO Look into the download issue for Shayan
+** DONE Look into the download issue for Shayan
+   CLOSED: [2020-07-06 Mon 10:37]
 // server side
 router.get("/download/:fileName", (req, res) => {
    const fileName = req.params.fileName;
@@ -21,6 +28,7 @@ const downloadMode = async (target) => {
    // console.log(res);
    // $(target).attr("href", `/modes/download/${name}`);
 };
+   I sent Shayan notes about using the pipe method. Not sure if it will work, but he can try it out.
 ** TODO Diagnose the sigabrt errors around the ECHAIM web app.
 Jul  1 04:48:06 chain-new abrt-hook-ccpp: Process 1949 (echaim) of user 48 killed by SIGABRT - dumping core
 129.241.49.189 - - [01/Jul/2020:04:48:05 -0300] "GET /index.php/2-uncategorised/2-e-chaim?option=com_content&view=article&id=6&date=201004
@@ -45,8 +53,9 @@ Jul  1 07:17:45 chain-new abrt-hook-ccpp: Process 12838 (echaim) of user 48 kill
 ** TODO Add RCHAIM API restart stuff, for when the server reboots
 ** TODO Add precipitation flag to the ECHAIM pages
 ** TODO Write array version of the nrlm MSIS code
-** TODO Break up apache logging into separate files to make chain-new more debuggable
-
+** DONE Break up apache logging into separate files to make chain-new more debuggable
+   CLOSED: [2020-07-06 Mon 09:57]
+   I sent an email to Richard telling him that I did a first pass on breaking up the logging.
 ** TODO Update the gitlab wiki for Anton's code
 ** TODO Contact Lu Yang about back pay once the contract gets signed
 ** TODO Add custom code from chain-new into gitlab
