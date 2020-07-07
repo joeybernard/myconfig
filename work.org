@@ -1,15 +1,21 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* [2020-07-07 Tue]
+** :NOTE: For IDL, use the license server lic.chain-project.net:7070
+
+
 * [2020-07-06 Mon]
 ** TODO Build Linux version of the IDL NRLM MSIS code.
 ** TODO Update php on chain-new
+   SCHEDULED: <2020-07-11 Sat>
 https://linuxconfig.org/how-to-install-or-upgrade-to-php-7-on-centos-linux-server
 
 
 * [2020-07-03 Fri]
-** TODO Talk with David and Anthony about Linux versions of the nrlm dll and mex file.
-
+** DONE Talk with David and Anthony about Linux versions of the nrlm dll and mex file.
+   CLOSED: [2020-07-07 Tue 11:15]
+   Talked to them. It turns out that there was no Linux version. Added to my todo list.
 
 * [2020-07-02 Thu]
 ** Yesterday was Canada Day
@@ -49,6 +55,8 @@ Jul  1 07:17:32 chain-new abrt-hook-ccpp: Process 12776 (echaim) of user 48 kill
 Jul  1 07:17:38 chain-new abrt-hook-ccpp: Process 12802 (echaim) of user 48 killed by SIGABRT - ignoring (repeated crash)
 Jul  1 07:17:45 chain-new abrt-hook-ccpp: Process 12838 (echaim) of user 48 killed by SIGABRT - ignoring (repeated crash)
 *** The crashes all seem to be on the electron density page, and all from the same IP address (129.241.49.189)
+*** Found that this was happening for dates earlier than 2011. Specifically, this user was trying to do runs for 2010. Sent to Anthony to verify.
+
 
 * [2020-06-30 Tue]
 ** Archived all entries previous to 2020

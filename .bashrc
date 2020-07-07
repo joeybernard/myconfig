@@ -130,3 +130,5 @@ fortune -a
 #fi
 
 eval "$(thefuck --alias)"
+if [ $TILIX_ID ] || [ $VTE_VERSION ] ; then source /etc/profile.d/vte.sh; fi # Ubuntu Budgie END
+
