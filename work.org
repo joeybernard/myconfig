@@ -7,6 +7,10 @@ This will contain a work log as well as todo items that need to be tracked.
 https://linuxconfig.org/how-to-install-or-upgrade-to-php-7-on-centos-linux-server
 
 
+* [2020-07-03 Fri]
+** TODO Talk with David and Anthony about Linux versions of the nrlm dll and mex file.
+
+
 * [2020-07-02 Thu]
 ** Yesterday was Canada Day
 ** Morning was spent getting groceries, etc.
@@ -54,7 +58,10 @@ Jul  1 07:17:45 chain-new abrt-hook-ccpp: Process 12838 (echaim) of user 48 kill
 ** TODO Add precipitation flag to the ECHAIM pages
 ** TODO Write array version of the nrlm MSIS code
 ** DONE Break up apache logging into separate files to make chain-new more debuggable
-   CLOSED: [2020-07-06 Mon 09:57]
+   CLOSED: [2020-07-03 Fri 16:15]
+*** Added the following log format strings
+LogFormat "%v %h %l %u %t %m \"%r\" %f %>s %b" vhost_common
+CustomLog "logs/filename" vhost_common
    I sent an email to Richard telling him that I did a first pass on breaking up the logging.
 ** TODO Update the gitlab wiki for Anton's code
 ** TODO Contact Lu Yang about back pay once the contract gets signed
