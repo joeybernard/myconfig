@@ -3,6 +3,7 @@ This will contain a work log as well as todo items that need to be tracked.
 
 * [2020-07-09 Thu]
 ** Had to reinstall Linux on my laptop.
+** Finished the idl nrlmsise library and sent it to Anthony and David.
 
 
 * [2020-07-07 Tue]
@@ -10,8 +11,10 @@ This will contain a work log as well as todo items that need to be tracked.
 
 
 * [2020-07-06 Mon]
-** TODO Build Linux version of the IDL NRLM MSIS code.
+** DONE Build Linux version of the IDL NRLM MSIS code.
+   CLOSED: [2020-07-09 Thu 13:28]
 *** Sent a version to Bion Larson. It seems to be working now. Alse just sent it to Anthony and David.
+*** Sent this to Anthony and David. David said to include it in the repo, so this is closed.
 ** TODO Update php on chain-new
    SCHEDULED: <2020-07-11 Sat>
 https://linuxconfig.org/how-to-install-or-upgrade-to-php-7-on-centos-linux-server
