@@ -1,12 +1,17 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* [2020-07-09 Thu]
+** Had to reinstall Linux on my laptop.
+
+
 * [2020-07-07 Tue]
 ** :NOTE: For IDL, use the license server lic.chain-project.net:7070
 
 
 * [2020-07-06 Mon]
 ** TODO Build Linux version of the IDL NRLM MSIS code.
+*** Sent a version to Bion Larson. It seems to be working now. Alse just sent it to Anthony and David.
 ** TODO Update php on chain-new
    SCHEDULED: <2020-07-11 Sat>
 https://linuxconfig.org/how-to-install-or-upgrade-to-php-7-on-centos-linux-server
