@@ -1,24 +1,24 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* [2020-07-10 Fri]
+** Moved my todo list to my planner. Too hard to track here. This will only be for notes.
+
 * [2020-07-09 Thu]
 ** Had to reinstall Linux on my laptop.
 ** Finished the idl nrlmsise library and sent it to Anthony and David.
 
-
 * [2020-07-07 Tue]
 ** :NOTE: For IDL, use the license server lic.chain-project.net:7070
-
 
 * [2020-07-06 Mon]
 ** DONE Build Linux version of the IDL NRLM MSIS code.
    CLOSED: [2020-07-09 Thu 13:28]
 *** Sent a version to Bion Larson. It seems to be working now. Alse just sent it to Anthony and David.
 *** Sent this to Anthony and David. David said to include it in the repo, so this is closed.
-** TODO Update php on chain-new
-   SCHEDULED: <2020-07-11 Sat>
+** DONE Update php on chain-new
+   CLOSED: [2020-07-10 Fri 11:17] SCHEDULED: <2020-07-11 Sat>
 https://linuxconfig.org/how-to-install-or-upgrade-to-php-7-on-centos-linux-server
-
 
 * [2020-07-03 Fri]
 ** DONE Talk with David and Anthony about Linux versions of the nrlm dll and mex file.
@@ -47,7 +47,8 @@ const downloadMode = async (target) => {
    // $(target).attr("href", `/modes/download/${name}`);
 };
    I sent Shayan notes about using the pipe method. Not sure if it will work, but he can try it out.
-** TODO Diagnose the sigabrt errors around the ECHAIM web app.
+** DONE Diagnose the sigabrt errors around the ECHAIM web app.
+   CLOSED: [2020-07-10 Fri 11:14]
 Jul  1 04:48:06 chain-new abrt-hook-ccpp: Process 1949 (echaim) of user 48 killed by SIGABRT - dumping core
 129.241.49.189 - - [01/Jul/2020:04:48:05 -0300] "GET /index.php/2-uncategorised/2-e-chaim?option=com_content&view=article&id=6&date=201004
 Jul  1 07:08:47 chain-new abrt-hook-ccpp: Process 9962 (echaim) of user 48 killed by SIGABRT - dumping core
@@ -65,23 +66,28 @@ Jul  1 07:17:45 chain-new abrt-hook-ccpp: Process 12838 (echaim) of user 48 kill
 *** The crashes all seem to be on the electron density page, and all from the same IP address (129.241.49.189)
 *** Found that this was happening for dates earlier than 2011. Specifically, this user was trying to do runs for 2010. Sent to Anthony to verify.
 
-
 * [2020-06-30 Tue]
 ** Archived all entries previous to 2020
 ** Fixed some emacs initialization stuff.
 * [2020-06-29 Mon]
-** TODO Add RCHAIM API restart stuff, for when the server reboots
-** TODO Add precipitation flag to the ECHAIM pages
-** TODO Write array version of the nrlm MSIS code
+** DONE Add RCHAIM API restart stuff, for when the server reboots
+   CLOSED: [2020-07-10 Fri 11:13]
+** DONE Add precipitation flag to the ECHAIM pages
+   CLOSED: [2020-07-10 Fri 11:12]
+** DONE Write array version of the nrlm MSIS code
+   CLOSED: [2020-07-10 Fri 11:12]
 ** DONE Break up apache logging into separate files to make chain-new more debuggable
    CLOSED: [2020-07-03 Fri 16:15]
 *** Added the following log format strings
 LogFormat "%v %h %l %u %t %m \"%r\" %f %>s %b" vhost_common
 CustomLog "logs/filename" vhost_common
    I sent an email to Richard telling him that I did a first pass on breaking up the logging.
-** TODO Update the gitlab wiki for Anton's code
-** TODO Contact Lu Yang about back pay once the contract gets signed
-** TODO Add custom code from chain-new into gitlab
+** DONE Update the gitlab wiki for Anton's code
+   CLOSED: [2020-07-10 Fri 11:11]
+** DONE Contact Lu Yang about back pay once the contract gets signed
+   CLOSED: [2020-07-10 Fri 11:11]
+** DONE Add custom code from chain-new into gitlab
+   CLOSED: [2020-07-10 Fri 11:10]
 ** DONE Moving my work notes back to an electronic version. I had been working on paper, but for work and for calendaring, I am moving back to electronic versions.
    CLOSED: [2020-06-30 Tue 10:28]
 ** Working from campus. This is my second Monday.
