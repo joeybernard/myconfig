@@ -1,6 +1,9 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* [2020-07-13 Mon]
+** Met with Peter and Shayan. We talked about doing merges. We will hold off on Peter's code until he is ready. I will continue to do test merges to catch areas that need clarification before accepting.
+
 * [2020-07-10 Fri]
 ** Moved my todo list to my planner. Too hard to track here. This will only be for notes.
 
