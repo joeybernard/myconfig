@@ -28,6 +28,8 @@
 ;  :ensure t)
 (use-package magit
   :ensure t)
+(use-package omnisharp
+  :ensure t)
 
 
 ;; org-mode stuff
