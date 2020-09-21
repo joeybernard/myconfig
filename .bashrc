@@ -119,16 +119,16 @@ fi
 # Config repository settings
 alias config='/usr/bin/git --git-dir=$HOME/.myconfig --work-tree=$HOME'
 
-export PATH="~/scripts:$PATH"
+export PATH="~/bin:~/scripts:$PATH"
 
 clear
 #screenfetch
-fortune -a
+fortune 
 
 #if [ $WSLENV ]; then
 #	export DISPLAY="172.18.224.1:0.0"
 #fi
 
 eval "$(thefuck --alias)"
-if [ $TILIX_ID ] || [ $VTE_VERSION ] ; then source /etc/profile.d/vte.sh; fi # Ubuntu Budgie END
+#if [ $TILIX_ID ] || [ $VTE_VERSION ] ; then source /etc/profile.d/vte.sh; fi # Ubuntu Budgie END
 
