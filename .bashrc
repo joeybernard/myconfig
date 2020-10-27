@@ -129,10 +129,5 @@ fortune
 #	export DISPLAY="172.18.224.1:0.0"
 #fi
 
-eval "$(thefuck --alias)"
+#eval "$(thefuck --alias)"
 #if [ $TILIX_ID ] || [ $VTE_VERSION ] ; then source /etc/profile.d/vte.sh; fi # Ubuntu Budgie END
-
-export stargate="192.168.0.17"
-export compute="192.168.0.111"
-export plex="192.168.0.12"
-
