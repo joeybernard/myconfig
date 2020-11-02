@@ -1,0 +1,252 @@
+# Infrastructure systems
+Host chain
+Host chain-data
+ForwardAgent yes
+
+Host chain-new
+Host compute
+Host chain-mirror
+Host chain-mirror2
+
+# CHAIN Routers 
+Host arc arv cbb cor gjo kug pon qik qi2 rep res
+Port 22
+User root
+CheckHostIP no
+
+# ITIs at CSA sites
+Host chu fsi fsm gil mcm rab ran sac tal
+Port 22
+User monitor
+CheckHostIP no
+
+
+# GPS systems
+
+Host arc-gps
+Port 5022
+User gps
+
+Host arv-gps
+Port 5022
+User gps
+
+Host cbb-gps
+Port 7022
+User gps
+
+Host chu-gps
+Port 60150
+User gps
+
+Host cor-gps
+Port 5022
+User gps
+
+Host edm-gps
+Port 61022
+User gps
+
+Host eur-gps
+Port 13645
+User gps
+
+Host frn-gps
+Port 5022
+User gps
+
+Host frs-gps
+Port 15022
+User gps
+
+Host fsi-gps
+Port 60150
+User gps
+
+Host fsm-gps
+Port 60150
+User gps
+
+Host gil-gps
+Port 60150
+User gps
+
+Host gjo-gps
+Port 5022
+User gps
+
+Host hal-gps
+Port 5022
+User gps
+
+Host iqa-gps
+Port 5022
+User gps
+
+Host kug-gps
+Port 5022
+User gps
+
+Host mcm-gps
+Port 60150
+User gps
+
+Host pon-gps
+Port 5022
+User gps
+
+Host qik-pdu
+Port 1022
+User root
+
+Host qik-gps
+Port 5022
+User gps
+
+Host rab-gps
+Port 60150
+User gps
+
+Host ran-gps
+Port 60150
+User gps
+
+Host rep-gps
+Port 5022
+User gps
+
+Host res-gps
+Port 5022
+User gps
+
+Host sac-gps
+Port 60150
+User gps
+
+Host san-gps
+Port 8022
+User gps
+
+Host tal-gps
+Port 60150
+User gps
+
+# Default
+Host *-gps
+User gps
+
+# CADI system
+Host cbb-cadi
+Port 6022
+CheckHostIP no
+
+Host eur-cadi
+Port 13647
+CheckHostIP no
+
+Host iqa-cadi
+Port 6022
+CheckHostIP no
+
+Host fre-cadi
+Port 6122
+User cadi
+
+Host frr-cadi
+Port 6022
+User cadi
+
+Host hal-cadi
+Port 6022
+CheckHostIP no
+
+Host ran-cadi
+Port 60153
+CheckHostIP no
+
+Host sac-cadi
+Port 60153
+CheckHostIP no
+
+Host res-cadi
+Port 6022
+CheckHostIP no
+
+Host pon-cadi
+Port 6022
+CheckHostIP no
+
+Host qik-cadi
+Port 6022
+CheckHostIP no
+
+Host *-cadi
+User cadi
+
+
+# PDU 
+Host arc-pdu
+Port 1022
+
+Host arv-pdu
+Port 1022
+
+Host cbb-pdu
+Port 1022
+
+Host cor-pdu
+Port 1022
+
+Host eur-pdu
+Port 13770
+User root
+
+Host fre-pdu
+# Not setup yet
+
+Host gjo-pdu
+Ciphers 3des-cbc
+Port 1022
+
+Host hal-pdu
+Port 1022
+
+Host iqa-pdu
+Port 1022
+
+Host pon-pdu
+Port 1022
+
+Host qik-pdu
+Port 1022
+
+Host rep-pdu
+Port 1022
+
+Host res-pdu
+Port 1022
+
+Host san-pdu
+Port 8122
+
+Host *-pdu
+User root
+
+#Host *
+#	GSSAPIAuthentication no
+# If this option is set to yes then remote X11 clients will have full access
+# to the original X11 display. As virtually no X11 client supports the untrusted
+# mode correctly we set this to yes.
+	ForwardX11Trusted yes
+# Send locale-related environment variables
+   SendEnv LANG LANGUAGE LC_CTYPE LC_NUMERIC LC_TIME LC_
+	SendEnv LC_PAPER LC_NAME LC_ADDRESS LC_TELEPHONE LC_MEASUREMENT 
+	SendEnv LC_IDENTIFICATION LC_ALL
+
+
+IdentityFile ~/.ssh/id_chain
+IdentityFile ~/.ssh/id_rsa
+
+#ControlMaster auto
+#ControlPath ~/.ssh/master-%r@%h:%p
+
