@@ -131,3 +131,7 @@ fortune
 
 #eval "$(thefuck --alias)"
 #if [ $TILIX_ID ] || [ $VTE_VERSION ] ; then source /etc/profile.d/vte.sh; fi # Ubuntu Budgie END
+
+export STARSHIP_CONFIG=~/.starship.toml
+eval "$(starship init bash)"
+
