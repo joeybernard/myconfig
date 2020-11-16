@@ -1,3 +1,14 @@
+set ssl_force_tls = yes
+set abort_nosubject = no
+set mail_check = 60
+set timeout = 10
+set sort = "reverse-date-received"
+set signature = "~/.mutt/signature"
+set copy = no
+
+set from = "druid.bernard@gmail.com"
+set realname = "Joey Bernard"
+
 # GMail configuration
 set imap_user = 'druid.bernard@gmail.com'
 set imap_pass = 'MAGIC!K99'
