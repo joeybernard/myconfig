@@ -121,7 +121,7 @@ alias config='/usr/bin/git --git-dir=$HOME/.myconfig --work-tree=$HOME'
 
 export PATH="~/bin:~/scripts:$PATH"
 
-clear
+#clear
 #screenfetch
 fortune 
 
