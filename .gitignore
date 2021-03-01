@@ -155,3 +155,4 @@ IDLWorkspace
 .synaptic
 .nuget
 bin
+.pipewire-media-session
