@@ -44,6 +44,8 @@
 ;; Initial setup stuff
 (global-visual-line-mode 1)
 
+;; Don't bother allowing the creation of backup files
+(setq make-backup-files nil)
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
