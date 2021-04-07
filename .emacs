@@ -38,8 +38,10 @@
 
 ;; org-mode stuff
 (setq org-log-done 'time)
-(setq org-agenda-files (list "~/work.org" "~/bsc.org"))
-
+(setq org-agenda-files (list "~/my_org/work.org" "~/my_org/bsc.org"))
+(global-set-key (kbd "C-c l") 'org-store-link)
+(global-set-key (kbd "C-c a") 'org-agenda)
+(global-set-key (kbd "C-c c") 'org-capture)
 
 ;; Initial setup stuff
 (global-visual-line-mode 1)
