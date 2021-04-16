@@ -42,6 +42,12 @@
 (global-set-key (kbd "C-c l") 'org-store-link)
 (global-set-key (kbd "C-c a") 'org-agenda)
 (global-set-key (kbd "C-c c") 'org-capture)
+(setq org-startup-folded nil)
+(org-babel-do-load-languages
+  'org-babel-load-languages
+  '((shell . t)
+   )
+)
 
 ;; Initial setup stuff
 (global-visual-line-mode 1)
