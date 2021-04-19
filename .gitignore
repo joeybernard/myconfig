@@ -157,3 +157,4 @@ IDLWorkspace
 bin
 .pipewire-media-session
 repo_temp
+storage/sensitive
