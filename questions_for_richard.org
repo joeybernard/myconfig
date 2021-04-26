@@ -1,0 +1,4 @@
+* Foundation servers
+** where are all of the copies of data stored
+
+* Remote machines
