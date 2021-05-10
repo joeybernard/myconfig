@@ -1,4 +1,9 @@
 * Foundation servers
 ** where are all of the copies of data stored
+** Where are we at with data server switch
+** where are we at with chain server switch
+** where are we at with openvpn
+** where are we at with cellular switch
+** where are the novatel ISMR processing scripts
 
 * Remote machines
