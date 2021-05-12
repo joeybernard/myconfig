@@ -1,7 +1,10 @@
 * Foundation servers
 ** where are all of the copies of data stored
-** what state are the data servers, what has been moved/updated
+** Where are we at with data server switch
+** where are we at with chain server switch
+** where are we at with openvpn
+** where are we at with cellular switch
+** where are the novatel ISMR processing scripts
 ** where is moving the foundation servers to a new subnet
-** where is openvpn configuration at
 
 * Remote machines
