@@ -3,9 +3,9 @@
 ;; installed packages.  Don't delete this line.  If you don't want it,
 ;; just comment it out by adding a semicolon to the start of the line.
 ;; You may delete these explanatory comments.
-;; (package-initialize)
+;;(package-initialize)
 ;; disable automatic loading of packages after the init file
-(setq package-enable-at-startup nil)
+;;(setq package-enable-at-startup nil)
 ;; instead load them explicitly
 (package-initialize)
 (add-to-list 'package-archives
@@ -30,16 +30,30 @@
   :ensure t)
 (use-package omnisharp
   :ensure t)
+(use-package tron-legacy-theme
+  :config
+  :ensure t)
 
+(load-theme 'tron-legacy t)
 
 ;; org-mode stuff
 (setq org-log-done 'time)
-(setq org-agenda-files (list "~/work.org" "~/bsc.org"))
-
+(setq org-agenda-files (list "~/my_org/work.org" "~/my_org/bsc.org"))
+(global-set-key (kbd "C-c l") 'org-store-link)
+(global-set-key (kbd "C-c a") 'org-agenda)
+(global-set-key (kbd "C-c c") 'org-capture)
+(setq org-startup-folded nil)
+(org-babel-do-load-languages
+  'org-babel-load-languages
+  '((shell . t)
+   )
+)
 
 ;; Initial setup stuff
 (global-visual-line-mode 1)
 
+;; Don't bother allowing the creation of backup files
+(setq make-backup-files nil)
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
@@ -47,10 +61,6 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(column-number-mode t)
- '(custom-enabled-themes (quote (misterioso)))
- '(custom-safe-themes
-   (quote
-    ("8aebf25556399b58091e533e455dd50a6a9cba958cc4ebb0aab175863c25b9a4" default)))
  '(display-time-mode t)
  '(font-use-system-font t)
  '(indicate-empty-lines t)
@@ -58,33 +68,12 @@
  '(show-paren-mode t)
  '(size-indication-mode t)
  '(tool-bar-mode nil))
+
+(setq line-move-visual nil)
+
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(default ((t (:family "Glass TTY VT220" :foundry "PfEd" :slant normal :weight normal :height 158 :width normal)))))
-(if (display-graphic-p)
-    (progn
-     (setq initial-frame-alist
-         '(
-           (tool-bar-lines . 0)
-           (width . 120) ; chars
-           (height . 32) ; lines
-           ;(left . 50)
-           ;(top . 50)
-	   ))
-     (setq default-frame-alist
-         '(
-           (tool-bar-lines . 0)
-           (width . 120)
-           (height . 32)
-           ;(left . 50)
-           ;(top . 50)
-	   )))
-    (progn
-     (setq initial-frame-alist '( (tool-bar-lines . 0)))
-     (setq default-frame-alist '( (tool-bar-lines . 0)))))
-
-(setq line-move-visual nil)
-
+ )

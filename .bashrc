@@ -123,7 +123,7 @@ export PATH="~/bin:~/scripts:$PATH"
 
 #clear
 #screenfetch
-fortune 
+echo; fortune ; echo
 
 #if [ $WSLENV ]; then
 #	export DISPLAY="172.18.224.1:0.0"

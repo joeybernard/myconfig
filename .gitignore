@@ -155,3 +155,6 @@ IDLWorkspace
 .synaptic
 .nuget
 bin
+.pipewire-media-session
+repo_temp
+storage/sensitive
