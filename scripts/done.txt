@@ -1,0 +1,6 @@
+x 2020-12-08 Install addons to get more out of the todo list min:1 t:2020-12-08
+x 2020-12-08 2020-12-08 A second date test
+x 2020-12-08 2020-12-08 A date test
+x 2020-12-08 2020-12-08 a due date test due:2020-12-12
+x 2020-12-08 2020-12-08 
+x 2020-12-08 2020-12-08 

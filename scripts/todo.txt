@@ -1,5 +1,0 @@
-Install addons to get more out of the todo list
-2020-12-08 A date test
-2020-12-08 A second date test
-2020-12-08 a due date test due:2020-12-12
-2020-12-08 
