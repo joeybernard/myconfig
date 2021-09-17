@@ -64,7 +64,7 @@
  '(display-time-mode t)
  '(font-use-system-font t)
  '(indicate-empty-lines t)
- '(package-selected-packages (quote (celestial-mode-line)))
+ '(package-selected-packages '(celestial-mode-line))
  '(show-paren-mode t)
  '(size-indication-mode t)
  '(tool-bar-mode nil))
