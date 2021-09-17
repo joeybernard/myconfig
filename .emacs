@@ -28,8 +28,8 @@
 ;  :ensure t)
 (use-package magit
   :ensure t)
-(use-package omnisharp
-  :ensure t)
+;(use-package omnisharp
+;  :ensure t)
 (use-package tron-legacy-theme
   :config
   :ensure t)
@@ -62,9 +62,9 @@
  ;; If there is more than one, they won't work right.
  '(column-number-mode t)
  '(display-time-mode t)
- '(font-use-system-font t)
+;; '(font-use-system-font t)
  '(indicate-empty-lines t)
- '(package-selected-packages '(celestial-mode-line))
+;; '(package-selected-packages (quote (celestial-mode-line)))
  '(show-paren-mode t)
  '(size-indication-mode t)
  '(tool-bar-mode nil))
