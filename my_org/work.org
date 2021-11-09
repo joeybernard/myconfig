@@ -1,223 +1,64 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
-* [2021-03-29 Mon]
-** All weekend Richard and I worked on an issue that first showed up in FTP on chain. Finally figured out that the issue is actually with directories that are NFS mounted from chain-mirror. Richard is going to look into it more tomorrow.
-** Catching up on all my open issues.
-* [2020-07-13 Mon]
-** Met with Peter and Shayan. We talked about doing merges. We will hold off on Peter's code until he is ready. I will continue to do test merges to catch areas that need clarification before accepting.
+* [2021-11-09 Tue]
+** David mentioned that the HTTP forwards for the chaim sites isn't working. Created issue https://github.com/UNB-Radio-Physics/sysops/issues/478
+** Told Richard about how to manage resolv.conf through adding entries to dhcpcd.conf on Raspbian
+** While talking to Nick, discovered an issue on the CHAIM web app where putting a single zero in the time box causes an error. Need to include as a check on the form https://github.com/UNB-Radio-Physics/sysops/issues/479
+** Torsten is done, so I shutdown gitlab on chain-new again
+** I fixed the CHAIM HTTP forwards. The rest of his comment will need to wait until we get a domain certificate for all of our sites.
 
-* [2020-07-10 Fri]
-** Moved my todo list to my planner. Too hard to track here. This will only be for notes.
+* [2021-11-08 Mon]
+** Asked ITS to make changes to the firewall rules
+*** Add daw
+*** Remove bli, cbb, iqa and kug
+** Responded to Nathan at NRCan. They lost data connection because of a network outage on Saturday. Everything is good again.
+** Started up gitlab on chain-new and created an account for Torsten. Sent him an email to let him know.
 
-* [2020-07-09 Thu]
-** Had to reinstall Linux on my laptop.
-** Finished the idl nrlmsise library and sent it to Anthony and David.
+* [2021-10-25 Mon]
+** Spent the day figuring out some stuff around files for the modis hwif
 
-* [2020-07-07 Tue]
-** :NOTE: For IDL, use the license server lic.chain-project.net:7070
+* [2021-10-21 Thu]
 
-* [2020-07-06 Mon]
-** DONE Build Linux version of the IDL NRLM MSIS code.
-   CLOSED: [2020-07-09 Thu 13:28]
-*** Sent a version to Bion Larson. It seems to be working now. Alse just sent it to Anthony and David.
-*** Sent this to Anthony and David. David said to include it in the repo, so this is closed.
-** DONE Update php on chain-new
-   CLOSED: [2020-07-10 Fri 11:17] SCHEDULED: <2020-07-11 Sat>
-https://linuxconfig.org/how-to-install-or-upgrade-to-php-7-on-centos-linux-server
 
-* [2020-07-03 Fri]
-** DONE Talk with David and Anthony about Linux versions of the nrlm dll and mex file.
-   CLOSED: [2020-07-07 Tue 11:15]
-   Talked to them. It turns out that there was no Linux version. Added to my todo list.
+* [2021-10-20 Wed]
+** Richard setup blissville data collection on chain-data2
+** I got a script from Anton to generate ionogram images. It is setup on chain-data2 and is now working.
 
-* [2020-07-02 Thu]
-** Yesterday was Canada Day
-** Morning was spent getting groceries, etc.
-** DONE Add a validation check on the ECHAIM web app to make sure single value inputs only have a single value. Looked into this in more detail. This is not the source of the sigabrt errors.
-   CLOSED: [2020-07-02 Thu 15:04]
-** DONE Look into the download issue for Shayan
-   CLOSED: [2020-07-06 Mon 10:37]
-// server side
-router.get("/download/:fileName", (req, res) => {
-   const fileName = req.params.fileName;
-   res.download(`./userSettings/${fileName}.json`);
-});
-// client side
-const downloadMode = async (target) => {
-   const row = $(target).closest("tr");
-   const name = row.find("td:lt(2)").text().trim();
-   // send GET request to the server with the given name
-   await axios(`/modes/download/${name}`);
-   // console.log(res);
-   // $(target).attr("href", `/modes/download/${name}`);
-};
-   I sent Shayan notes about using the pipe method. Not sure if it will work, but he can try it out.
-** DONE Diagnose the sigabrt errors around the ECHAIM web app.
-   CLOSED: [2020-07-10 Fri 11:14]
-Jul  1 04:48:06 chain-new abrt-hook-ccpp: Process 1949 (echaim) of user 48 killed by SIGABRT - dumping core
-129.241.49.189 - - [01/Jul/2020:04:48:05 -0300] "GET /index.php/2-uncategorised/2-e-chaim?option=com_content&view=article&id=6&date=201004
-Jul  1 07:08:47 chain-new abrt-hook-ccpp: Process 9962 (echaim) of user 48 killed by SIGABRT - dumping core
-129.241.49.189 - - [01/Jul/2020:07:08:47 -0300] "GET /index.php/2-uncategorised/2-e-chaim?option=com_content&view=article&id=6&date=201004
-Jul  1 07:10:03 chain-new abrt-hook-ccpp: Process 10392 (echaim) of user 48 killed by SIGABRT - dumping core
-Jul  1 07:10:19 chain-new abrt-hook-ccpp: Process 10450 (echaim) of user 48 killed by SIGABRT - ignoring (repeated crash)
-Jul  1 07:10:33 chain-new abrt-hook-ccpp: Process 10512 (echaim) of user 48 killed by SIGABRT - dumping core
-Jul  1 07:10:54 chain-new abrt-hook-ccpp: Process 10673 (echaim) of user 48 killed by SIGABRT - dumping core
-Jul  1 07:16:47 chain-new abrt-hook-ccpp: Process 12500 (echaim) of user 48 killed by SIGABRT - dumping core
-Jul  1 07:16:58 chain-new abrt-hook-ccpp: Process 12637 (echaim) of user 48 killed by SIGABRT - ignoring (repeated crash)
-Jul  1 07:17:27 chain-new abrt-hook-ccpp: Process 12750 (echaim) of user 48 killed by SIGABRT - dumping core
-Jul  1 07:17:32 chain-new abrt-hook-ccpp: Process 12776 (echaim) of user 48 killed by SIGABRT - ignoring (repeated crash)
-Jul  1 07:17:38 chain-new abrt-hook-ccpp: Process 12802 (echaim) of user 48 killed by SIGABRT - ignoring (repeated crash)
-Jul  1 07:17:45 chain-new abrt-hook-ccpp: Process 12838 (echaim) of user 48 killed by SIGABRT - ignoring (repeated crash)
-*** The crashes all seem to be on the electron density page, and all from the same IP address (129.241.49.189)
-*** Found that this was happening for dates earlier than 2011. Specifically, this user was trying to do runs for 2010. Sent to Anthony to verify.
+* [2021-10-19 Tue]
+** Changed the firewall rules on chain-cs1 to allow all incoming traffic from chain-new over the backend network. This fixed an issue where the CHAIM DB files were not being updated.
+** David had an issue with certs on his install of matlab. Sent him some links that might fix it.
+** Aliaa had issues getting IDL to work on her mac. It was because she needed Java 1.6 installed. This required a workaround to get Java to install.
 
-* [2020-06-30 Tue]
-** Archived all entries previous to 2020
-** Fixed some emacs initialization stuff.
-* [2020-06-29 Mon]
-** DONE Add RCHAIM API restart stuff, for when the server reboots
-   CLOSED: [2020-07-10 Fri 11:13]
-** DONE Add precipitation flag to the ECHAIM pages
-   CLOSED: [2020-07-10 Fri 11:12]
-** DONE Write array version of the nrlm MSIS code
-   CLOSED: [2020-07-10 Fri 11:12]
-** DONE Break up apache logging into separate files to make chain-new more debuggable
-   CLOSED: [2020-07-03 Fri 16:15]
-*** Added the following log format strings
-LogFormat "%v %h %l %u %t %m \"%r\" %f %>s %b" vhost_common
-CustomLog "logs/filename" vhost_common
-   I sent an email to Richard telling him that I did a first pass on breaking up the logging.
-** DONE Update the gitlab wiki for Anton's code
-   CLOSED: [2020-07-10 Fri 11:11]
-** DONE Contact Lu Yang about back pay once the contract gets signed
-   CLOSED: [2020-07-10 Fri 11:11]
-** DONE Add custom code from chain-new into gitlab
-   CLOSED: [2020-07-10 Fri 11:10]
-** DONE Moving my work notes back to an electronic version. I had been working on paper, but for work and for calendaring, I am moving back to electronic versions.
-   CLOSED: [2020-06-30 Tue 10:28]
-** Working from campus. This is my second Monday.
-** DONE Need to update my work stuff and my calendar stuff when I get home.
-   CLOSED: [2020-06-30 Tue 10:28]
-** DONE Update Matlab Release on the web site.
-   CLOSED: [2020-06-30 Tue 13:42]
-*** Waiting for Anthony to get back about whether we need a new version number.
-*** <2020-06-29 Mon> Anthony got back to me. There is a new version number tagged.
-* [2020-02-04 Tue]
-** Continued development of the R-CHAIM API
-   I added some logic that returns a list of files in the current working directory.
-   The API can now return a file from the current directory when given the filename.
+* [2021-10-18 Mon]
+** Updated the DNS and removed references to remote sites that have been moved over to cell communications
+** Changed the TTL for anything pointing to chain-new in the DNS
+** Installed a newer matlab on chain-new. Needed to ask ITS to allow connections to the matlab license server
+** Torsten came to me to talk about Anton potentially messing up github repo history. It looks like he was developing stuff directly on testing. Torsten is going to talk to him about working on feature branches.
+** I gave Nick sudo access on chain-data to collect crontab entries
+** ITS just came back and said the firewall changes had been made. I just tested it and everything seems to work fine now for matlab on chain-new.
 
-* [2020-01-28 Tue]
-** Cleaning up getpocket list
-** Spent the morning at home
-** SSH over ADB :NOTES:
-   We can use and ADB connection over USB to SSH into an Android device.  You need to install adb with
-      sudo apt-get install adb
-   Then you can create a port forward rule
-      adb forward tcp:8022 tcp:8022
-   This forwards the local port 8022 to the port 8022 on Android. This is because SSH on termux listens on 8022 by default.
-   You can now connect using
-      ssh localhost -p 8022
+* [2021-09-29 Wed]
+** ITS fixed the routing between chain-data2 and smtp.unb.ca so that it works again.
+** ITS fixed the routing from chain-cs1 to the outside world. Making the change now.
+** Removed the following from the DNS server: chain-cs.chain-project.net, compute.chain-project.net, compute2.chain-project.net
+** Removed the following from the DNS server: chain-gw, fre-cadi, fre, frn-gps, frs-gps, pi-sensor
 
-* [2020-01-24 Fri]
-** Added some checks to the model_file.php download function to verify that the file exists and is readable.
-** Weekly meeting
+* [2021-09-28 Tue]
+** Changed the firewall for chain-dns to allow ssh access from any 131.202.0.0 address.
+** Verified that chain-data.int.unb.ca allows ssh access from any 131.202.0.0 address.
+** Changed the logwatch config on chain-cs1 so that it will now email the output.
+** Sent an email to ITS about chain-cs1 not being able to access the internet.
+** Opened a new	ITS ticket for chain-data2 to get access to smtp.unb.ca.
 
-* [2020-01-23 Thu]
-** Got a basic server set up to listen for requests. Need to define the API.
-** Richard is back from being out sick.
-** Starting the RCHAIM API for making requests.
+* [2021-09-27 Mon]
+** Edited the MIB files on chain-new in /usr/local/share/snmp/mibs. These files all defined the same module, and re-used several items further down the tree. They now use slightly different names, so no longer collide.
 
-* [2020-01-21 Tue]
-** Pushed an updated version of the CHAIM Matlab package to the web site.
-** Cut down the data management plan for the GO Canada AO proposal to the 3 page maximum that we have
-** Yesterday was mostly reading
+* [2021-09-23 Thu]
+** The morning was mostly just getting caught up.
+** Richard made a change on chain-data routing that broke comms to chipman. We just quickly changed it back for now.
 
-* [2020-01-16 Thu]
-** Mentored Shayan and provided some direction in fixing the authentication part of the web site.
-** Finished the initial S4 analysis. Have a number of candidates to review.
-** DONE Update github
-** DONE Update php
-** DONE Update chain-new
-** DONE chain-new.physics.unb.ca doesn't seem to resolve quite correctly.
-** DONE Rescue boot for sites [100%]
-   We need a way to ensure that we can always get into the remote sites. The idea is to have a USB key that can be booted and provide access to the machine.
-*** DONE Look at Churchill as one of the oldest remote sites and use that as the base to plan for. Everything else should work more easily.
-*** DONE Create a test VM to work with.
-*** DONE Create a tinycore or MXLinux image that has all of the tools we need.
 
-* [2020-01-15 Wed]
-** Sent in a bio and CV to Chris to be included in the AO grant proposal.
-** Did more S$ analysis. Almost done.
-
-* [2020-01-14 Tue]
-** Did a first pass on our part of the AO proposal. Still need to cut most of a page out of it.
-** Started looking for S4 jumps. Between 1/3 and 1/2 done the first pass.
-** Talked to Abdelhaq about the plasma physics class. I will still attend, but not for credit.
-
-* [2020-01-13 Mon]
-** Moved my github hosted blog to using Nikola. The initial post is up and running.
-** Richard is out, not feeling well.
-** DONE Add checks into the file download php file, make it more robust.
-
-* [2020-01-10 Fri]
-** Weekly meeting
-   Aaron gave a talk on modeling the transmit antenna on the CADI.
-** Helping Shayan
-   Shayan had a git problem. He somehow created a file that had backslashes as part of the file name. This means that when he tried to do a checkout on a Windows box, it fails. I deleted the file in question and pushed it back up to gitlab. It now works.
-
-* [2020-01-09 Thu]
-** Made several changes to the CHAIM section of chain-new:
-*** Removed the model files from the supplementary software section, since they already existed on the A-CHAIM side.
-*** Added a "rules of the Road" section to each of the introductory sections of the CHAIM side of the web site.
-*** Created a php file to manage downloading the single model file that a client is interested in. It takes the run time, subtracts 2 hours and adds 52 minutes and downloads the file that matches that time
-
-* [2020-01-08 Wed]
-** Added the "Rules of the Road" to the introductory pages for each section on the CHAIM web site.
-** Removed the A-CHAIM model output files from the E-CHAIM supplementary section, since it is already in the A-CHAIM section.
-** Reorganized the ISMR data files so that they are broken up by location. Now to parse out the pieces I need.
-** Filtering out the data needed for S4 analysis using
-    ls | xargs -i{} gunzip -c {} | cut -f1,2,3,5,6,8,9 -d',' >>../arc_2015_S4.csv
-where the fields are
-    1 - Week Number
-    2 - Time Of Week
-    3 - SVID
-    5 - Azimuth
-    6 - Elevation
-    8 - Total S4 on Sig1
-    9 - Correction to S4
-
-* [2020-01-07 Tue]
-** Updated Win10 partition on work hard drive.
-
-* [2020-01-06 Mon]
-** Richard noticed that file expansion in bash was working weirdly. When he tried to do an ls with the range [a-f], he was also getting some upper case values. It looks like the en_US locale gives aAbBcCdDeEf as the range. In order to get abcdef as the range, need to set LC_COLLATE as either C or POSIX.
-** DONE Meet with Aaron, Anton and Shayan
-   SCHEDULED: <2020-01-08 Wed 11:30>
-** Just recompiled the C version of the echaim binary for the web site. The command used is   :NOTE:
-    gcc -o echaim *.c -std=c99 -lm -pthread -ldl -lcurl
-** Anthony notified us that the new version of the CHAIM software is now available and using the new AACGM. Need to update what is offered on the web site.
-** Richard is continuing his issue with ITS around what they are blocking/allowing through their firewall and in to our systems.
-** Richard noticed that there were 408 status codes from the chain-new web server. After searching Google, it looks like the most likely case is that the client browser is keeping an unused connection open that the browser decides to close with a 408 code.
-
-* [2020-01-03 Fri]
-** Got an email from Anthony. Apparently AACGM got updated January 1 so that the old version no longer works. Anthony is currently updating the ECHAIM software.
-** Updated the achaim globe plots to use UTC time in the plot title.
-
-* [2020-01-02 Thu]
-** Encrypted Storage  :NOTE:
-    There is an encrypted file in the storage subdirectory. You can unencrypt it with the following command
-        openssl enc -d -aes256 -in secured.tar.gz | tar xvz
-    If you have to reencrypt, you can use the following command
-        tar czf - * | openssl enc -e -aes256 -out secured.tar.gz
-** Moved the work desktop to Cinnamon. I think this is a good mix between Gnome 3 and KDE, without too much of either one.
-** Back to work after Christmas break
-** Apparently, there are people from China downloading historical DB files for ECHAIM. Richard noticed, and had to block one particular IP address due to bandwidth issues.
-** DONE Talk to David about what to do about historical DB ECHAIM files.
-** Plymouth changes  :NOTE:
-    To change the plymouth theme, use
-        sudo update-alternatives --config default.plymouth
-    Then you can set it with the command
-        sudo update-initramfs -u
-
+* [2021-09-22 Wed]
+** Today is very busy day. Lots of going in and out.
+** Richard is working on CBB, getting the cellular modem installed, etc.
