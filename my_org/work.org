@@ -1,6 +1,10 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* [2021-11-10 Wed]
+** Updated the plot ionogram matlab script on chain-data2 for Anton
+** IQA had a power outage. Trimble was saying that they lost data connection. Richard looked at it and found that we have been sending data since the power came back up. He responded to Trimble.
+
 * [2021-11-09 Tue]
 ** David mentioned that the HTTP forwards for the chaim sites isn't working. Created issue https://github.com/UNB-Radio-Physics/sysops/issues/478
 ** Told Richard about how to manage resolv.conf through adding entries to dhcpcd.conf on Raspbian
