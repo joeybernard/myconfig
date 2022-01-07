@@ -6,5 +6,6 @@
 ** where are we at with cellular switch
 ** where are the novatel ISMR processing scripts
 ** where is moving the foundation servers to a new subnet
+** gluster move
 
 * Remote machines

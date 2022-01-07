@@ -159,3 +159,5 @@ bin
 repo_temp
 storage/sensitive
 .purple
+.links2
+.pylint.d
