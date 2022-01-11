@@ -1,5 +1,7 @@
 # Initial software installation
-sudo apt-get install git glances fortune-mod fortunes fortunes-bofh-excuses fortunes-off
+sudo apt-get install git 
+sudo apt install glances 
+sudo apt install fortune-mod fortunes fortunes-bofh-excuses fortunes-off
 
 # nikola software
 sudo apt-get install python3-pip

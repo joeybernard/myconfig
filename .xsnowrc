@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsnow_flags>
-  <below>0</below>
-  <blowofffactor>100</blowofffactor>
-  <cpuload>100</cpuload>
-  <desired_number_of_trees>6</desired_number_of_trees>
-  <exposures>1</exposures>
-  <flakecountmax>10000</flakecountmax>
-  <fullscreen>1</fullscreen>
-  <KDEbg>0</KDEbg>
-  <maxontrees>200</maxontrees>
+  <AllWorkspaces>1</AllWorkspaces>
+  <BlowOffFactor>40</BlowOffFactor>
+  <CpuLoad>100</CpuLoad>
+  <Transparency>0</Transparency>
+  <DesiredNumberOfTrees>6</DesiredNumberOfTrees>
+  <Exposures>-42</Exposures>
+  <FlakeCountMax>300</FlakeCountMax>
+  <FullScreen>0</FullScreen>
+  <MaxOnTrees>200</MaxOnTrees>
   <MaxScrSnowDepth>50</MaxScrSnowDepth>
-  <MaxWinSnowDepth>61</MaxWinSnowDepth>
+  <MaxWinSnowDepth>30</MaxWinSnowDepth>
   <NoBlowSnow>1</NoBlowSnow>
   <NoFluffy>0</NoFluffy>
   <NoKeepSBot>0</NoKeepSBot>
@@ -23,25 +23,40 @@
   <NoSnowFlakes>0</NoSnowFlakes>
   <NoTrees>0</NoTrees>
   <NoWind>0</NoWind>
-  <nstars>0</nstars>
-  <offset_s>0</offset_s>
-  <offset_w>-8</offset_w>
-  <offset_x>4</offset_x>
-  <offset_y>0</offset_y>
-  <quiet>1</quiet>
+  <NStars>0</NStars>
+  <OffsetS>0</OffsetS>
+  <OffsetW>-8</OffsetW>
+  <OffsetX>4</OffsetX>
+  <OffsetY>0</OffsetY>
   <SantaSize>2</SantaSize>
   <SantaSpeedFactor>100</SantaSpeedFactor>
-  <showstats>0</showstats>
-  <snowflakesfactor>15</snowflakesfactor>
+  <SnowFlakesFactor>15</SnowFlakesFactor>
+  <SnowSize>8</SnowSize>
   <SnowSpeedFactor>100</SnowSpeedFactor>
-  <treefill>30</treefill>
-  <usealpha>1</usealpha>
-  <usebg>0</usebg>
+  <TreeFill>30</TreeFill>
+  <UseBG>0</UseBG>
+  <WantWindow>0</WantWindow>
   <WhirlFactor>100</WhirlFactor>
   <WindTimer>30</WindTimer>
-  <bgcolor>#000000</bgcolor>
-  <display_name/>
-  <snowColor>#fffafa</snowColor>
-  <trColor>chartreuse</trColor>
+  <BGColor>#000000</BGColor>
+  <DisplayName/>
+  <SnowColor>snow</SnowColor>
+  <TreeColor>chartreuse</TreeColor>
   <TreeType>0,</TreeType>
+  <Anarchy>50</Anarchy>
+  <AttrFactor>100</AttrFactor>
+  <BirdsOnly>0</BirdsOnly>
+  <BirdsRestart>0</BirdsRestart>
+  <BirdsScale>100</BirdsScale>
+  <BirdsSpeed>100</BirdsSpeed>
+  <DisWeight>20</DisWeight>
+  <FollowWeight>30</FollowWeight>
+  <FollowSanta>1</FollowSanta>
+  <Nbirds>70</Nbirds>
+  <Neighbours>7</Neighbours>
+  <PrefDistance>20</PrefDistance>
+  <ShowAttrPoint>0</ShowAttrPoint>
+  <ShowBirds>0</ShowBirds>
+  <ViewingDistance>40</ViewingDistance>
+  <BirdsColor>#361A07</BirdsColor>
 </xsnow_flags>
