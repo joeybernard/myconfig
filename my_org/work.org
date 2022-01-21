@@ -1,6 +1,12 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* [2021-11-29 Mon]
+** Got caught up with emails, etc
+** Continued work on the FPGA dashboard
+** Sent a note to Jonathan about using a new drop for chain-new
+
+
 * [2021-11-10 Wed]
 ** Updated the plot ionogram matlab script on chain-data2 for Anton
 ** IQA had a power outage. Trimble was saying that they lost data connection. Richard looked at it and found that we have been sending data since the power came back up. He responded to Trimble.

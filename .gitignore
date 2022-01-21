@@ -162,3 +162,5 @@ storage/sensitive
 .links2
 .pylint.d
 resharper
+.sommelierrc
+.templateengine
