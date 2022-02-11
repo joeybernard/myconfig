@@ -1,0 +1,39 @@
+{
+    "Type": "UnencryptedConfiguration",
+    "Certificates": [
+        {
+            "GUID": "{5e94c97c-2d7e-09e5-2e06-7ff561889551}",
+            "Remove": false,
+            "Type": "Authority",
+            "X509": "MIIFBzCCAu+gAwIBAgIQHWX5zOoVMp9Er\/retgmnWzANBgkqhkiG9w0BAQsFADAWMRQwEgYDVQQDEwtVTkIgUm9vdCBDQTAeFw0xNzA1MDkxNjA5MzJaFw0zNzA1MDkxNjE5MzBaMBYxFDASBgNVBAMTC1VOQiBSb290IENBMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAlogzjXiGtHz4PwFMxC75I7ar5vSrvFrNCkpQmaD09svc5bjQ81BNyvVBv6\/fYINuDYukBs6rO+M77ZSCNHTzZXcseRqxPgcpvL+y0oedzV4Sh+bD+xRlOQD+f23jC6ShVmerNeCUHbkXj284kJ2FZlTnJdBpbzlkYb+2e6R2IEdEDITE0gkdJGSyqbtObcjbl2iMpBnQRbuRZcEAYRzYiE\/pTcp19iWaG8vLad0obCIqdgIgouFE2bTe7MiycFoqY6g2dLUg2mgcz0\/iZ4DkUts7eCl+u+xDoG57M3W+j5A6eXiOiXRgXkMfNXBN1d0r7\/GxGF3X2lOLriJ0FFk1DKkjwr68s3Nw5mVhmEJ0POC+mGV01y9UGkEqAlqL336RbmesxSJy97tuXCBxeOUVRk6LeYARMT\/lo+UP+I8RlTgMM9BHtNBes6jv9\/JlcJHA2VzaYFjmpr9uE+SrrNc34svmq1Br6MK16p9QW5TmHDndRpEReSz\/+noSwPYSuJIDGxpEH72ntAr7qImC2lIF1BFFOGk5\/OcPiiZjnDoy62GCLhyEQZq9Lv92OtWmncno8tfpjniGBP1hr6SGEyau9yEc\/WVSxiK8LQbX5T237RL6rfU5KrQ+lMyj9uQsP\/FcqGoAGDfQQawU2U0o7dkxq+fSVVHyjRnyKLHwXhxcGtkCAwEAAaNRME8wCwYDVR0PBAQDAgGGMA8GA1UdEwEB\/wQFMAMBAf8wHQYDVR0OBBYEFKlvFp2fs5Itzb2qhtjpW5BE9tBZMBAGCSsGAQQBgjcVAQQDAgEAMA0GCSqGSIb3DQEBCwUAA4ICAQBmawzHKjvjBn2atfO2waKBM020zzsI334o0c1A+Va1gMMxqCQLmN+2tpiBxicul18B3hfP91Lp0wcIGxV5AWBpsl2QDSOiDvUj2SyhvqqIU7vZHLne2k48yLNRtEjP+l4JQKfAXC4XfnHQ2hMjfcCYdI3j99fh0l6vrogYmJYkb230HUy+hGo8tboTtEym7uBIHvSjSpaqiy5VAhjcrFUqvQLry8G7Uk93zmDw7AdxdvWw85o3gVNXorYSyaNn34FQKaIGSC91VTiSqufyGVINsvYtaxhyYjlEpNGXW1zZMuVHmElgUU16SseBMwiIS1vKrDOqhV0zSqDcpxRHgY61DQ9po+nJqfIEL44+NCgpnDxc8kFNP8\/r3aR8HBj8\/w6Qb\/3nScXe\/92mAC0QbtuDGDEQnAB+yw64jT8XpQMX\/oGgwBUU4tubwPmsySkRLiR3c03BZMwdghN9RwO8brVKi76F642a9uvZboEA9WLDDMv5Aj\/4RmUN5V8jmNAwlsVwYODJyA3xrmI1Mm1QfoqpcwpottLwNCdRiechOAnLvgXWeWkpNL\/3Bnze\/cO2RVXMPBhqVufkdjpEYZNvS\/Q3wD3luPCt+Fn6EXY+LeT+BYBbah3AfWMxJtc94IMj9Y4adLCyeAiijLaaHfM2MB3XP+5s3RSM4ypzLWBwPlT3Aw=="
+        }
+    ],
+    "NetworkConfigurations": [
+        {
+            "GUID": "07bd992d-0d9f-f537-cbd0-d9af02a3c86a",
+            "Name": "eduroam",
+            "Remove": false,
+            "Type": "WiFi",
+            "WiFi": {
+                "AutoConnect": true,
+                "EAP": {
+                    "Outer": "PEAP",
+                    "Inner": "MSCHAPv2",
+                    "SaveCredentials": true,
+                    "ServerCARefs": [
+                        "{5e94c97c-2d7e-09e5-2e06-7ff561889551}"
+                    ],
+                    "UseSystemCAs": false,
+                    "SubjectMatch": "wireless.unb.ca",
+                    "AnonymousIdentity": "anonymous@unb.ca"
+                },
+                "HiddenSSID": false,
+                "SSID": "eduroam",
+                "Security": "WPA-EAP"
+            },
+            "ProxySettings": {
+                "Type": "WPAD"
+            }
+        }
+    ]
+}
