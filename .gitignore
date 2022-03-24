@@ -164,3 +164,6 @@ storage/sensitive
 resharper
 .sommelierrc
 .templateengine
+.icons
+Documents
+.fonts.conf
