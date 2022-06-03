@@ -5,6 +5,6 @@ for repo in `ls -d ~/repos/*`; do
     echo "==============="
     echo "git status in "
     pwd
-    git status
+    git status -s
 done
 cd $curr_dir
