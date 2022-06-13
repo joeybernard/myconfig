@@ -119,7 +119,7 @@ fi
 # Config repository settings
 alias config='/usr/bin/git --git-dir=$HOME/.myconfig --work-tree=$HOME'
 
-export PATH="~/.local/bin:~/bin:~/scripts:$PATH"
+export PATH="~/.local/bin:~/bin:~/scripts:~/bin/Zotero_linux-x86_64:$PATH"
 
 #clear
 #screenfetch
