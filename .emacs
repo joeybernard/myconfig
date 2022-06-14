@@ -1,4 +1,3 @@
-
 ;; Added by Package.el.  This must come before configurations of
 ;; installed packages.  Don't delete this line.  If you don't want it,
 ;; just comment it out by adding a semicolon to the start of the line.
@@ -9,7 +8,7 @@
 ;; instead load them explicitly
 (package-initialize)
 (add-to-list 'package-archives
-             '("melpa-stable" . "https://stable.melpa.org/packages/") t)
+	     '("melpa" . "https://melpa.org/packages/") t)
 ;; refresh package descriptions
 (unless package-archive-contents
    (package-refresh-contents))
@@ -33,6 +32,36 @@
 (use-package tron-legacy-theme
   :config
   :ensure t)
+(use-package org-roam
+  :ensure t
+  :after org
+  :custom
+    (org-roam-directory (file-truename "~/repos/org-roam"))
+  :config
+    (org-roam-setup)
+    (org-roam-db-autosync-mode)
+  :bind (("C-c n f" . org-roam-node-find)
+         ("C-c n i" . org-roam-node-insert)
+         ("C-c n r" . org-roam-node-random)
+         (:map org-mode-map
+           ("C-c n i" . org-roam-node-insert)
+           ("C-c n o" . org-id-get-create)
+           ("C-c n t" . org-roam-tag-add)
+           ("C-c n a" . org-roam-alias-add)
+           ("C-c n l" . org-roam-buffer-toggle))))
+
+(use-package org-roam-ui
+  :ensure t
+    :after org-roam ;; or :after org
+;;         normally we'd recommend hooking orui after org-roam, but since org-roam does not have
+;;         a hookable mode anymore, you're advised to pick something yourself
+;;         if you don't care about startup time, use
+;;  :hook (after-init . org-roam-ui-mode)
+    :config
+    (setq org-roam-ui-sync-theme t
+	  org-roam-ui-follow t
+	  org-roam-ui-update-on-save t
+	  org-roam-ui-open-on-start t))
 
 (load-theme 'tron-legacy t)
 
@@ -79,4 +108,3 @@
 
 ;; Cleanup whitespace on save
 (add-hook 'before-save-hook 'whitespace-cleanup)
-
