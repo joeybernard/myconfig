@@ -135,3 +135,8 @@ echo; fortune ; echo
 #export STARSHIP_CONFIG=~/.starship.toml
 #eval "$(starship init bash)"
 
+
+#MODIS Environment
+export MODISROOT=/home/jbernard/opt/modis_env
+export PATH=$PATH:$MODISROOT
+export PATH=$PATH:$MODISROOT/bin
