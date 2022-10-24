@@ -15,12 +15,12 @@ git clone https://github.com/joeybernard/til.git
 #git clone https://git.chain-project.net/Joey/jbernard.git
 #git clone https://git.chain-project.net/RadioPhysics/GeneralInfo.git
 #git clone https://git.chain-project.net/RadioPhysics/Ionosonde.git
-git clone https://github.com/UNB-Radio-Physics/modis_frontend.git
-git clone https://github.com/UNB-Radio-Physics/modis_pcb.git
-git clone https://github.com/UNB-Radio-Physics/modis_fpga.git
+#git clone https://github.com/UNB-Radio-Physics/modis_frontend.git
+#git clone https://github.com/UNB-Radio-Physics/modis_pcb.git
+#git clone https://github.com/UNB-Radio-Physics/modis_fpga.git
 git clone https://github.com/UNB-Radio-Physics/modis_devop.git
 git clone https://github.com/UNB-Radio-Physics/modis_library.git
-git clone https://github.com/UNB-Radio-Physics/modis_backend.git
+#git clone https://github.com/UNB-Radio-Physics/modis_backend.git
 git clone https://github.com/UNB-Radio-Physics/sysops.git
 
 git clone https://github.com/MotusWTS/motusServer.git
