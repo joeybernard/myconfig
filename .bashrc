@@ -140,3 +140,5 @@ echo; fortune ; echo
 export MODISROOT=/home/jbernard/opt/modis_env
 export PATH=$PATH:$MODISROOT
 export PATH=$PATH:$MODISROOT/bin
+
+export GH_TOKEN="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"
