@@ -111,3 +111,5 @@
 
 ;; Set indent levels for C/C++
 (setq c-basic-offset 4)
+
+(add-to-list 'auto-mode-alist '("\\.ipp\\'" . c-mode))
