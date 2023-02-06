@@ -113,3 +113,8 @@
 (setq c-basic-offset 4)
 
 (add-to-list 'auto-mode-alist '("\\.ipp\\'" . c-mode))
+
+;; keep clock history across sessions
+(setq org-clock-persist 'history)
+(org-clock-persistence-insinuate)
+

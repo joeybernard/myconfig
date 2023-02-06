@@ -3,11 +3,16 @@ This will contain a work log as well as todo items that need to be tracked.
 
 * [2023-02-06 Mon]
 ** TODO MODIS code development
+   :PROPERTIES:
+   :ORDERED:  t
+   :END:
    :LOGBOOK:
-   CLOCK: [2023-02-06 Mon 11:01]
+   CLOCK: [2023-02-06 Mon 11:01]--[2023-02-06 Mon 13:30] =>  2:29
    :END:
 ** TODO Go add a new drive to chain-mirror
-
+   :LOGBOOK:
+   CLOCK: [2023-02-06 Mon 13:42]--[2023-02-06 Mon 13:52] =>  0:10
+   :END:
 
 * [2021-11-29 Mon]
 ** Got caught up with emails, etc
