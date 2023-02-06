@@ -1,6 +1,14 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
+* [2023-02-06 Mon]
+** TODO MODIS code development
+   :LOGBOOK:
+   CLOCK: [2023-02-06 Mon 11:01]
+   :END:
+** TODO Go add a new drive to chain-mirror
+
+
 * [2021-11-29 Mon]
 ** Got caught up with emails, etc
 ** Continued work on the FPGA dashboard
