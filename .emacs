@@ -77,6 +77,11 @@
   '((shell . t)
    )
 )
+;; keep clock history across sessions
+(require 'org-clock)
+(setq org-clock-persist t)
+(org-clock-persistence-insinuate)
+
 
 ;; Initial setup stuff
 (global-visual-line-mode 1)
@@ -113,8 +118,4 @@
 (setq c-basic-offset 4)
 
 (add-to-list 'auto-mode-alist '("\\.ipp\\'" . c-mode))
-
-;; keep clock history across sessions
-(setq org-clock-persist 'history)
-(org-clock-persistence-insinuate)
 

@@ -1,18 +1,45 @@
 This file contains all of my notes around the work for CHAIN and E-CHAIM.
 This will contain a work log as well as todo items that need to be tracked.
 
-* [2023-02-06 Mon]
-** TODO MODIS code development
-   :PROPERTIES:
-   :ORDERED:  t
-   :END:
+* [2023-02-07 Tue]
+** Emails and planning
    :LOGBOOK:
+   CLOCK: [2023-02-07 Tue 08:00]--[2023-02-07 Tue 08:56] =>  0:56
+   :END:
+
+** TODO MODIS code development
+   :LOGBOOK:
+   CLOCK: [2023-02-07 Tue 09:15]--[2023-02-07 Tue 11:30] =>  2:15
    CLOCK: [2023-02-06 Mon 11:01]--[2023-02-06 Mon 13:30] =>  2:29
    :END:
-** TODO Go add a new drive to chain-mirror
+
+** DONE Turning off gitlab
+   CLOSED: [2023-02-07 Tue 09:07]
    :LOGBOOK:
-   CLOCK: [2023-02-06 Mon 13:42]--[2023-02-06 Mon 13:52] =>  0:10
+   CLOCK: [2023-02-07 Tue 08:45]--[2023-02-07 Tue 09:07] =>  0:22
    :END:
+   Done with the command
+   #+BEGIN_SRC sh
+   sudo systemctl stop gitlab-runsvdir
+   sudo systemctl disable gitlab-runsvdir
+   #+END_SRC
+
+
+
+** Helped Sadig with a data download problem. It looks like the server from NASA is the having problems. When I get to ~3-4 GB, I get an error in the bytes being served. I used the following command:
+#+BEGIN_SRC bash
+wget "https://pds-ppi.igpp.ucla.edu/ditdos/write?id=pds://PPI/maven.mag.calibrated/data/ss/highres/2021/12/mvn_mag_l2_2021364ss_20211230_v01_r01&f=csv"
+#+END_SRC
+
+
+* [2023-02-06 Mon]
+** DONE Go add a new drive to chain-mirror
+   CLOSED: [2023-02-07 Tue 08:57]
+   :LOGBOOK:
+   CLOCK: [2023-02-06 Mon 13:42]--[2023-02-06 Mon 14:00] =>  0:18
+   :END:
+
+
 
 * [2021-11-29 Mon]
 ** Got caught up with emails, etc
@@ -24,6 +51,7 @@ This will contain a work log as well as todo items that need to be tracked.
 ** Updated the plot ionogram matlab script on chain-data2 for Anton
 ** IQA had a power outage. Trimble was saying that they lost data connection. Richard looked at it and found that we have been sending data since the power came back up. He responded to Trimble.
 
+
 * [2021-11-09 Tue]
 ** David mentioned that the HTTP forwards for the chaim sites isn't working. Created issue https://github.com/UNB-Radio-Physics/sysops/issues/478
 ** Told Richard about how to manage resolv.conf through adding entries to dhcpcd.conf on Raspbian
@@ -31,57 +59,10 @@ This will contain a work log as well as todo items that need to be tracked.
 ** Torsten is done, so I shutdown gitlab on chain-new again
 ** I fixed the CHAIM HTTP forwards. The rest of his comment will need to wait until we get a domain certificate for all of our sites.
 
+
 * [2021-11-08 Mon]
 ** Asked ITS to make changes to the firewall rules
 *** Add daw
 *** Remove bli, cbb, iqa and kug
 ** Responded to Nathan at NRCan. They lost data connection because of a network outage on Saturday. Everything is good again.
 ** Started up gitlab on chain-new and created an account for Torsten. Sent him an email to let him know.
-
-* [2021-10-25 Mon]
-** Spent the day figuring out some stuff around files for the modis hwif
-
-* [2021-10-21 Thu]
-
-
-* [2021-10-20 Wed]
-** Richard setup blissville data collection on chain-data2
-** I got a script from Anton to generate ionogram images. It is setup on chain-data2 and is now working.
-
-* [2021-10-19 Tue]
-** Changed the firewall rules on chain-cs1 to allow all incoming traffic from chain-new over the backend network. This fixed an issue where the CHAIM DB files were not being updated.
-** David had an issue with certs on his install of matlab. Sent him some links that might fix it.
-** Aliaa had issues getting IDL to work on her mac. It was because she needed Java 1.6 installed. This required a workaround to get Java to install.
-
-* [2021-10-18 Mon]
-** Updated the DNS and removed references to remote sites that have been moved over to cell communications
-** Changed the TTL for anything pointing to chain-new in the DNS
-** Installed a newer matlab on chain-new. Needed to ask ITS to allow connections to the matlab license server
-** Torsten came to me to talk about Anton potentially messing up github repo history. It looks like he was developing stuff directly on testing. Torsten is going to talk to him about working on feature branches.
-** I gave Nick sudo access on chain-data to collect crontab entries
-** ITS just came back and said the firewall changes had been made. I just tested it and everything seems to work fine now for matlab on chain-new.
-
-* [2021-09-29 Wed]
-** ITS fixed the routing between chain-data2 and smtp.unb.ca so that it works again.
-** ITS fixed the routing from chain-cs1 to the outside world. Making the change now.
-** Removed the following from the DNS server: chain-cs.chain-project.net, compute.chain-project.net, compute2.chain-project.net
-** Removed the following from the DNS server: chain-gw, fre-cadi, fre, frn-gps, frs-gps, pi-sensor
-
-* [2021-09-28 Tue]
-** Changed the firewall for chain-dns to allow ssh access from any 131.202.0.0 address.
-** Verified that chain-data.int.unb.ca allows ssh access from any 131.202.0.0 address.
-** Changed the logwatch config on chain-cs1 so that it will now email the output.
-** Sent an email to ITS about chain-cs1 not being able to access the internet.
-** Opened a new	ITS ticket for chain-data2 to get access to smtp.unb.ca.
-
-* [2021-09-27 Mon]
-** Edited the MIB files on chain-new in /usr/local/share/snmp/mibs. These files all defined the same module, and re-used several items further down the tree. They now use slightly different names, so no longer collide.
-
-* [2021-09-23 Thu]
-** The morning was mostly just getting caught up.
-** Richard made a change on chain-data routing that broke comms to chipman. We just quickly changed it back for now.
-
-
-* [2021-09-22 Wed]
-** Today is very busy day. Lots of going in and out.
-** Richard is working on CBB, getting the cellular modem installed, etc.
