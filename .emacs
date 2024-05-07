@@ -25,8 +25,8 @@
 ;; install your packages
 ;(use-package helm
 ;  :ensure t)
-(use-package magit
-  :ensure t)
+;;(use-package magit
+;;  :ensure t)
 ;(use-package omnisharp
 ;  :ensure t)
 (use-package tron-legacy-theme
@@ -97,7 +97,7 @@
  '(column-number-mode t)
  '(display-time-mode t)
  '(indicate-empty-lines t)
- '(package-selected-packages '(use-package tron-legacy-theme omnisharp magit))
+ '(package-selected-packages '(use-package tron-legacy-theme))
  '(show-paren-mode t)
  '(size-indication-mode t)
  '(tool-bar-mode nil))
