@@ -180,3 +180,6 @@ clojure
 linuxtoolbox
 .m2
 .bundle
+.aws
+.azure
+.docker

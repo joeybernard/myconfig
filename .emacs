@@ -60,17 +60,17 @@
   (org-roam-db-autosync-mode)
   (require 'org-roam-dailies)
   :bind (("C-c n l" . org-roam-buffer-toggle)
-         ("C-c n f" . org-roam-node-find)
-         ("C-c n i" . org-roam-node-insert)
-         ("C-c n I" . org-roam-node-insert-immediate)
-         ("C-c n p" . my/org-roam-find-project)
-         ("C-c n t" . my/org-roam-capture-task)
-         ("C-c n b" . my/org-roam-capture-inbox)
-         :map org-mode-map
-         ("C-M-i" . completion-at-point)
-         :map org-roam-dailies-map
-         ("Y" . org-roam-dailies-capture-yesterday)
-         ("T" . org-roam-dailies-capture-tomorrow))
+	 ("C-c n f" . org-roam-node-find)
+	 ("C-c n i" . org-roam-node-insert)
+	 ("C-c n I" . org-roam-node-insert-immediate)
+	 ("C-c n p" . my/org-roam-find-project)
+	 ("C-c n t" . my/org-roam-capture-task)
+	 ("C-c n b" . my/org-roam-capture-inbox)
+	 :map org-mode-map
+	 ("C-M-i" . completion-at-point)
+	 :map org-roam-dailies-map
+	 ("Y" . org-roam-dailies-capture-yesterday)
+	 ("T" . org-roam-dailies-capture-tomorrow))
   :bind-keymap
   ("C-c n d" . org-roam-dailies-map)
 )
@@ -78,8 +78,8 @@
 (defun org-roam-node-insert-immediate (arg &rest args)
   (interactive "P")
   (let ((args (push arg args))
-        (org-roam-capture-templates (list (append (car org-roam-capture-templates)
-                                                  '(:immediate-finish t)))))
+	(org-roam-capture-templates (list (append (car org-roam-capture-templates)
+						  '(:immediate-finish t)))))
     (apply #'org-roam-node-insert args)))
 
 (defun my/org-roam-filter-by-tag (tag-name)
@@ -128,8 +128,8 @@ capture was not aborted."
 (defun my/org-roam-capture-inbox ()
   (interactive)
   (org-roam-capture- :node (org-roam-node-create)
-                     :templates '(("i" "inbox" plain "* %?"
-                                  :if-new (file+head "Inbox.org" "#+title: Inbox\n")))))
+		     :templates '(("i" "inbox" plain "* %?"
+				  :if-new (file+head "Inbox.org" "#+title: Inbox\n")))))
 
 (defun my/org-roam-capture-task ()
   (interactive)
@@ -138,22 +138,22 @@ capture was not aborted."
 
   ;; Capture the new task, creating the project file if necessary
   (org-roam-capture- :node (org-roam-node-read
-                            nil
-                            (my/org-roam-filter-by-tag "Project"))
-                     :templates '(("p" "project" plain "** TODO %?"
-                                   :if-new (file+head+olp "%<%Y%m%d%H%M%S>-${slug}.org"
-                                                          "#+title: ${title}\n#+category: ${title}\n#+filetags: Project"
-                                                          ("Tasks"))))))
+			    nil
+			    (my/org-roam-filter-by-tag "Project"))
+		     :templates '(("p" "project" plain "** TODO %?"
+				   :if-new (file+head+olp "%<%Y%m%d%H%M%S>-${slug}.org"
+							  "#+title: ${title}\n#+category: ${title}\n#+filetags: Project"
+							  ("Tasks"))))))
 
 (defun my/org-roam-copy-todo-to-today ()
   (interactive)
   (let ((org-refile-keep t) ;; Set this to nil to delete the original!
-        (org-roam-dailies-capture-templates
-         '(("t" "tasks" entry "%?"
-            :if-new (file+head+olp "%<%Y-%m-%d>.org" "#+title: %<%Y-%m-%d>\n" ("Tasks")))))
-        (org-after-refile-insert-hook #'save-buffer)
-        today-file
-        pos)
+	(org-roam-dailies-capture-templates
+	 '(("t" "tasks" entry "%?"
+	    :if-new (file+head+olp "%<%Y-%m-%d>.org" "#+title: %<%Y-%m-%d>\n" ("Tasks")))))
+	(org-after-refile-insert-hook #'save-buffer)
+	today-file
+	pos)
     (save-window-excursion
       (org-roam-dailies--capture (current-time) t)
       (setq today-file (buffer-file-name))
@@ -161,17 +161,17 @@ capture was not aborted."
 
     ;; Only refile if the target file is different than the current file
     (unless (equal (file-truename today-file)
-                   (file-truename (buffer-file-name)))
+		   (file-truename (buffer-file-name)))
       (org-refile nil nil (list "Tasks" today-file nil pos)))))
 
 (add-to-list 'org-after-todo-state-change-hook
-             (lambda ()
-               (when (equal org-state "DONE")
-                 (my/org-roam-copy-todo-to-today))))
+	     (lambda ()
+	       (when (equal org-state "DONE")
+		 (my/org-roam-copy-todo-to-today))))
 
 (setq org-roam-dailies-capture-templates
       '(("d" "default" entry "* %<%I:%M %p>: %?"
-         :if-new (file+head "%<%Y-%m-%d>.org" "#+title: %<%Y-%m-%d>\n"))))
+	 :if-new (file+head "%<%Y-%m-%d>.org" "#+title: %<%Y-%m-%d>\n"))))
 
 (use-package org-roam-ui
   :ensure t
