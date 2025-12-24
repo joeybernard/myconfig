@@ -18,13 +18,13 @@ Archived entries from file /home/jbernard/work.org
       /home2/amccaffr/ECHAIM_DB/CHAIM_DB.db
       /home2/amccaffr/ECHAIM_DB/CSV/MATLAB_DB.mat
 *** Edited the file /home2/ammcaffr/ECHAIM_DB/autodb.sh so that it would copy the new database files to /home/jbernard/DB
-*** Created the script db_update.sh and it is in the bin subdirectory for the root user. I copied in the private key into the .ssh subdirectory so that it can scp from jbernard@chain-cs1.chain-project.net. 
+*** Created the script db_update.sh and it is in the bin subdirectory for the root user. I copied in the private key into the .ssh subdirectory so that it can scp from jbernard@chain-cs1.chain-project.net.
 *** Created a cron job that does the following:
       10 7 * * * ~/bin/db_update.sh >>~/log/db_update.log 1>&2
 
 ** DONE Create a start script for apache and mariadb on chain-new    :ECHAIM:
 ** DONE Rdesign gnuplot script for E-CHAIM web application	     :ECHAIM:
-   CLOSED: [2018-09-03 Mon] The script below is the core functionality to generate the plots and then display them on the web application.    
+   CLOSED: [2018-09-03 Mon] The script below is the core functionality to generate the plots and then display them on the web application.
    $script = $cwd . "/" . $id . "/temp.gnuplot";
    $pd = fopen($script, "w");
    fwrite($pd, "set term pngcairo font ',7' size 800,600\n");
@@ -58,8 +58,8 @@ Archived entries from file /home/jbernard/work.org
    $curr_long = $longitudes[0];
    for ($j=0; $j<$interval_count2; $j++) {
       for ($i=0; $i<$interval_count; $i++) {
-         $data_str = $arr[$i]." ".$curr_long." ".$data_mat[$i][$j];
-         fwrite($dd, $data_str);
+	 $data_str = $arr[$i]." ".$curr_long." ".$data_mat[$i][$j];
+	 fwrite($dd, $data_str);
       }
       fwrite($dd, "\n");
       $curr_long = $curr_long + $longitudes[1];
@@ -259,18 +259,18 @@ Archived entries from file /home/jbernard/work.org
   :END:
 ** Encrypted Storage  :NOTE:
     There is an encrypted file in the storage subdirectory. You can unencrypt it with the following command
-        openssl enc -d -aes256 -in secured.tar.gz | tar xvz
+	openssl enc -d -aes256 -in secured.tar.gz | tar xvz
     If you have to reencrypt, you can use the following command
-        tar czf - * | openssl enc -e -aes256 -out secured.tar.gz
+	tar czf - * | openssl enc -e -aes256 -out secured.tar.gz
 ** Moved the work desktop to Cinnamon. I think this is a good mix between Gnome 3 and KDE, without too much of either one.
 ** Back to work after Christmas break
 ** Apparently, there are people from China downloading historical DB files for ECHAIM. Richard noticed, and had to block one particular IP address due to bandwidth issues.
 ** DONE Talk to David about what to do about historical DB ECHAIM files.
 ** Plymouth changes  :NOTE:
     To change the plymouth theme, use
-        sudo update-alternatives --config default.plymouth
+	sudo update-alternatives --config default.plymouth
     Then you can set it with the command
-        sudo update-initramfs -u
+	sudo update-initramfs -u
 
 
 * [2020-01-03 Fri]
@@ -628,3 +628,93 @@ https://linuxconfig.org/how-to-install-or-upgrade-to-php-7-on-centos-linux-serve
 ** All weekend Richard and I worked on an issue that first showed up in FTP on chain. Finally figured out that the issue is actually with directories that are NFS mounted from chain-mirror. Richard is going to look into it more tomorrow.
 ** Catching up on all my open issues.
 
+
+* [2023-02-07 Tue]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-12-22 Mon 15:43
+:ARCHIVE_FILE: ~/my_org/work.org
+:ARCHIVE_CATEGORY: work
+:END:
+** Emails and planning
+   :LOGBOOK:
+   CLOCK: [2023-02-07 Tue 08:00]--[2023-02-07 Tue 08:56] =>  0:56
+   :END:
+
+** TODO MODIS code development
+   :LOGBOOK:
+   CLOCK: [2023-02-07 Tue 09:15]--[2023-02-07 Tue 11:30] =>  2:15
+   CLOCK: [2023-02-06 Mon 11:01]--[2023-02-06 Mon 13:30] =>  2:29
+   :END:
+
+** DONE Turning off gitlab
+   CLOSED: [2023-02-07 Tue 09:07]
+   :LOGBOOK:
+   CLOCK: [2023-02-07 Tue 08:45]--[2023-02-07 Tue 09:07] =>  0:22
+   :END:
+   Done with the command
+   #+BEGIN_SRC sh
+   sudo systemctl stop gitlab-runsvdir
+   sudo systemctl disable gitlab-runsvdir
+   #+END_SRC
+
+
+
+** Helped Sadig with a data download problem. It looks like the server from NASA is the having problems. When I get to ~3-4 GB, I get an error in the bytes being served. I used the following command:
+#+BEGIN_SRC bash
+wget "https://pds-ppi.igpp.ucla.edu/ditdos/write?id=pds://PPI/maven.mag.calibrated/data/ss/highres/2021/12/mvn_mag_l2_2021364ss_20211230_v01_r01&f=csv"
+#+END_SRC
+
+* [2023-02-06 Mon]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-12-22 Mon 15:43
+:ARCHIVE_FILE: ~/my_org/work.org
+:ARCHIVE_CATEGORY: work
+:END:
+** DONE Go add a new drive to chain-mirror
+   CLOSED: [2023-02-07 Tue 08:57]
+   :LOGBOOK:
+   CLOCK: [2023-02-06 Mon 13:42]--[2023-02-06 Mon 14:00] =>  0:18
+   :END:
+
+* [2021-11-29 Mon]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-12-22 Mon 15:43
+:ARCHIVE_FILE: ~/my_org/work.org
+:ARCHIVE_CATEGORY: work
+:END:
+** Got caught up with emails, etc
+** Continued work on the FPGA dashboard
+** Sent a note to Jonathan about using a new drop for chain-new
+
+* [2021-11-10 Wed]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-12-22 Mon 15:43
+:ARCHIVE_FILE: ~/my_org/work.org
+:ARCHIVE_CATEGORY: work
+:END:
+** Updated the plot ionogram matlab script on chain-data2 for Anton
+** IQA had a power outage. Trimble was saying that they lost data connection. Richard looked at it and found that we have been sending data since the power came back up. He responded to Trimble.
+
+* [2021-11-09 Tue]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-12-22 Mon 15:43
+:ARCHIVE_FILE: ~/my_org/work.org
+:ARCHIVE_CATEGORY: work
+:END:
+** David mentioned that the HTTP forwards for the chaim sites isn't working. Created issue https://github.com/UNB-Radio-Physics/sysops/issues/478
+** Told Richard about how to manage resolv.conf through adding entries to dhcpcd.conf on Raspbian
+** While talking to Nick, discovered an issue on the CHAIM web app where putting a single zero in the time box causes an error. Need to include as a check on the form https://github.com/UNB-Radio-Physics/sysops/issues/479
+** Torsten is done, so I shutdown gitlab on chain-new again
+** I fixed the CHAIM HTTP forwards. The rest of his comment will need to wait until we get a domain certificate for all of our sites.
+
+* [2021-11-08 Mon]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-12-22 Mon 15:43
+:ARCHIVE_FILE: ~/my_org/work.org
+:ARCHIVE_CATEGORY: work
+:END:
+** Asked ITS to make changes to the firewall rules
+*** Add daw
+*** Remove bli, cbb, iqa and kug
+** Responded to Nathan at NRCan. They lost data connection because of a network outage on Saturday. Everything is good again.
+** Started up gitlab on chain-new and created an account for Torsten. Sent him an email to let him know.
