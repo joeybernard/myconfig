@@ -193,3 +193,5 @@ esp
 .var
 Calibre Library
 .apptainer
+.geckodriver-bin/
+ccdb
