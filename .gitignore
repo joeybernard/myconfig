@@ -195,3 +195,7 @@ Calibre Library
 .apptainer
 .geckodriver-bin/
 ccdb
+.homebrew
+.irb-history
+.passenger
+work/
