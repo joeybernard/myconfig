@@ -199,3 +199,7 @@ ccdb
 .irb-history
 .passenger
 work/
+gems
+docker
+Zotero_linux-x86_64
+.stellarium
