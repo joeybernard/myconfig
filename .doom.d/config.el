@@ -40,7 +40,7 @@
 
 ;; If you use `org' and don't want your org files in the default location below,
 ;; change `org-directory'. It must be set before org loads!
-(setq org-directory "~/org/")
+(setq org-directory "~/my_org/")
 
 
 ;; Whenever you reconfigure a package, make sure to wrap your config in an
@@ -73,3 +73,11 @@
 ;;
 ;; You can also try 'gd' (or 'C-c c d') to jump to their definition and see how
 ;; they are implemented.
+(require `org-ics-import)
+
+(setq org-ics-import-update-interval 3600)
+(setq org-ics-import-calendars-alist
+      '(("https://calendar.google.com/calendar/ical/druid.bernard%40gmail.com/private-6fe0c18dc92c51f1c6646fc3f7c94203/basic.ics" . "~/my_org/gcal.org")
+      ("https://outlook.office365.com/owa/calendar/76529b53d3d64efd956dd377958fc5c8@alliancecan.ca/71a27ea4de514fdeb68426dea03a501411738982182761455362/calendar.ics" . "~/my_org/drac_outlook.org")))
+(setq org-ics-import-exclude-strings '("Cancelled"))
+(setq org-ics-import-exclude-passed-events t)
