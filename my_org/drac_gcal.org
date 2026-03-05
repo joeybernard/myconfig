@@ -1,0 +1,73 @@
+*  Centre for Excellence Training for High School students 
+<2026-06-03 Wed 10:00>--<2026-06-03 Wed 12:00>
+:PROPERTIES:
+:CUSTOM_ID: 0nrditmeg3cvnibllmf17nll6l@google.com
+:ICAL_DTEND: 20260603T150000Z
+:ICAL_DTSTAMP: 20260304T005412Z
+:ICAL_ORGANIZER: mailto:grace.fishbein@ace-net.ca
+:ICAL_ATTENDEE: mailto:sarah.clarke@ace-net.ca
+:ICAL_ATTENDEE: mailto:tannia.chevez@ace-net.ca
+:ICAL_ATTENDEE: mailto:joey.bernard@gw.alliancecan.ca
+:ICAL_ATTENDEE: mailto:serguei.vassiliev@ace-net.ca
+:ICAL_CREATED: 20260224T010907Z
+:ICAL_LAST-MODIFIED: 20260302T204245Z
+:ICAL_LOCATION: University of New Brunswick\, 3 Bailey Dr\, Fredericton\, NB E3B 5A3\, Canada
+:ICAL_SEQUENCE: 1
+:ICAL_STATUS: CONFIRMED
+:ICAL_TRANSP: OPAQUE
+:END:
+
+*  All Hands Training Meetings
+<2026-03-09 Mon 13:00>--<2026-03-09 Mon 14:00>
+:PROPERTIES:
+:CUSTOM_ID: 03u53bicjqop96fkg620uhqcnc_R20260309T160000@google.com
+:ICAL_DTEND: 20260309T143000
+:ICAL_RRULE: FREQ=WEEKLY;WKST=SU;INTERVAL=2;BYDAY=MO
+:ICAL_DTSTAMP: 20260304T005412Z
+:ICAL_ORGANIZER: mailto:c_791fhh8m0cf88k3td85ja3mh38@group.calendar.google.com
+:ICAL_ATTENDEE: mailto:grace.fishbein@ace-net.ca
+:ICAL_ATTENDEE: mailto:crc@ace-net.ca
+:ICAL_ATTENDEE: mailto:training@ace-net.ca
+:ICAL_ATTENDEE: mailto:joey.bernard@gw.alliancecan.ca
+:ICAL_ATTENDEE: mailto:michele.fash@ace-net.ca
+:ICAL_X-GOOGLE-CONFERENCE: https://meet.google.com/vws-jkfw-fpp
+:ICAL_CREATED: 20251215T143652Z
+:ICAL_LAST-MODIFIED: 20260302T152553Z
+:ICAL_SEQUENCE: 3
+:ICAL_STATUS: CONFIRMED
+:ICAL_TRANSP: OPAQUE
+:END:
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+*  All Hands Training Meetings
+<2026-03-09 Mon 13:00>--<2026-03-09 Mon 14:00>
+:PROPERTIES:
+:CUSTOM_ID: 03u53bicjqop96fkg620uhqcnc_R20260309T160000@google.com
+:ICAL_DTEND: 20260309T143000
+:ICAL_DTSTAMP: 20260304T005412Z
+:ICAL_ORGANIZER: mailto:c_791fhh8m0cf88k3td85ja3mh38@group.calendar.google.com
+:ICAL_ATTENDEE: mailto:grace.fishbein@ace-net.ca
+:ICAL_ATTENDEE: mailto:crc@ace-net.ca
+:ICAL_ATTENDEE: mailto:training@ace-net.ca
+:ICAL_ATTENDEE: mailto:joey.bernard@gw.alliancecan.ca
+:ICAL_ATTENDEE: mailto:michele.fash@ace-net.ca
+:ICAL_X-GOOGLE-CONFERENCE: https://meet.google.com/vws-jkfw-fpp
+:ICAL_RECURRENCE-ID: 20260309T133000
+:ICAL_CREATED: 20251215T143652Z
+:ICAL_LAST-MODIFIED: 20260302T152553Z
+:ICAL_SEQUENCE: 3
+:ICAL_STATUS: CONFIRMED
+:ICAL_TRANSP: OPAQUE
+:END:
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
