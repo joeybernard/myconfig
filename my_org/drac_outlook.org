@@ -1,106 +1,3 @@
-*  Coffee Chat
-<2026-03-04 Wed 12:30>--<2026-03-04 Wed 13:00>
-:PROPERTIES:
-:CUSTOM_ID: 040000008200E00074C5B7101A82E0080000000083CEC195BEDFDB01000000000000000010000000BE9F790B125D3E4C89C785FB08DCE55F
-:ICAL_RECURRENCE-ID: 20260304T113000
-:ICAL_DTEND: 20260304T120000
-:ICAL_CLASS: PUBLIC
-:ICAL_PRIORITY: 5
-:ICAL_DTSTAMP: 20260304T005414Z
-:ICAL_TRANSP: OPAQUE
-:ICAL_STATUS: CONFIRMED
-:ICAL_SEQUENCE: 34
-:ICAL_LOCATION: Microsoft Teams Meeting
-:ICAL_X-MICROSOFT-CDO-APPT-SEQUENCE: 34
-:ICAL_X-MICROSOFT-CDO-BUSYSTATUS: TENTATIVE
-:ICAL_X-MICROSOFT-CDO-INTENDEDSTATUS: BUSY
-:ICAL_X-MICROSOFT-CDO-ALLDAYEVENT: FALSE
-:ICAL_X-MICROSOFT-CDO-IMPORTANCE: 1
-:ICAL_X-MICROSOFT-CDO-INSTTYPE: 3
-:ICAL_X-MICROSOFT-DONOTFORWARDMEETING: FALSE
-:ICAL_X-MICROSOFT-DISALLOW-COUNTER: FALSE
-:ICAL_X-MICROSOFT-REQUESTEDATTENDANCEMODE: DEFAULT
-:ICAL_X-MICROSOFT-ISRESPONSEREQUESTED: FALSE
-:END:
-
-________________________________________________________________________________
-Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
-Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTc2YWZhYzAtOTEyNi00N2NkLWI3MjEtMmFiNmJkY2U1ZTZi%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22c9a095c1-68b3-4aa4-a85c-27226d6c5a34%22%7d>
-Meeting ID: 253 935 824 574 0
-Passcode: WH7nJ9pS
-________________________________
-For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=c9a095c1-68b3-4aa4-a85c-27226d6c5a34&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MTc2YWZhYzAtOTEyNi00N2NkLWI3MjEtMmFiNmJkY2U1ZTZi@thread.v2&messageId=0&language=en-US>
-________________________________________________________________________________
-
-
-*  Canceled: Coffee Chat
-<2026-03-11 Wed 12:30>--<2026-03-11 Wed 13:30>
-:PROPERTIES:
-:CUSTOM_ID: 040000008200E00074C5B7101A82E0080000000083CEC195BEDFDB01000000000000000010000000BE9F790B125D3E4C89C785FB08DCE55F
-:ICAL_RECURRENCE-ID: 20260311T113000
-:ICAL_DTEND: 20260311T123000
-:ICAL_CLASS: PUBLIC
-:ICAL_PRIORITY: 5
-:ICAL_DTSTAMP: 20260304T005414Z
-:ICAL_TRANSP: TRANSPARENT
-:ICAL_STATUS: CONFIRMED
-:ICAL_SEQUENCE: 50
-:ICAL_LOCATION: Zoom
-:ICAL_X-MICROSOFT-CDO-APPT-SEQUENCE: 50
-:ICAL_X-MICROSOFT-CDO-BUSYSTATUS: FREE
-:ICAL_X-MICROSOFT-CDO-INTENDEDSTATUS: BUSY
-:ICAL_X-MICROSOFT-CDO-ALLDAYEVENT: FALSE
-:ICAL_X-MICROSOFT-CDO-IMPORTANCE: 1
-:ICAL_X-MICROSOFT-CDO-INSTTYPE: 3
-:ICAL_X-MICROSOFT-DONOTFORWARDMEETING: FALSE
-:ICAL_X-MICROSOFT-DISALLOW-COUNTER: FALSE
-:ICAL_X-MICROSOFT-REQUESTEDATTENDANCEMODE: DEFAULT
-:ICAL_X-MICROSOFT-ISRESPONSEREQUESTED: FALSE
-:END:
-
-________________________________________________________________________________
-Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
-Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTc2YWZhYzAtOTEyNi00N2NkLWI3MjEtMmFiNmJkY2U1ZTZi%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22c9a095c1-68b3-4aa4-a85c-27226d6c5a34%22%7d>
-Meeting ID: 253 935 824 574 0
-Passcode: WH7nJ9pS
-________________________________
-For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=c9a095c1-68b3-4aa4-a85c-27226d6c5a34&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MTc2YWZhYzAtOTEyNi00N2NkLWI3MjEtMmFiNmJkY2U1ZTZi@thread.v2&messageId=0&language=en-US>
-________________________________________________________________________________
-
-
-*  Special Coffee Chat - EDIA Learning Series
-<2026-03-11 Wed 12:30>--<2026-03-11 Wed 13:30>
-:PROPERTIES:
-:CUSTOM_ID: 040000008200E00074C5B7101A82E00800000000BCC633CBA584DC01000000000000000010000000B988484E64236D459003297B2314BD78
-:ICAL_DTEND: 20260311T123000
-:ICAL_CLASS: PUBLIC
-:ICAL_PRIORITY: 5
-:ICAL_DTSTAMP: 20260304T005414Z
-:ICAL_TRANSP: OPAQUE
-:ICAL_STATUS: CONFIRMED
-:ICAL_SEQUENCE: 0
-:ICAL_LOCATION: Zoom
-:ICAL_X-MICROSOFT-CDO-APPT-SEQUENCE: 0
-:ICAL_X-MICROSOFT-CDO-BUSYSTATUS: TENTATIVE
-:ICAL_X-MICROSOFT-CDO-INTENDEDSTATUS: BUSY
-:ICAL_X-MICROSOFT-CDO-ALLDAYEVENT: FALSE
-:ICAL_X-MICROSOFT-CDO-IMPORTANCE: 1
-:ICAL_X-MICROSOFT-CDO-INSTTYPE: 0
-:ICAL_X-MICROSOFT-DONOTFORWARDMEETING: FALSE
-:ICAL_X-MICROSOFT-DISALLOW-COUNTER: FALSE
-:ICAL_X-MICROSOFT-REQUESTEDATTENDANCEMODE: DEFAULT
-:ICAL_X-MICROSOFT-ISRESPONSEREQUESTED: FALSE
-:END:
- Understanding Yourself: The first Step in Building Your Inclusivity
-
-When we talk about Introspection\, we are speaking to how well we can reflect on and objectively assess the ‘rightness’ of our thoughts and behaviors. Reality is we all make mistakes\, take wrong turns\, and make bad decisions but the question is: do we recognize\, accept and acknowledge it when we do? Think of how many intelligent\, high-potential people you know who keep making the same mistakes over and over again. How is it that they don't see the forest for the trees? The culprit here\, more often than not\, is the human tendency to want to feel right. We want the world to make sense to us so we're driven to interpret information in ways that confirms our preconceptions and biases. Participants will leave this session with a greater ability to reflect on and objectively assess the ‘rightness’ of their thoughts and behaviors.
-
-Please use the Zoom Meeting link below
-https://us06web.zoom.us/j/85243315472?pwd=LahKzsmmKsEjYnloqwXAaeGhPGAJxa.1
-Meeting ID: 852 4331 5472
-Passcode: 430284
-
-
 *  All Staff Meeting (March 23)
 <2026-03-23 Mon 14:00>--<2026-03-23 Mon 15:30>
 :PROPERTIES:
@@ -108,7 +5,7 @@ Passcode: 430284
 :ICAL_DTEND: 20260323T143000
 :ICAL_CLASS: PUBLIC
 :ICAL_PRIORITY: 5
-:ICAL_DTSTAMP: 20260304T005414Z
+:ICAL_DTSTAMP: 20260313T020902Z
 :ICAL_TRANSP: OPAQUE
 :ICAL_STATUS: CONFIRMED
 :ICAL_SEQUENCE: 0
@@ -136,6 +33,41 @@ ________________________________________________________________________________
 
 
 *  Coffee Chat
+<2026-03-25 Wed 12:30>--<2026-03-25 Wed 13:00>
+:PROPERTIES:
+:CUSTOM_ID: 040000008200E00074C5B7101A82E0080000000083CEC195BEDFDB01000000000000000010000000BE9F790B125D3E4C89C785FB08DCE55F
+:ICAL_RECURRENCE-ID: 20260325T113000
+:ICAL_DTEND: 20260325T120000
+:ICAL_CLASS: PUBLIC
+:ICAL_PRIORITY: 5
+:ICAL_DTSTAMP: 20260313T020902Z
+:ICAL_TRANSP: OPAQUE
+:ICAL_STATUS: CONFIRMED
+:ICAL_SEQUENCE: 34
+:ICAL_LOCATION: Microsoft Teams Meeting
+:ICAL_X-MICROSOFT-CDO-APPT-SEQUENCE: 34
+:ICAL_X-MICROSOFT-CDO-BUSYSTATUS: TENTATIVE
+:ICAL_X-MICROSOFT-CDO-INTENDEDSTATUS: BUSY
+:ICAL_X-MICROSOFT-CDO-ALLDAYEVENT: FALSE
+:ICAL_X-MICROSOFT-CDO-IMPORTANCE: 1
+:ICAL_X-MICROSOFT-CDO-INSTTYPE: 3
+:ICAL_X-MICROSOFT-DONOTFORWARDMEETING: FALSE
+:ICAL_X-MICROSOFT-DISALLOW-COUNTER: FALSE
+:ICAL_X-MICROSOFT-REQUESTEDATTENDANCEMODE: DEFAULT
+:ICAL_X-MICROSOFT-ISRESPONSEREQUESTED: FALSE
+:END:
+
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTc2YWZhYzAtOTEyNi00N2NkLWI3MjEtMmFiNmJkY2U1ZTZi%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22c9a095c1-68b3-4aa4-a85c-27226d6c5a34%22%7d>
+Meeting ID: 253 935 824 574 0
+Passcode: WH7nJ9pS
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=c9a095c1-68b3-4aa4-a85c-27226d6c5a34&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MTc2YWZhYzAtOTEyNi00N2NkLWI3MjEtMmFiNmJkY2U1ZTZi@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+*  Coffee Chat
 <2026-04-08 Wed 12:30>--<2026-04-08 Wed 13:00>
 :PROPERTIES:
 :CUSTOM_ID: 040000008200E00074C5B7101A82E0080000000083CEC195BEDFDB01000000000000000010000000BE9F790B125D3E4C89C785FB08DCE55F
@@ -143,7 +75,7 @@ ________________________________________________________________________________
 :ICAL_DTEND: 20260408T120000
 :ICAL_CLASS: PUBLIC
 :ICAL_PRIORITY: 5
-:ICAL_DTSTAMP: 20260304T005414Z
+:ICAL_DTSTAMP: 20260313T020902Z
 :ICAL_TRANSP: OPAQUE
 :ICAL_STATUS: CONFIRMED
 :ICAL_SEQUENCE: 34
@@ -178,7 +110,7 @@ ________________________________________________________________________________
 :ICAL_DTEND: 20260415T120000
 :ICAL_CLASS: PUBLIC
 :ICAL_PRIORITY: 5
-:ICAL_DTSTAMP: 20260304T005414Z
+:ICAL_DTSTAMP: 20260313T020902Z
 :ICAL_TRANSP: OPAQUE
 :ICAL_STATUS: CONFIRMED
 :ICAL_SEQUENCE: 34
@@ -212,7 +144,7 @@ ________________________________________________________________________________
 :ICAL_DTEND: 20260420T143000
 :ICAL_CLASS: PUBLIC
 :ICAL_PRIORITY: 5
-:ICAL_DTSTAMP: 20260304T005414Z
+:ICAL_DTSTAMP: 20260313T020902Z
 :ICAL_TRANSP: OPAQUE
 :ICAL_STATUS: CONFIRMED
 :ICAL_SEQUENCE: 0
@@ -246,7 +178,7 @@ ________________________________________________________________________________
 :ICAL_DTEND: 20260629T143000
 :ICAL_CLASS: PUBLIC
 :ICAL_PRIORITY: 5
-:ICAL_DTSTAMP: 20260304T005414Z
+:ICAL_DTSTAMP: 20260313T020902Z
 :ICAL_TRANSP: OPAQUE
 :ICAL_STATUS: CONFIRMED
 :ICAL_SEQUENCE: 0
