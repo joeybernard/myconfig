@@ -57,3 +57,4 @@
   :recipe (:host nil :repo "https://git.sr.ht/~struanr/org-ics-import.el"))
 
 (package! org-roam)
+

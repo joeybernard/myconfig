@@ -119,12 +119,6 @@ fi
 # Config repository settings
 alias config='/usr/bin/git --git-dir=$HOME/.myconfig --work-tree=$HOME'
 
-export PATH="~/.local/bin:~/bin:~/scripts:~/bin/Zotero_linux-x86_64:$PATH"
-
-#clear
-#screenfetch
-echo; fortune ; echo
-
 #if [ $WSLENV ]; then
 #	export DISPLAY="172.18.224.1:0.0"
 #fi
@@ -136,13 +130,18 @@ echo; fortune ; echo
 #eval "$(starship init bash)"
 
 
-#MODIS Environment
-export MODISROOT=/home/jbernard/opt/modis_env
-export PATH=$PATH:$MODISROOT
-export PATH=$PATH:$MODISROOT/bin:$HOME/.local/bin
-
 # Need to clean this up
 export GH_TOKEN="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"
 
+if [ $(hostname) = "ccdbdev-ng" ]; then
+   eval "$(.homebrew/bin/brew shellenv)"
+   export PATH="$PATH;~/ccdb/ccdb_portal/vendor/bundle/ruby/3.2.0/bin"
+   EMACS="~/.local/bin/emacs"
+fi
 
-eval "$(.homebrew/bin/brew shellenv)"
+export PATH="~/.local/bin:~/bin:~/scripts:~/bin/Zotero_linux-x86_64:$PATH"
+
+#clear
+#screenfetch
+echo; fortune ; echo
+

@@ -97,3 +97,8 @@
          ("C-c n i" . org-roam-node-insert))
   :config
   (org-roam-setup))
+
+
+(with-eval-after-load 'eglot
+  (add-to-list 'eglot-server-programs
+               '(ruby-mode . ("/home/bernardj/ccdb/ccdb_portal/vendor/bundle/ruby/3.2.0/bin/solargraph" "stdio"))))
