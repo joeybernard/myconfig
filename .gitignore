@@ -58,11 +58,6 @@ maple2016
 examples.desktop
 .ispell_american
 .kivy
-deltb40.nec 
-Example3.nec 
-input.nec 
-output.nec 
-Piramid.nec
 .octave_hist
 .wine
 .subversion
@@ -204,6 +199,6 @@ Zotero_linux-x86_64
 .stellarium
 Emacs-30.2-nox-x86_64.AppImage
 .cpan
-.emacs.d
+.emacs.d/*
 !.emacs.d/init.el
 
