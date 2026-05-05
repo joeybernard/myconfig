@@ -1,15 +1,217 @@
-*  All Staff Meeting (March 23)
-<2026-03-23 Mon 14:00>--<2026-03-23 Mon 15:30>
+*  CCDB Daily coordination meeting
+<2026-04-27 Mon 15:30>--<2026-04-27 Mon 16:00>
 :PROPERTIES:
-:CUSTOM_ID: 040000008200E00074C5B7101A82E0080000000037EE23EA846FDC01000000000000000010000000D56DDAF922AFDB45B0F569F3BE595431
-:ICAL_DTEND: 20260323T143000
+:CUSTOM_ID: 040000008200E00074C5B7101A82E008000000009292E295A84AD801000000000000000010000000F13A2497250E9C4B879DEDC1F3F0DBED
+:ICAL_RECURRENCE-ID: 20260427T130000
+:ICAL_DTEND: 20260427T150000
 :ICAL_CLASS: PUBLIC
 :ICAL_PRIORITY: 5
-:ICAL_DTSTAMP: 20260313T020902Z
+:ICAL_DTSTAMP: 20260424T131438Z
+:ICAL_TRANSP: OPAQUE
+:ICAL_STATUS: CONFIRMED
+:ICAL_SEQUENCE: 287
+:ICAL_LOCATION: Microsoft Teams Meeting
+:ICAL_X-MICROSOFT-CDO-APPT-SEQUENCE: 287
+:ICAL_X-MICROSOFT-CDO-BUSYSTATUS: BUSY
+:ICAL_X-MICROSOFT-CDO-INTENDEDSTATUS: BUSY
+:ICAL_X-MICROSOFT-CDO-ALLDAYEVENT: FALSE
+:ICAL_X-MICROSOFT-CDO-IMPORTANCE: 1
+:ICAL_X-MICROSOFT-CDO-INSTTYPE: 3
+:ICAL_X-MICROSOFT-DONOTFORWARDMEETING: FALSE
+:ICAL_X-MICROSOFT-DISALLOW-COUNTER: FALSE
+:ICAL_X-MICROSOFT-REQUESTEDATTENDANCEMODE: DEFAULT
+:ICAL_X-MICROSOFT-ISRESPONSEREQUESTED: FALSE
+:END:
+
+________________________________________________________________________________
+Microsoft Teams meeting
+Join on your computer or mobile app
+Click here to join the meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjQ3NWMyMzItOTFmZS00NTZmLTg5MTItYmU2YzM4NDA2MDEw%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22b623d02d-2c0a-4e92-851f-e458f1cebe85%22%7d>
+Learn More<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=b623d02d-2c0a-4e92-851f-e458f1cebe85&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_YjQ3NWMyMzItOTFmZS00NTZmLTg5MTItYmU2YzM4NDA2MDEw@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+*  Coffee Chat
+<2026-04-29 Wed 12:30>--<2026-04-29 Wed 13:00>
+:PROPERTIES:
+:CUSTOM_ID: 040000008200E00074C5B7101A82E0080000000083CEC195BEDFDB01000000000000000010000000BE9F790B125D3E4C89C785FB08DCE55F
+:ICAL_RECURRENCE-ID: 20260429T113000
+:ICAL_DTEND: 20260429T120000
+:ICAL_CLASS: PUBLIC
+:ICAL_PRIORITY: 5
+:ICAL_DTSTAMP: 20260424T131438Z
+:ICAL_TRANSP: OPAQUE
+:ICAL_STATUS: CONFIRMED
+:ICAL_SEQUENCE: 34
+:ICAL_LOCATION: Microsoft Teams Meeting
+:ICAL_X-MICROSOFT-CDO-APPT-SEQUENCE: 34
+:ICAL_X-MICROSOFT-CDO-BUSYSTATUS: TENTATIVE
+:ICAL_X-MICROSOFT-CDO-INTENDEDSTATUS: BUSY
+:ICAL_X-MICROSOFT-CDO-ALLDAYEVENT: FALSE
+:ICAL_X-MICROSOFT-CDO-IMPORTANCE: 1
+:ICAL_X-MICROSOFT-CDO-INSTTYPE: 3
+:ICAL_X-MICROSOFT-DONOTFORWARDMEETING: FALSE
+:ICAL_X-MICROSOFT-DISALLOW-COUNTER: FALSE
+:ICAL_X-MICROSOFT-REQUESTEDATTENDANCEMODE: DEFAULT
+:ICAL_X-MICROSOFT-ISRESPONSEREQUESTED: FALSE
+:END:
+
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTc2YWZhYzAtOTEyNi00N2NkLWI3MjEtMmFiNmJkY2U1ZTZi%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22c9a095c1-68b3-4aa4-a85c-27226d6c5a34%22%7d>
+Meeting ID: 253 935 824 574 0
+Passcode: WH7nJ9pS
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=c9a095c1-68b3-4aa4-a85c-27226d6c5a34&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MTc2YWZhYzAtOTEyNi00N2NkLWI3MjEtMmFiNmJkY2U1ZTZi@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+*  CCDB Goal setting for 2027
+<2026-05-04 Mon 14:00>--<2026-05-04 Mon 15:30>
+:PROPERTIES:
+:CUSTOM_ID: 040000008200E00074C5B7101A82E008000000009292E295A84AD801000000000000000010000000F13A2497250E9C4B879DEDC1F3F0DBED
+:ICAL_RECURRENCE-ID: 20260504T130000
+:ICAL_DTEND: 20260504T143000
+:ICAL_CLASS: PUBLIC
+:ICAL_PRIORITY: 5
+:ICAL_DTSTAMP: 20260424T131438Z
+:ICAL_TRANSP: OPAQUE
+:ICAL_STATUS: CONFIRMED
+:ICAL_SEQUENCE: 291
+:ICAL_LOCATION: Microsoft Teams Meeting
+:ICAL_X-MICROSOFT-CDO-APPT-SEQUENCE: 291
+:ICAL_X-MICROSOFT-CDO-BUSYSTATUS: BUSY
+:ICAL_X-MICROSOFT-CDO-INTENDEDSTATUS: BUSY
+:ICAL_X-MICROSOFT-CDO-ALLDAYEVENT: FALSE
+:ICAL_X-MICROSOFT-CDO-IMPORTANCE: 1
+:ICAL_X-MICROSOFT-CDO-INSTTYPE: 3
+:ICAL_X-MICROSOFT-DONOTFORWARDMEETING: FALSE
+:ICAL_X-MICROSOFT-DISALLOW-COUNTER: FALSE
+:ICAL_X-MICROSOFT-REQUESTEDATTENDANCEMODE: DEFAULT
+:ICAL_X-MICROSOFT-ISRESPONSEREQUESTED: FALSE
+:END:
+
+________________________________________________________________________________
+Microsoft Teams meeting
+Join on your computer or mobile app
+Click here to join the meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjQ3NWMyMzItOTFmZS00NTZmLTg5MTItYmU2YzM4NDA2MDEw%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22b623d02d-2c0a-4e92-851f-e458f1cebe85%22%7d>
+Learn More<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=b623d02d-2c0a-4e92-851f-e458f1cebe85&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_YjQ3NWMyMzItOTFmZS00NTZmLTg5MTItYmU2YzM4NDA2MDEw@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+*  Employee Goal Setting Training - Session 1 (If unable to attend coffee chat may 6)
+<2026-05-05 Tue 12:00>--<2026-05-05 Tue 12:45>
+:PROPERTIES:
+:CUSTOM_ID: 040000008200E00074C5B7101A82E00800000000D034B03D9FC6DC0100000000000000001000000030FA344989E6BB4F99882749A75EE1B9
+:ICAL_DTEND: 20260505T114500
+:ICAL_CLASS: PUBLIC
+:ICAL_PRIORITY: 5
+:ICAL_DTSTAMP: 20260424T131438Z
 :ICAL_TRANSP: OPAQUE
 :ICAL_STATUS: CONFIRMED
 :ICAL_SEQUENCE: 0
 :ICAL_LOCATION: Microsoft Teams Meeting
+:ICAL_X-MICROSOFT-CDO-APPT-SEQUENCE: 0
+:ICAL_X-MICROSOFT-CDO-BUSYSTATUS: TENTATIVE
+:ICAL_X-MICROSOFT-CDO-INTENDEDSTATUS: BUSY
+:ICAL_X-MICROSOFT-CDO-ALLDAYEVENT: FALSE
+:ICAL_X-MICROSOFT-CDO-IMPORTANCE: 1
+:ICAL_X-MICROSOFT-CDO-INSTTYPE: 0
+:ICAL_X-MICROSOFT-DONOTFORWARDMEETING: FALSE
+:ICAL_X-MICROSOFT-DISALLOW-COUNTER: FALSE
+:ICAL_X-MICROSOFT-REQUESTEDATTENDANCEMODE: DEFAULT
+:ICAL_X-MICROSOFT-ISRESPONSEREQUESTED: FALSE
+:END:
+This is a training session for PEAK Goal Setting.
+If you are able to attend the coffee chat on May 6th you do not need to attend this session – please only attend one of the additional sessions if you are unable to attend the coffee chat.
+________________________________________________________________________________
+Microsoft Teams meeting
+Join: https://teams.microsoft.com/meet/244211632107914?p=lDkUZ301yIcPisbxyb
+Meeting ID: 244 211 632 107 914
+Passcode: ss7Q9SP6
+________________________________
+Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODNkZTc4NTgtNTIzNy00NjkwLTk2MGUtNGQ2MmQ4YjdlZmNi%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22a6eabf7b-f59a-4688-ae95-785167baf5d6%22%7d>
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=a6eabf7b-f59a-4688-ae95-785167baf5d6&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_ODNkZTc4NTgtNTIzNy00NjkwLTk2MGUtNGQ2MmQ4YjdlZmNi@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+*  CCDB Daily coordination meeting
+<2026-05-05 Tue 15:00>--<2026-05-05 Tue 15:30>
+:PROPERTIES:
+:CUSTOM_ID: 040000008200E00074C5B7101A82E008000000009292E295A84AD801000000000000000010000000F13A2497250E9C4B879DEDC1F3F0DBED
+:ICAL_RECURRENCE-ID: 20260505T130000
+:ICAL_DTEND: 20260505T143000
+:ICAL_CLASS: PUBLIC
+:ICAL_PRIORITY: 5
+:ICAL_DTSTAMP: 20260424T131438Z
+:ICAL_TRANSP: OPAQUE
+:ICAL_STATUS: CONFIRMED
+:ICAL_SEQUENCE: 283
+:ICAL_LOCATION: Microsoft Teams Meeting
+:ICAL_X-MICROSOFT-CDO-APPT-SEQUENCE: 283
+:ICAL_X-MICROSOFT-CDO-BUSYSTATUS: BUSY
+:ICAL_X-MICROSOFT-CDO-INTENDEDSTATUS: BUSY
+:ICAL_X-MICROSOFT-CDO-ALLDAYEVENT: FALSE
+:ICAL_X-MICROSOFT-CDO-IMPORTANCE: 1
+:ICAL_X-MICROSOFT-CDO-INSTTYPE: 3
+:ICAL_X-MICROSOFT-DONOTFORWARDMEETING: FALSE
+:ICAL_X-MICROSOFT-DISALLOW-COUNTER: FALSE
+:ICAL_X-MICROSOFT-REQUESTEDATTENDANCEMODE: DEFAULT
+:ICAL_X-MICROSOFT-ISRESPONSEREQUESTED: FALSE
+:END:
+
+________________________________________________________________________________
+Microsoft Teams meeting
+Join on your computer or mobile app
+Click here to join the meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjQ3NWMyMzItOTFmZS00NTZmLTg5MTItYmU2YzM4NDA2MDEw%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22b623d02d-2c0a-4e92-851f-e458f1cebe85%22%7d>
+Learn More<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=b623d02d-2c0a-4e92-851f-e458f1cebe85&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_YjQ3NWMyMzItOTFmZS00NTZmLTg5MTItYmU2YzM4NDA2MDEw@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+*  Special Coffee Chat - Goal Summary and Training
+<2026-05-06 Wed 12:30>--<2026-05-06 Wed 13:15>
+:PROPERTIES:
+:CUSTOM_ID: 040000008200E00074C5B7101A82E0080000000083CEC195BEDFDB01000000000000000010000000BE9F790B125D3E4C89C785FB08DCE55F
+:ICAL_RECURRENCE-ID: 20260506T113000
+:ICAL_DTEND: 20260506T121500
+:ICAL_CLASS: PUBLIC
+:ICAL_PRIORITY: 5
+:ICAL_DTSTAMP: 20260424T131438Z
+:ICAL_TRANSP: OPAQUE
+:ICAL_STATUS: CONFIRMED
+:ICAL_SEQUENCE: 63
+:ICAL_LOCATION: Microsoft Teams Meeting
+:ICAL_X-MICROSOFT-CDO-APPT-SEQUENCE: 63
+:ICAL_X-MICROSOFT-CDO-BUSYSTATUS: TENTATIVE
+:ICAL_X-MICROSOFT-CDO-INTENDEDSTATUS: BUSY
+:ICAL_X-MICROSOFT-CDO-ALLDAYEVENT: FALSE
+:ICAL_X-MICROSOFT-CDO-IMPORTANCE: 1
+:ICAL_X-MICROSOFT-CDO-INSTTYPE: 3
+:ICAL_X-MICROSOFT-DONOTFORWARDMEETING: FALSE
+:ICAL_X-MICROSOFT-DISALLOW-COUNTER: FALSE
+:ICAL_X-MICROSOFT-REQUESTEDATTENDANCEMODE: DEFAULT
+:ICAL_X-MICROSOFT-ISRESPONSEREQUESTED: FALSE
+:END:
+ Michael Schull attending to speak a bit about our Corporate Goals for the upcoming year.
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTc2YWZhYzAtOTEyNi00N2NkLWI3MjEtMmFiNmJkY2U1ZTZi%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22c9a095c1-68b3-4aa4-a85c-27226d6c5a34%22%7d>
+Meeting ID: 253 935 824 574 0
+Passcode: WH7nJ9pS
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=c9a095c1-68b3-4aa4-a85c-27226d6c5a34&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MTc2YWZhYzAtOTEyNi00N2NkLWI3MjEtMmFiNmJkY2U1ZTZi@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+*  Center of Excellence helper
+<2026-06-03 Wed 10:00>--<2026-06-03 Wed 12:00>
+:PROPERTIES:
+:CUSTOM_ID: 040000008200E00074C5B7101A82E00800000000E69A3A09E0D1DC01000000000000000010000000C844784BC5F9D948AAB83F949285DB6F
+:ICAL_DTEND: 20260603T120000
+:ICAL_CLASS: PUBLIC
+:ICAL_PRIORITY: 5
+:ICAL_DTSTAMP: 20260424T131438Z
+:ICAL_TRANSP: OPAQUE
+:ICAL_STATUS: CONFIRMED
+:ICAL_SEQUENCE: 0
+:ICAL_LOCATION: 
 :ICAL_X-MICROSOFT-CDO-APPT-SEQUENCE: 0
 :ICAL_X-MICROSOFT-CDO-BUSYSTATUS: BUSY
 :ICAL_X-MICROSOFT-CDO-INTENDEDSTATUS: BUSY
@@ -22,133 +224,19 @@
 :ICAL_X-MICROSOFT-ISRESPONSEREQUESTED: FALSE
 :END:
 
-________________________________________________________________________________
-Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
-Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzZlZTVhNWQtMmJkZi00NDU1LWI1YjYtZTdmYTMwOTM5Mjdk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22c9a095c1-68b3-4aa4-a85c-27226d6c5a34%22%7d>
-Meeting ID: 210 868 411 808 81
-Passcode: F4Cy64DD
-________________________________
-For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=c9a095c1-68b3-4aa4-a85c-27226d6c5a34&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_YzZlZTVhNWQtMmJkZi00NDU1LWI1YjYtZTdmYTMwOTM5Mjdk@thread.v2&messageId=0&language=en-US>
-________________________________________________________________________________
 
-
-*  Coffee Chat
-<2026-03-25 Wed 12:30>--<2026-03-25 Wed 13:00>
+*  intro to OpenFoam
+<2026-06-08 Mon 10:00>--<2026-06-08 Mon 13:00>
 :PROPERTIES:
-:CUSTOM_ID: 040000008200E00074C5B7101A82E0080000000083CEC195BEDFDB01000000000000000010000000BE9F790B125D3E4C89C785FB08DCE55F
-:ICAL_RECURRENCE-ID: 20260325T113000
-:ICAL_DTEND: 20260325T120000
+:CUSTOM_ID: 040000008200E00074C5B7101A82E00800000000D3F86EB8DFD1DC01000000000000000010000000DF08D93030EDD44DBD3600FF450672EA
+:ICAL_DTEND: 20260608T120000
 :ICAL_CLASS: PUBLIC
 :ICAL_PRIORITY: 5
-:ICAL_DTSTAMP: 20260313T020902Z
-:ICAL_TRANSP: OPAQUE
-:ICAL_STATUS: CONFIRMED
-:ICAL_SEQUENCE: 34
-:ICAL_LOCATION: Microsoft Teams Meeting
-:ICAL_X-MICROSOFT-CDO-APPT-SEQUENCE: 34
-:ICAL_X-MICROSOFT-CDO-BUSYSTATUS: TENTATIVE
-:ICAL_X-MICROSOFT-CDO-INTENDEDSTATUS: BUSY
-:ICAL_X-MICROSOFT-CDO-ALLDAYEVENT: FALSE
-:ICAL_X-MICROSOFT-CDO-IMPORTANCE: 1
-:ICAL_X-MICROSOFT-CDO-INSTTYPE: 3
-:ICAL_X-MICROSOFT-DONOTFORWARDMEETING: FALSE
-:ICAL_X-MICROSOFT-DISALLOW-COUNTER: FALSE
-:ICAL_X-MICROSOFT-REQUESTEDATTENDANCEMODE: DEFAULT
-:ICAL_X-MICROSOFT-ISRESPONSEREQUESTED: FALSE
-:END:
-
-________________________________________________________________________________
-Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
-Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTc2YWZhYzAtOTEyNi00N2NkLWI3MjEtMmFiNmJkY2U1ZTZi%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22c9a095c1-68b3-4aa4-a85c-27226d6c5a34%22%7d>
-Meeting ID: 253 935 824 574 0
-Passcode: WH7nJ9pS
-________________________________
-For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=c9a095c1-68b3-4aa4-a85c-27226d6c5a34&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MTc2YWZhYzAtOTEyNi00N2NkLWI3MjEtMmFiNmJkY2U1ZTZi@thread.v2&messageId=0&language=en-US>
-________________________________________________________________________________
-
-
-*  Coffee Chat
-<2026-04-08 Wed 12:30>--<2026-04-08 Wed 13:00>
-:PROPERTIES:
-:CUSTOM_ID: 040000008200E00074C5B7101A82E0080000000083CEC195BEDFDB01000000000000000010000000BE9F790B125D3E4C89C785FB08DCE55F
-:ICAL_RECURRENCE-ID: 20260408T113000
-:ICAL_DTEND: 20260408T120000
-:ICAL_CLASS: PUBLIC
-:ICAL_PRIORITY: 5
-:ICAL_DTSTAMP: 20260313T020902Z
-:ICAL_TRANSP: OPAQUE
-:ICAL_STATUS: CONFIRMED
-:ICAL_SEQUENCE: 34
-:ICAL_LOCATION: Microsoft Teams Meeting
-:ICAL_X-MICROSOFT-CDO-APPT-SEQUENCE: 34
-:ICAL_X-MICROSOFT-CDO-BUSYSTATUS: TENTATIVE
-:ICAL_X-MICROSOFT-CDO-INTENDEDSTATUS: BUSY
-:ICAL_X-MICROSOFT-CDO-ALLDAYEVENT: FALSE
-:ICAL_X-MICROSOFT-CDO-IMPORTANCE: 1
-:ICAL_X-MICROSOFT-CDO-INSTTYPE: 3
-:ICAL_X-MICROSOFT-DONOTFORWARDMEETING: FALSE
-:ICAL_X-MICROSOFT-DISALLOW-COUNTER: FALSE
-:ICAL_X-MICROSOFT-REQUESTEDATTENDANCEMODE: DEFAULT
-:ICAL_X-MICROSOFT-ISRESPONSEREQUESTED: FALSE
-:END:
-
-________________________________________________________________________________
-Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
-Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTc2YWZhYzAtOTEyNi00N2NkLWI3MjEtMmFiNmJkY2U1ZTZi%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22c9a095c1-68b3-4aa4-a85c-27226d6c5a34%22%7d>
-Meeting ID: 253 935 824 574 0
-Passcode: WH7nJ9pS
-________________________________
-For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=c9a095c1-68b3-4aa4-a85c-27226d6c5a34&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MTc2YWZhYzAtOTEyNi00N2NkLWI3MjEtMmFiNmJkY2U1ZTZi@thread.v2&messageId=0&language=en-US>
-________________________________________________________________________________
-
-
-*  Coffee Chat
-<2026-04-15 Wed 12:30>--<2026-04-15 Wed 13:00>
-:PROPERTIES:
-:CUSTOM_ID: 040000008200E00074C5B7101A82E0080000000083CEC195BEDFDB01000000000000000010000000BE9F790B125D3E4C89C785FB08DCE55F
-:ICAL_RECURRENCE-ID: 20260415T113000
-:ICAL_DTEND: 20260415T120000
-:ICAL_CLASS: PUBLIC
-:ICAL_PRIORITY: 5
-:ICAL_DTSTAMP: 20260313T020902Z
-:ICAL_TRANSP: OPAQUE
-:ICAL_STATUS: CONFIRMED
-:ICAL_SEQUENCE: 34
-:ICAL_LOCATION: Microsoft Teams Meeting
-:ICAL_X-MICROSOFT-CDO-APPT-SEQUENCE: 34
-:ICAL_X-MICROSOFT-CDO-BUSYSTATUS: TENTATIVE
-:ICAL_X-MICROSOFT-CDO-INTENDEDSTATUS: BUSY
-:ICAL_X-MICROSOFT-CDO-ALLDAYEVENT: FALSE
-:ICAL_X-MICROSOFT-CDO-IMPORTANCE: 1
-:ICAL_X-MICROSOFT-CDO-INSTTYPE: 3
-:ICAL_X-MICROSOFT-DONOTFORWARDMEETING: FALSE
-:ICAL_X-MICROSOFT-DISALLOW-COUNTER: FALSE
-:ICAL_X-MICROSOFT-REQUESTEDATTENDANCEMODE: DEFAULT
-:ICAL_X-MICROSOFT-ISRESPONSEREQUESTED: FALSE
-:END:
-
-________________________________________________________________________________
-Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
-Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTc2YWZhYzAtOTEyNi00N2NkLWI3MjEtMmFiNmJkY2U1ZTZi%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22c9a095c1-68b3-4aa4-a85c-27226d6c5a34%22%7d>
-Meeting ID: 253 935 824 574 0
-Passcode: WH7nJ9pS
-________________________________
-For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=c9a095c1-68b3-4aa4-a85c-27226d6c5a34&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MTc2YWZhYzAtOTEyNi00N2NkLWI3MjEtMmFiNmJkY2U1ZTZi@thread.v2&messageId=0&language=en-US>
-________________________________________________________________________________
-
-
-*  All Staff Meeting (April 20)
-<2026-04-20 Mon 14:00>--<2026-04-20 Mon 15:30>
-:PROPERTIES:
-:CUSTOM_ID: 040000008200E00074C5B7101A82E00800000000F34589D8846FDC0100000000000000001000000027995BDA6A5D8745BE21A74EBE26D7A2
-:ICAL_DTEND: 20260420T143000
-:ICAL_CLASS: PUBLIC
-:ICAL_PRIORITY: 5
-:ICAL_DTSTAMP: 20260313T020902Z
+:ICAL_DTSTAMP: 20260424T131438Z
 :ICAL_TRANSP: OPAQUE
 :ICAL_STATUS: CONFIRMED
 :ICAL_SEQUENCE: 0
-:ICAL_LOCATION: Microsoft Teams Meeting
+:ICAL_LOCATION: 
 :ICAL_X-MICROSOFT-CDO-APPT-SEQUENCE: 0
 :ICAL_X-MICROSOFT-CDO-BUSYSTATUS: BUSY
 :ICAL_X-MICROSOFT-CDO-INTENDEDSTATUS: BUSY
@@ -160,16 +248,32 @@ ________________________________________________________________________________
 :ICAL_X-MICROSOFT-REQUESTEDATTENDANCEMODE: DEFAULT
 :ICAL_X-MICROSOFT-ISRESPONSEREQUESTED: FALSE
 :END:
+https://training.computeontario.ca/courses/course/view.php?id=243
 
-________________________________________________________________________________
-Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
-Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWQ3MTUzYjUtZDYzYS00ZmE4LWEzZWEtZTEyY2IzOWY5YzAz%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22c9a095c1-68b3-4aa4-a85c-27226d6c5a34%22%7d>
-Meeting ID: 211 516 497 746 40
-Passcode: 5RC7nQ3m
-________________________________
-For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=c9a095c1-68b3-4aa4-a85c-27226d6c5a34&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_ZWQ3MTUzYjUtZDYzYS00ZmE4LWEzZWEtZTEyY2IzOWY5YzAz@thread.v2&messageId=0&language=en-US>
-________________________________________________________________________________
-
+*  other languages in python
+<2026-06-12 Fri 10:00>--<2026-06-12 Fri 13:00>
+:PROPERTIES:
+:CUSTOM_ID: 040000008200E00074C5B7101A82E00800000000F3515A45DFD1DC01000000000000000010000000A70C407D955CE5448350EE19D6B3C342
+:ICAL_DTEND: 20260612T120000
+:ICAL_CLASS: PUBLIC
+:ICAL_PRIORITY: 5
+:ICAL_DTSTAMP: 20260424T131438Z
+:ICAL_TRANSP: OPAQUE
+:ICAL_STATUS: CONFIRMED
+:ICAL_SEQUENCE: 0
+:ICAL_LOCATION: 
+:ICAL_X-MICROSOFT-CDO-APPT-SEQUENCE: 0
+:ICAL_X-MICROSOFT-CDO-BUSYSTATUS: BUSY
+:ICAL_X-MICROSOFT-CDO-INTENDEDSTATUS: BUSY
+:ICAL_X-MICROSOFT-CDO-ALLDAYEVENT: FALSE
+:ICAL_X-MICROSOFT-CDO-IMPORTANCE: 1
+:ICAL_X-MICROSOFT-CDO-INSTTYPE: 0
+:ICAL_X-MICROSOFT-DONOTFORWARDMEETING: FALSE
+:ICAL_X-MICROSOFT-DISALLOW-COUNTER: FALSE
+:ICAL_X-MICROSOFT-REQUESTEDATTENDANCEMODE: DEFAULT
+:ICAL_X-MICROSOFT-ISRESPONSEREQUESTED: FALSE
+:END:
+https://training.computeontario.ca/courses/course/view.php?id=250
 
 *  All Staff Meeting (June 29)
 <2026-06-29 Mon 14:00>--<2026-06-29 Mon 15:30>
@@ -178,7 +282,7 @@ ________________________________________________________________________________
 :ICAL_DTEND: 20260629T143000
 :ICAL_CLASS: PUBLIC
 :ICAL_PRIORITY: 5
-:ICAL_DTSTAMP: 20260313T020902Z
+:ICAL_DTSTAMP: 20260424T131438Z
 :ICAL_TRANSP: OPAQUE
 :ICAL_STATUS: CONFIRMED
 :ICAL_SEQUENCE: 0
@@ -202,5 +306,40 @@ Meeting ID: 221 750 152 622 28
 Passcode: SB3Bz9tN
 ________________________________
 For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=c9a095c1-68b3-4aa4-a85c-27226d6c5a34&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_ZDMxMDc0ODctNmZjMy00YWZjLTg1MDctNjc3ZTJlOWIyYjgy@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+*  Coffee Chat
+<2026-08-05 Wed 12:30>--<2026-08-05 Wed 13:00>
+:PROPERTIES:
+:CUSTOM_ID: 040000008200E00074C5B7101A82E0080000000083CEC195BEDFDB01000000000000000010000000BE9F790B125D3E4C89C785FB08DCE55F
+:ICAL_RECURRENCE-ID: 20260805T113000
+:ICAL_DTEND: 20260805T120000
+:ICAL_CLASS: PUBLIC
+:ICAL_PRIORITY: 5
+:ICAL_DTSTAMP: 20260424T131438Z
+:ICAL_TRANSP: OPAQUE
+:ICAL_STATUS: CONFIRMED
+:ICAL_SEQUENCE: 34
+:ICAL_LOCATION: Microsoft Teams Meeting
+:ICAL_X-MICROSOFT-CDO-APPT-SEQUENCE: 34
+:ICAL_X-MICROSOFT-CDO-BUSYSTATUS: TENTATIVE
+:ICAL_X-MICROSOFT-CDO-INTENDEDSTATUS: BUSY
+:ICAL_X-MICROSOFT-CDO-ALLDAYEVENT: FALSE
+:ICAL_X-MICROSOFT-CDO-IMPORTANCE: 1
+:ICAL_X-MICROSOFT-CDO-INSTTYPE: 3
+:ICAL_X-MICROSOFT-DONOTFORWARDMEETING: FALSE
+:ICAL_X-MICROSOFT-DISALLOW-COUNTER: FALSE
+:ICAL_X-MICROSOFT-REQUESTEDATTENDANCEMODE: DEFAULT
+:ICAL_X-MICROSOFT-ISRESPONSEREQUESTED: FALSE
+:END:
+
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTc2YWZhYzAtOTEyNi00N2NkLWI3MjEtMmFiNmJkY2U1ZTZi%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22c9a095c1-68b3-4aa4-a85c-27226d6c5a34%22%7d>
+Meeting ID: 253 935 824 574 0
+Passcode: WH7nJ9pS
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=c9a095c1-68b3-4aa4-a85c-27226d6c5a34&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MTc2YWZhYzAtOTEyNi00N2NkLWI3MjEtMmFiNmJkY2U1ZTZi@thread.v2&messageId=0&language=en-US>
 ________________________________________________________________________________
 
