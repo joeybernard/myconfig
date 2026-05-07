@@ -31,6 +31,15 @@
 (use-package command-log-mode)
 
 
+;; Setup personal info
+(setq user-full-name "Joey Bernard"
+      user-mail-address "druid.bernard@gmail.com")
+
+
+;; Set line numbers
+(setq display-line-numbers-type t)
+
+
 
 ;; Setup a spot for local elisp code
 (defvar local-lisp "~/.emacs.d/local-lisp/")
@@ -44,6 +53,75 @@
 (use-package tron-legacy-theme
   :config
   (load-theme 'tron-legacy t))
+
+
+
+;; Setup org-mode stuff
+(require 'org)
+
+;; include diary data
+(setq org-agenda-include-diary t)
+
+;; Must do this so the agenda knows where to look for my files
+(setq org-agenda-files '("~/my_org"))
+
+;; When a TODO is set to a done state, record a timestamp
+(setq org-log-done 'time)
+
+;; Follow the links
+(setq org-return-follows-link  t)
+
+;; Associate all org files with org mode
+(add-to-list 'auto-mode-alist '("\\.org\\'" . org-mode))
+
+;; Make the indentation look nicer
+(add-hook 'org-mode-hook 'org-indent-mode)
+
+;; Remap the change priority keys to use the UP or DOWN key
+(define-key org-mode-map (kbd "C-c <up>") 'org-priority-up)
+(define-key org-mode-map (kbd "C-c <down>") 'org-priority-down)
+
+;; Shortcuts for storing links, viewing the agenda, and starting a capture
+(define-key global-map "\C-cl" 'org-store-link)
+(define-key global-map "\C-ca" 'org-agenda)
+(define-key global-map "\C-cc" 'org-capture)
+
+;; When you want to change the level of an org item, use SMR
+(define-key org-mode-map (kbd "C-c C-g C-r") 'org-shiftmetaright)
+
+;; Hide the markers so you just see bold text as BOLD-TEXT and not *BOLD-TEXT*
+(setq org-hide-emphasis-markers t)
+
+;; Wrap the lines in org mode so that things are easier to read
+(add-hook 'org-mode-hook 'visual-line-mode)
+
+;;(use-package org-ics-import
+;;	:load-path "~/.emacs.d/local-lisp/org-ics-import/")
+
+;;(setq org-ics-import-update-interval 3600)
+;;(setq org-ics-import-calendars-alist '(
+;;   ("https://calendar.google.com/calendar/ical/druid.bernard%40gmail.com/private-6fe0c18dc92c51f1c6646fc3f7c94203/basic.ics" . "~/my_org/gcal.org")
+;;   ("https://outlook.office365.com/owa/calendar/76529b53d3d64efd956dd377958fc5c8@alliancecan.ca/71a27ea4de514fdeb68426dea03a501411738982182761455362/calendar.ics" . "~/my_org/drac_outlook.org")
+;;   ("https://outlook.office365.com/owa/calendar/ef9e8bf4c2f64d4faa08a7d828f99e84@unb.ca/cde34430e78d418b90b14926e4fed07e4299525889863396979/calendar.ics" . "~/my_org/unb.org")
+;;   ("https://calendar.google.com/calendar/ical/joey.bernard%40gw.alliancecan.ca/private-544e253b15a3b76b3dbf9dd75081ae98/basic.ics" . "~/my_org/drac_gcal.org")
+;;   )
+;;)
+;;(setq org-ics-import-exclude-strings '("Cancelled"))
+;;(setq org-ics-import-confirmed-overwrite
+;;   '("~/my_org/drac_gcal.org" "~/my_org/unb.org" "~/my_org/drac_outlook.org"
+;;     "~/my_org/gcal.org"))
+
+(use-package org-roam
+  :ensure t
+  :init
+  (setq org-roam-v2-ack t)
+  :custom
+  (org-roam-directory "~/RoamNotes")
+  :bind (("C-c n l" . org-roam-buffer-toggle)
+         ("C-c n f" . org-roam-node-find)
+         ("C-c n i" . org-roam-node-insert))
+  :config
+  (org-roam-setup))
 
 
 
@@ -114,7 +192,7 @@
 (when (string= (system-name) "bernardj.ccdbdev-ng.driirn.ca")
   (with-eval-after-load 'eglot
     (add-to-list 'eglot-server-programs
-		 '(ruby-mode . ("solrgraph" "--stdio")))))
+		 '(ruby-mode . ("/home/bernardj/ccdb/ccdb_portal/vendor/bundle/ruby/3.2.0/bin/solargraph" "stdio")))))
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.

@@ -1,0 +1,649 @@
+#+TITLE: Calendar
+#+AUTHOR: 
+#+EMAIL: 
+#+DESCRIPTION: converted using the Pical2org python script
+#+CATEGORY: calendar
+
+
+* Acenet training
+<2025-05-07 Wed 10:00>--<2025-05-07 Wed 11:30>
+
+* Call with Kenechukwu
+<2025-05-07 Wed 14:30>--<2025-05-07 Wed 15:00>
+
+* Call with Mohammed
+<2025-05-07 Wed 17:30>--<2025-05-07 Wed 18:00>
+
+* Busy
+<2025-05-08 Thu 10:00>--<2025-05-08 Thu 11:00>
+
+* call with Craig
+<2025-05-08 Thu 13:30>--<2025-05-08 Thu 14:30>
+
+* Busy
+<2025-05-09 Fri 08:00>--<2025-05-09 Fri 09:00>
+
+* tech team call
+<2025-05-11 Sun 10:00>--<2025-05-11 Sun 11:00>
+
+* python helper
+<2025-05-15 Thu 15:00>--<2025-05-15 Thu 18:00>
+
+* NB-IRDT MOVIE NIGHT - "CONCLAVE"
+<2025-05-15 Thu 19:00>--<2025-05-15 Thu 21:00>
+
+* Staff 1:1 - Joey/Ines
+<2025-05-16 Fri 09:30>--<2025-05-16 Fri 10:00>
+
+* Staff 1:1 - Joey/Ines
+<2025-05-30 Fri 09:30>--<2025-05-30 Fri 10:00>
+
+* Staff 1:1 - Joey/Ines
+<2025-06-13 Fri 09:30>--<2025-06-13 Fri 10:00>
+
+* Staff 1:1 - Joey/Ines
+<2025-06-27 Fri 09:30>--<2025-06-27 Fri 10:00>
+
+* Staff 1:1 - Joey/Ines
+<2025-07-11 Fri 09:30>--<2025-07-11 Fri 10:00>
+
+* Staff 1:1 - Joey/Ines
+<2025-07-25 Fri 09:30>--<2025-07-25 Fri 10:00>
+
+* Staff 1:1 - Joey/Ines
+<2025-08-08 Fri 09:30>--<2025-08-08 Fri 10:00>
+
+* Staff 1:1 - Joey/Ines
+<2025-08-22 Fri 09:30>--<2025-08-22 Fri 10:00>
+
+* Staff 1:1 - Joey/Ines
+<2025-09-05 Fri 09:30>--<2025-09-05 Fri 10:00>
+
+* Staff 1:1 - Joey/Ines
+<2025-09-19 Fri 09:30>--<2025-09-19 Fri 10:00>
+
+* Staff 1:1 - Joey/Ines
+<2025-10-03 Fri 09:30>--<2025-10-03 Fri 10:00>
+
+* Staff 1:1 - Joey/Ines
+<2025-10-31 Fri 09:30>--<2025-10-31 Fri 10:00>
+
+* Staff 1:1 - Joey/Ines
+<2025-11-14 Fri 09:30>--<2025-11-14 Fri 10:00>
+
+* Staff 1:1 - Joey/Ines
+<2025-11-28 Fri 09:30>--<2025-11-28 Fri 10:00>
+
+* 2025 Level 1 Meetings
+<2025-05-20 Tue 11:00>--<2025-05-20 Tue 11:50>
+
+* 2025 Level 1 Meetings
+<2025-06-17 Tue 11:00>--<2025-06-17 Tue 11:50>
+
+* 2025 Level 1 Meetings
+<2025-07-15 Tue 11:00>--<2025-07-15 Tue 11:50>
+
+* 2025 Level 1 Meetings
+<2025-08-19 Tue 11:00>--<2025-08-19 Tue 11:50>
+
+* 2025 Level 1 Meetings
+<2025-09-16 Tue 11:00>--<2025-09-16 Tue 11:50>
+
+* 2025 Level 1 Meetings
+<2025-10-21 Tue 11:00>--<2025-10-21 Tue 11:50>
+
+* 2025 Level 1 Meetings
+<2025-11-18 Tue 11:00>--<2025-11-18 Tue 11:50>
+
+* 2025 Level 1 Meetings
+<2025-12-16 Tue 11:00>--<2025-12-16 Tue 11:50>
+
+* 2025 Level 1 Meetings
+<2026-01-20 Tue 11:00>--<2026-01-20 Tue 11:50>
+
+* NB-IRDT Remote Access 
+<2025-05-20 Tue 13:30>--<2025-05-20 Tue 13:55>
+
+* python helper
+<2025-05-20 Tue 15:00>--<2025-05-20 Tue 18:00>
+
+* Technical AI Compute Requirements for UNB Health Data
+<2025-05-21 Wed 11:00>--<2025-05-21 Wed 12:00>
+
+* python helper
+<2025-05-22 Thu 15:00>--<2025-05-22 Thu 18:00>
+
+* Redcap call
+<2025-05-23 Fri 09:30>--<2025-05-23 Fri 10:00>
+
+* DRI Connect
+<2025-05-26 Mon>--<2025-05-30 Fri>
+
+* Science Fair
+<2025-06-02 Mon>
+
+* Science Fair
+<2025-06-03 Tue 08:00>--<2025-06-03 Tue 14:00>
+
+* NBIDRT & CIC
+<2025-06-03 Tue 14:00>--<2025-06-03 Tue 15:00>
+
+* Talk
+<2025-06-05 Thu 13:00>--<2025-06-05 Thu 14:30>
+
+* Tech Team
+<2025-06-09 Mon 10:00>--<2025-06-09 Mon 11:00>
+
+* NB-IRDT Staff Meeting
+<2025-06-09 Mon 15:00>--<2025-06-09 Mon 16:30>
+
+* Post-Staff Meeting BBQ - UPDATE
+<2025-06-09 Mon 16:30>--<2025-06-09 Mon 18:30>
+
+* Breaking Barriers: Distributed Analysis for Multi-regional Research
+<2025-06-12 Thu 14:00>--<2025-06-12 Thu 15:00>
+
+* Python Course
+<2025-06-13 Fri 14:30>--<2025-06-13 Fri 17:30>
+
+* CRC
+<2025-06-16 Mon 10:00>--<2025-06-16 Mon 11:00>
+
+* Rust Course
+<2025-06-17 Tue 09:30>--<2025-06-17 Tue 13:00>
+
+* MPI Course
+<2025-06-18 Wed 09:30>--<2025-06-18 Wed 13:00>
+
+* MPI Course
+<2025-06-18 Wed 14:30>--<2025-06-18 Wed 17:30>
+
+* Deep Dive - Strategy for Data Trust
+<2025-06-19 Thu 09:30>--<2025-06-19 Thu 12:00>
+
+* MPI Course
+<2025-06-20 Fri 09:30>--<2025-06-20 Fri 13:00>
+
+* MPI Course
+<2025-06-20 Fri 14:30>--<2025-06-20 Fri 17:30>
+
+* Tech Team
+<2025-06-23 Mon 10:00>--<2025-06-23 Mon 11:00>
+
+* DRI
+<2025-06-23 Mon 14:00>--<2025-06-23 Mon 15:30>
+
+* Dentist
+<2025-06-25 Wed 08:00>--<2025-06-25 Wed 09:00>
+
+* Python Course
+<2025-06-25 Wed 10:00>--<2025-06-25 Wed 14:00>
+
+* NB-IRDT Remote Access check-in
+<2025-06-25 Wed 14:30>--<2025-06-25 Wed 15:00>
+
+* Python Course
+<2025-06-26 Thu 10:00>--<2025-06-26 Thu 14:00>
+
+* Annual Odell Park Picnic
+<2025-06-27 Fri 14:00>--<2025-06-27 Fri 16:30>
+
+* Vacation
+<2025-06-30 Mon>
+
+* CRC
+<2025-06-30 Mon 10:00>--<2025-06-30 Mon 11:00>
+
+* Tech Call
+<2025-07-07 Mon 10:00>--<2025-07-07 Mon 11:00>
+
+* Python helper
+<2025-07-08 Tue>--<2025-07-10 Thu>
+
+* UBC Python
+<2025-07-08 Tue 13:30>--<2025-07-08 Tue 15:30>
+
+* UBC Python
+<2025-07-09 Wed 13:30>--<2025-07-09 Wed 15:30>
+
+* Banking
+<2025-07-10 Thu 12:00>--<2025-07-10 Thu 13:00>
+
+* UPDATE: Movie Night at NB-IRDT: AND THE WINNER IS .  .  . 
+<2025-07-10 Thu 17:30>--<2025-07-10 Thu 20:30>
+
+* Goose River Hike
+<2025-07-12 Sat>--<2025-07-14 Mon>
+
+* CRC Call
+<2025-07-14 Mon 10:00>--<2025-07-14 Mon 11:00>
+
+* Drive Laurel
+<2025-07-15 Tue 15:00>--<2025-07-15 Tue 16:00>
+
+* Drive Laurel
+<2025-07-17 Thu 12:00>--<2025-07-17 Thu 13:00>
+
+* 2025 DASP Business Meeting
+<2025-07-18 Fri 14:00>--<2025-07-18 Fri 16:00>
+
+* Tech Call
+<2025-07-21 Mon 10:00>--<2025-07-21 Mon 11:00>
+
+* banking
+<2025-07-21 Mon 11:00>--<2025-07-21 Mon 12:00>
+
+* Meeting with Apporto
+<2025-07-22 Tue 10:00>--<2025-07-22 Tue 10:30>
+
+* Updated invitation: Apporto meeting with University of New Brunswick @ Tue Jul 22, 2025 9am - 9:30am (EDT) (scott.porter@unb.ca)
+<2025-07-22 Tue 10:00>--<2025-07-22 Tue 10:30>
+
+* Python Pub
+<2025-07-25 Fri 12:30>--<2025-07-25 Fri 13:30>
+
+* CRC Call
+<2025-07-28 Mon 10:00>--<2025-07-28 Mon 11:00>
+
+* DRI Call
+<2025-07-28 Mon 14:00>--<2025-07-28 Mon 15:30>
+
+* DataNB Meeting
+<2025-07-31 Thu 13:00>--<2025-07-31 Thu 14:00>
+
+* NextCloud meeting
+<2025-07-31 Thu 14:00>--<2025-07-31 Thu 15:00>
+
+* Python Pub
+<2025-08-01 Fri 12:30>--<2025-08-01 Fri 13:30>
+
+* Python Pub
+<2025-08-08 Fri 12:30>--<2025-08-08 Fri 13:30>
+
+* CRC Meeting
+<2025-08-11 Mon 10:00>--<2025-08-11 Mon 11:00>
+
+* TRE update
+<2025-08-13 Wed 10:00>--<2025-08-13 Wed 10:30>
+
+* Python Pub
+<2025-08-15 Fri 12:30>--<2025-08-15 Fri 13:30>
+
+* Step Challenge Kickoff at Picaroons
+<2025-08-15 Fri 16:30>--<2025-08-15 Fri 19:30>
+
+* tech team meeting
+<2025-08-18 Mon 10:00>--<2025-08-18 Mon 11:00>
+
+* Summer School Debrief
+<2025-08-20 Wed 09:30>--<2025-08-20 Wed 10:30>
+
+* D2L grades export
+<2025-08-21 Thu 14:00>--<2025-08-21 Thu 15:00>
+
+* Potluck & Movie Night
+<2025-08-21 Thu 17:30>--<2025-08-21 Thu 20:30>
+
+* Data innovation 
+<2025-08-22 Fri 11:00>--<2025-08-22 Fri 11:30>
+
+* Joey Vacation
+<2025-08-25 Mon>--<2025-09-06 Sat>
+
+* Vacation
+<2025-08-25 Mon 08:00>--<2025-09-05 Fri 17:00>
+
+* CRC Call
+<2025-09-08 Mon 10:00>--<2025-09-08 Mon 11:00>
+
+* CRC Call
+<2025-09-22 Mon 10:00>--<2025-09-22 Mon 11:00>
+
+* CRC Call
+<2025-10-06 Mon 10:00>--<2025-10-06 Mon 11:00>
+
+* CRC Call
+<2025-10-20 Mon 10:00>--<2025-10-20 Mon 11:00>
+
+* CRC Call
+<2025-11-03 Mon 10:00>--<2025-11-03 Mon 11:00>
+
+* CRC Call
+<2025-11-17 Mon 10:00>--<2025-11-17 Mon 11:00>
+
+* REDcap
+<2025-09-08 Mon 11:00>--<2025-09-08 Mon 11:30>
+
+* PHYS6011
+<2025-09-08 Mon 15:30>--<2025-09-08 Mon 16:30>
+
+* PHYS6011
+<2025-09-10 Wed 08:30>--<2025-09-10 Wed 09:30>
+
+* PHYS6011
+<2025-09-12 Fri 08:30>--<2025-09-12 Fri 09:30>
+
+* PHYS6011
+<2025-09-15 Mon 08:30>--<2025-09-15 Mon 09:30>
+
+* PHYS6011
+<2025-09-17 Wed 08:30>--<2025-09-17 Wed 09:30>
+
+* PHYS6011
+<2025-09-19 Fri 08:30>--<2025-09-19 Fri 09:30>
+
+* PHYS6011
+<2025-09-22 Mon 08:30>--<2025-09-22 Mon 09:30>
+
+* PHYS6011
+<2025-09-24 Wed 08:30>--<2025-09-24 Wed 09:30>
+
+* PHYS6011
+<2025-09-26 Fri 08:30>--<2025-09-26 Fri 09:30>
+
+* PHYS6011
+<2025-09-29 Mon 08:30>--<2025-09-29 Mon 09:30>
+
+* PHYS6011
+<2025-10-01 Wed 08:30>--<2025-10-01 Wed 09:30>
+
+* PHYS6011
+<2025-10-03 Fri 08:30>--<2025-10-03 Fri 09:30>
+
+* PHYS6011
+<2025-10-06 Mon 08:30>--<2025-10-06 Mon 09:30>
+
+* PHYS6011
+<2025-10-08 Wed 08:30>--<2025-10-08 Wed 09:30>
+
+* PHYS6011
+<2025-10-10 Fri 09:00>--<2025-10-10 Fri 10:00>
+
+* PHYS6011
+<2025-10-13 Mon 08:30>--<2025-10-13 Mon 09:30>
+
+* PHYS6011
+<2025-10-15 Wed 08:30>--<2025-10-15 Wed 09:30>
+
+* PHYS6011
+<2025-10-17 Fri 08:30>--<2025-10-17 Fri 09:30>
+
+* PHYS6011
+<2025-10-20 Mon 08:30>--<2025-10-20 Mon 09:30>
+
+* PHYS6011
+<2025-10-22 Wed 08:30>--<2025-10-22 Wed 09:30>
+
+* PHYS6011
+<2025-10-24 Fri 08:30>--<2025-10-24 Fri 09:30>
+
+* PHYS6011
+<2025-10-27 Mon 09:00>--<2025-10-27 Mon 10:00>
+
+* PHYS6011
+<2025-10-29 Wed 09:00>--<2025-10-29 Wed 10:00>
+
+* PHYS6011
+<2025-10-31 Fri 09:00>--<2025-10-31 Fri 10:00>
+
+* PHYS6011
+<2025-11-03 Mon 09:00>--<2025-11-03 Mon 10:00>
+
+* PHYS6011
+<2025-11-05 Wed 09:00>--<2025-11-05 Wed 10:00>
+
+* PHYS6011
+<2025-11-07 Fri 09:00>--<2025-11-07 Fri 10:00>
+
+* PHYS6011
+<2025-11-17 Mon 09:00>--<2025-11-17 Mon 10:00>
+
+* PHYS6011
+<2025-11-19 Wed 09:00>--<2025-11-19 Wed 10:00>
+
+* PHYS6011
+<2025-11-21 Fri 09:00>--<2025-11-21 Fri 10:00>
+
+* PHYS6011
+<2025-11-24 Mon 09:00>--<2025-11-24 Mon 10:00>
+
+* PHYS6011
+<2025-11-26 Wed 09:00>--<2025-11-26 Wed 10:00>
+
+* PHYS6011
+<2025-11-28 Fri 09:00>--<2025-11-28 Fri 10:00>
+
+* PHYS6011
+<2025-12-01 Mon 09:00>--<2025-12-01 Mon 10:00>
+
+* PHYS6011
+<2025-12-03 Wed 09:00>--<2025-12-03 Wed 10:00>
+
+* PHYS6011
+<2025-12-05 Fri 09:00>--<2025-12-05 Fri 10:00>
+
+* PHYS6011
+<2025-12-08 Mon 09:00>--<2025-12-08 Mon 10:00>
+
+* NB-IRDT Remote Access project - check-in
+<2025-09-09 Tue 14:00>--<2025-09-09 Tue 14:25>
+
+* Webinar "Getting started with Nextcloud Enterprise"
+<2025-09-11 Thu 10:00>--<2025-09-11 Thu 11:00>
+
+* PHYS6106
+<2025-09-11 Thu 13:00>--<2025-09-11 Thu 14:30>
+
+* PHYS6106
+<2025-09-25 Thu 13:00>--<2025-09-25 Thu 14:30>
+
+* PHYS6106
+<2025-10-02 Thu 13:00>--<2025-10-02 Thu 14:30>
+
+* PHYS6106
+<2025-10-09 Thu 13:00>--<2025-10-09 Thu 14:30>
+
+* PHYS6106
+<2025-10-16 Thu 13:00>--<2025-10-16 Thu 14:30>
+
+* PHYS6106
+<2025-10-23 Thu 13:00>--<2025-10-23 Thu 14:30>
+
+* PHYS6106
+<2025-10-30 Thu 13:00>--<2025-10-30 Thu 14:30>
+
+* PHYS6106
+<2025-11-06 Thu 13:00>--<2025-11-06 Thu 14:30>
+
+* PHYS6106
+<2025-11-27 Thu 13:00>--<2025-11-27 Thu 14:30>
+
+* PHYS6106
+<2025-12-04 Thu 13:00>--<2025-12-04 Thu 14:30>
+
+* Techteam Call
+<2025-09-15 Mon 10:00>--<2025-09-15 Mon 11:00>
+
+* Techteam Call
+<2025-09-29 Mon 10:00>--<2025-09-29 Mon 11:00>
+
+* Techteam Call
+<2025-10-13 Mon 10:00>--<2025-10-13 Mon 11:00>
+
+* Techteam Call
+<2025-10-27 Mon 10:00>--<2025-10-27 Mon 11:00>
+
+* Techteam Call
+<2025-11-10 Mon 10:00>--<2025-11-10 Mon 11:00>
+
+* Techteam Call
+<2025-11-24 Mon 10:00>--<2025-11-24 Mon 11:00>
+
+* Fredericton Senate | New Senator Orientation
+<2025-09-16 Tue 15:00>--<2025-09-16 Tue 16:00>
+
+* REDCap discussion
+<2025-09-18 Thu 09:30>--<2025-09-18 Thu 10:00>
+
+* SCORM Meeting
+<2025-09-18 Thu 13:00>--<2025-09-18 Thu 14:00>
+
+* MOVIE NIGHT - The Imitation Game
+<2025-09-18 Thu 18:30>--<2025-09-18 Thu 21:00>
+
+* Potluck
+<2025-09-22 Mon 12:00>--<2025-09-22 Mon 13:00>
+
+* In person DataNB Staff Meeting
+<2025-09-22 Mon 13:00>--<2025-09-22 Mon 14:30>
+
+* AI Carpentry
+<2025-09-22 Mon 16:00>--<2025-09-22 Mon 17:00>
+
+* NB-IRDT Remote Access
+<2025-09-23 Tue 14:30>--<2025-09-23 Tue 14:55>
+
+* PRAC
+<2025-09-23 Tue 17:00>--<2025-09-23 Tue 19:00>
+
+* Senate
+<2025-09-24 Wed 16:00>--<2025-09-24 Wed 18:00>
+
+* ACENET webinar
+<2025-09-25 Thu 13:00>--<2025-09-25 Thu 16:00>
+
+* Sorting out Outstanding TRA Mitigation Task 
+<2025-09-29 Mon 15:00>--<2025-09-29 Mon 16:00>
+
+* Private Appointment
+<2025-09-30 Tue>
+
+* ACENET Retreat
+<2025-09-30 Tue>--<2025-10-04 Sat>
+
+* Private Appointment
+<2025-10-03 Fri>
+
+* Ottawa
+<2025-10-06 Mon>--<2025-10-09 Thu>
+
+* Creating an Effective Teaching Dossier for Promotion and Tenure Workshop
+<2025-10-14 Tue 14:30>--<2025-10-14 Tue 15:30>
+
+* Private Appointment
+<2025-10-19 Sun>
+
+* MUN
+<2025-10-20 Mon>--<2025-10-25 Sat>
+
+* Current Status of Data Trust & TRA
+<2025-10-21 Tue 14:00>--<2025-10-21 Tue 15:00>
+
+* Private Appointment
+<2025-10-23 Thu>
+
+* Private Appointment
+<2025-10-23 Thu>
+
+* Private Appointment
+<2025-10-25 Sat>
+
+* Test call
+<2025-10-28 Tue 12:00>--<2025-10-28 Tue 12:15>
+
+* Annual Data Ethics Training
+<2025-10-28 Tue 14:00>--<2025-10-28 Tue 15:00>
+
+* DataNB Next steps
+<2025-10-29 Wed 14:30>--<2025-10-29 Wed 15:00>
+
+* Data Infrastructure phases to secure funding opportunities
+<2025-10-30 Thu 09:30>--<2025-10-30 Thu 10:15>
+
+* SWC
+<2025-10-30 Thu 10:00>--<2025-10-30 Thu 11:00>
+
+* Nextcloud
+<2025-10-31 Fri 14:00>--<2025-10-31 Fri 15:00>
+
+* Hand out treats to Trick or Treaters
+<2025-10-31 Fri 15:00>--<2025-10-31 Fri 16:00>
+
+* physics
+<2025-11-03 Mon 10:00>--<2025-11-03 Mon 12:00>
+
+* head home
+<2025-11-03 Mon 14:30>--<2025-11-03 Mon 15:00>
+
+* subaru
+<2025-11-04 Tue 10:00>--<2025-11-04 Tue 11:00>
+
+* head home
+<2025-11-04 Tue 11:30>--<2025-11-04 Tue 12:00>
+
+* training
+<2025-11-04 Tue 13:00>--<2025-11-04 Tue 16:00>
+
+* blood donation
+<2025-11-04 Tue 18:30>--<2025-11-04 Tue 19:30>
+
+* don furgeson
+<2025-11-05 Wed 11:00>--<2025-11-05 Wed 12:00>
+
+* nissan
+<2025-11-05 Wed 19:00>--<2025-11-05 Wed 20:00>
+
+* training
+<2025-11-06 Thu 13:00>--<2025-11-06 Thu 16:00>
+
+* sean eye appt
+<2025-11-06 Thu 15:20>--<2025-11-06 Thu 16:20>
+
+* Payday Lunch
+<2025-11-13 Thu 12:00>--<2025-11-13 Thu 13:00>
+
+* Apporto call with U New Brunswick
+<2025-11-14 Fri 15:00>--<2025-11-14 Fri 15:30>
+
+* dri
+<2025-11-17 Mon 14:00>--<2025-11-17 Mon 15:00>
+
+* Strategic Planning Meeting
+<2025-11-18 Tue 15:00>--<2025-11-18 Tue 16:00>
+
+* senate
+<2025-11-18 Tue 16:00>--<2025-11-18 Tue 18:00>
+
+* git tools
+<2025-11-20 Thu 13:00>--<2025-11-20 Thu 16:00>
+
+* Trivia Night at the Gradhouse
+<2025-11-20 Thu 19:00>--<2025-11-20 Thu 21:00>
+
+* Catchup for TRA - RFP
+<2025-11-21 Fri 13:00>--<2025-11-21 Fri 13:30>
+
+* Joey Bernard - 1 Hour - Onboarding Call
+<2025-11-26 Wed 10:30>--<2025-11-26 Wed 11:30>
+
+* Catcup with Joey - Server
+<2025-11-26 Wed 15:00>--<2025-11-26 Wed 15:30>
+
+* nextcloud
+<2025-11-28 Fri 14:00>--<2025-11-28 Fri 15:00>
+
+* Test
+<2025-12-01 Mon 16:00>--<2025-12-01 Mon 16:30>
+
+* FW: NB-IRDT Strategic Plan Meeting (Teams)
+<2025-12-08 Mon 13:00>--<2025-12-08 Mon 14:30>
+
+* Regarding Remote Connection Testing
+<2025-12-09 Tue 09:30>--<2025-12-09 Tue 10:00>
+
+* Computer Renewal (Evergreen) 2025-26 Fiscal Year - Deployments 
+<2026-02-11 Wed 09:00>--<2026-02-11 Wed 10:00>
+
+* Re: Remembering CUSC
+<2026-03-04 Wed 10:00>--<2026-03-04 Wed 10:30>
+

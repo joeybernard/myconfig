@@ -1,23 +1,12 @@
-*  All Hands Training Meetings
-<2026-05-04 Mon 13:00>--<2026-05-04 Mon 14:00>
-:PROPERTIES:
-:CUSTOM_ID: 03u53bicjqop96fkg620uhqcnc_R20260420T160000@google.com
-:ICAL_DTEND: 20260504T143000
-:ICAL_DTSTAMP: 20260424T131435Z
-:ICAL_ORGANIZER: mailto:c_791fhh8m0cf88k3td85ja3mh38@group.calendar.google.com
-:ICAL_ATTENDEE: mailto:grace.fishbein@ace-net.ca
-:ICAL_ATTENDEE: mailto:crc@ace-net.ca
-:ICAL_ATTENDEE: mailto:training@ace-net.ca
-:ICAL_ATTENDEE: mailto:joey.bernard@gw.alliancecan.ca
-:ICAL_ATTENDEE: mailto:michele.fash@ace-net.ca
-:ICAL_X-GOOGLE-CONFERENCE: https://meet.google.com/vws-jkfw-fpp
-:ICAL_RECURRENCE-ID: 20260504T133000
-:ICAL_CREATED: 20251215T143652Z
-:ICAL_LAST-MODIFIED: 20260421T224040Z
-:ICAL_SEQUENCE: 3
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: OPAQUE
-:END:
+#+TITLE: Calendar
+#+AUTHOR: 
+#+EMAIL: 
+#+DESCRIPTION: converted using the Pical2org python script
+#+CATEGORY: calendar
+
+
+* All Hands Training Meetings
+<2026-03-09 Mon 13:00>--<2026-03-09 Mon 14:00>
 <a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
 
 Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
@@ -25,49 +14,799 @@ Or dial: (CA) +1 587-797-9706 PIN: 875294509#
 More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
 
 Learn more about Meet at: https://support.google.com/a/users/answer/9282720
-*  Centre for Excellence Training for High School students 
-<2026-06-03 Wed 10:00>--<2026-06-03 Wed 12:00>
-:PROPERTIES:
-:CUSTOM_ID: 0nrditmeg3cvnibllmf17nll6l@google.com
-:ICAL_DTEND: 20260603T150000Z
-:ICAL_DTSTAMP: 20260424T131435Z
-:ICAL_ORGANIZER: mailto:grace.fishbein@ace-net.ca
-:ICAL_ATTENDEE: mailto:sarah.clarke@ace-net.ca
-:ICAL_ATTENDEE: mailto:tannia.chevez@ace-net.ca
-:ICAL_ATTENDEE: mailto:joey.bernard@gw.alliancecan.ca
-:ICAL_ATTENDEE: mailto:serguei.vassiliev@ace-net.ca
-:ICAL_CREATED: 20260224T010907Z
-:ICAL_LAST-MODIFIED: 20260420T163542Z
-:ICAL_LOCATION: University of New Brunswick\, 3 Bailey Dr\, Fredericton\, NB E3B 5A3\, Canada
-:ICAL_SEQUENCE: 1
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: OPAQUE
-:END:
-
-*  All Hands Training Meetings
-<2026-05-18 Mon 13:00>--<2026-05-18 Mon 14:00>
-:PROPERTIES:
-:CUSTOM_ID: 03u53bicjqop96fkg620uhqcnc_R20260420T160000@google.com
-:ICAL_DTEND: 20260518T143000
-:ICAL_DTSTAMP: 20260424T131435Z
-:ICAL_ORGANIZER: mailto:c_791fhh8m0cf88k3td85ja3mh38@group.calendar.google.com
-:ICAL_ATTENDEE: mailto:grace.fishbein@ace-net.ca
-:ICAL_ATTENDEE: mailto:crc@ace-net.ca
-:ICAL_ATTENDEE: mailto:training@ace-net.ca
-:ICAL_ATTENDEE: mailto:joey.bernard@gw.alliancecan.ca
-:ICAL_ATTENDEE: mailto:michele.fash@ace-net.ca
-:ICAL_X-GOOGLE-CONFERENCE: https://meet.google.com/vws-jkfw-fpp
-:ICAL_RECURRENCE-ID: 20260518T133000
-:ICAL_CREATED: 20251215T143652Z
-:ICAL_LAST-MODIFIED: 20260421T224040Z
-:ICAL_SEQUENCE: 3
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: OPAQUE
-:END:
+* All Hands Training Meetings
+<2026-03-23 Mon 13:00>--<2026-03-23 Mon 14:00>
 <a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
 
 Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
 Or dial: (CA) +1 587-797-9706 PIN: 875294509#
 More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2026-05-04 Mon 13:00>--<2026-05-04 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2026-06-01 Mon 13:00>--<2026-06-01 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2026-06-15 Mon 13:00>--<2026-06-15 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2026-06-29 Mon 13:00>--<2026-06-29 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2026-07-13 Mon 13:00>--<2026-07-13 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2026-07-27 Mon 13:00>--<2026-07-27 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2026-08-10 Mon 13:00>--<2026-08-10 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2026-08-24 Mon 13:00>--<2026-08-24 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2026-09-07 Mon 13:00>--<2026-09-07 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2026-09-21 Mon 13:00>--<2026-09-21 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2026-10-05 Mon 13:00>--<2026-10-05 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2026-10-19 Mon 13:00>--<2026-10-19 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2026-11-02 Mon 13:00>--<2026-11-02 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2026-11-16 Mon 13:00>--<2026-11-16 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2026-11-30 Mon 13:00>--<2026-11-30 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2026-12-14 Mon 13:00>--<2026-12-14 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2026-12-28 Mon 13:00>--<2026-12-28 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2027-01-11 Mon 13:00>--<2027-01-11 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2027-01-25 Mon 13:00>--<2027-01-25 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2027-02-08 Mon 13:00>--<2027-02-08 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2027-02-22 Mon 13:00>--<2027-02-22 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2027-03-08 Mon 13:00>--<2027-03-08 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2027-03-22 Mon 13:00>--<2027-03-22 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2027-04-05 Mon 13:00>--<2027-04-05 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2027-04-19 Mon 13:00>--<2027-04-19 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2027-05-03 Mon 13:00>--<2027-05-03 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* Centre for Excellence Training for High School students 
+<2026-06-03 Wed 10:00>--<2026-06-03 Wed 12:00>
+
+* PEAK - Self Assessment
+<2026-02-17 Tue 15:30>--<2026-02-17 Tue 17:00>
+Hi Team,
+
+Please use this time slot to complete your self-assessment in PEAK. Remember, our goal is to aim for a 2. If you rate yourself with a 3, ensure that you can confidently justify your rating.
+
+Thanks
+Ines
+
+________________________________________________________________________________
+Microsoft Teams meeting
+Join: https://teams.microsoft.com/meet/28003720481354?p=PPYXQP9HNBvalMp81F
+Meeting ID: 280 037 204 813 54
+Passcode: tf6yp7Dn
+________________________________
+Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzIyODhkNjUtMDg1Ni00YjM1LTkxNzMtZGRhY2FiYTgyNDRi%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22fc160c65-0d22-4bfd-8233-da01959697d3%22%7d>
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=fc160c65-0d22-4bfd-8233-da01959697d3&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MzIyODhkNjUtMDg1Ni00YjM1LTkxNzMtZGRhY2FiYTgyNDRi@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+* CCDB DANT data
+<2026-04-09 Thu 13:00>--<2026-04-09 Thu 14:00>
+<a href="https://docs.google.com/document/d/1qhWMDMx7r1G8fwKtGjcr2zdfTdqPtdHZDmW8dDcMLws/edit?tab=t.0#heading=h.9y9agl2yl692" class="pastedDriveLink-0">https://docs.google.com/document/d/1qhWMDMx7r1G8fwKtGjcr2zdfTdqPtdHZDmW8dDcMLws/edit?tab=t.0#heading=h.9y9agl2yl692</a>
+
+Join with Google Meet: https://meet.google.com/xjv-kxix-kmk
+Or dial: (CA) +1 289-949-0450 PIN: 247793940#
+More phone numbers: https://tel.meet/xjv-kxix-kmk?pin=2218717297083&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* Farewell and happy retirement to Craig
+<2026-03-31 Tue 10:00>--<2026-03-31 Tue 11:00>
+Drop-in virtual session to wish Craig well on his upcoming retirement!
+
+Join with Google Meet: https://meet.google.com/vae-omtt-ikd
+Or dial: (CA) +1 587-978-5871 PIN: 703242746#
+More phone numbers: https://tel.meet/vae-omtt-ikd?pin=5036375293084&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* Joey-Eduardo 101
+<2026-04-02 Thu 13:00>--<2026-04-02 Thu 13:30>
+
+________________________________________________________________________________
+Microsoft Teams meeting
+Join: https://teams.microsoft.com/meet/21151458714144?p=Saalw2SysZUXhY1R2j
+Meeting ID: 211 514 587 141 44
+Passcode: Zr9am7qM
+________________________________
+Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDNiYTcyODItODdjMy00MjJjLTk1NTYtMmE0NzEwNTg4MjQ4%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22b623d02d-2c0a-4e92-851f-e458f1cebe85%22%7d>
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=b623d02d-2c0a-4e92-851f-e458f1cebe85&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MDNiYTcyODItODdjMy00MjJjLTk1NTYtMmE0NzEwNTg4MjQ4@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-01-27 Tue 16:00>--<2026-01-27 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-02-10 Tue 16:00>--<2026-02-10 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-02-24 Tue 16:00>--<2026-02-24 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-03-10 Tue 16:00>--<2026-03-10 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-03-24 Tue 16:00>--<2026-03-24 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-04-07 Tue 16:00>--<2026-04-07 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-04-21 Tue 16:00>--<2026-04-21 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-05-05 Tue 16:00>--<2026-05-05 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-05-19 Tue 16:00>--<2026-05-19 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-06-02 Tue 16:00>--<2026-06-02 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-06-16 Tue 16:00>--<2026-06-16 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-06-30 Tue 16:00>--<2026-06-30 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-07-14 Tue 16:00>--<2026-07-14 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-07-28 Tue 16:00>--<2026-07-28 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-08-11 Tue 16:00>--<2026-08-11 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-08-25 Tue 16:00>--<2026-08-25 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-09-08 Tue 16:00>--<2026-09-08 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-09-22 Tue 16:00>--<2026-09-22 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-10-06 Tue 16:00>--<2026-10-06 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-10-20 Tue 16:00>--<2026-10-20 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-11-03 Tue 16:00>--<2026-11-03 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-11-17 Tue 16:00>--<2026-11-17 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-12-01 Tue 16:00>--<2026-12-01 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-12-15 Tue 16:00>--<2026-12-15 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-12-29 Tue 16:00>--<2026-12-29 Tue 17:00>
+Team,
+
+The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).
+
+Link to 2026 Agenda Doc:  https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d>
+Meeting ID: 221 976 679 492 82
+Passcode: aY2Bn7EB
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=54dd522a-f91e-43de-8390-01307f50ef14&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-01-27 Tue 16:00>--<2026-01-27 Tue 17:00>
+<p>Team, <br><br>The 2026 Alliance Operations Staff Meetings will be held via Microsoft Teams biweekly (date subject to change, if necessary).<br><br><br>Link to 2026 Agenda Doc:  <a href="https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing" target="_blank">https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing</a><br></p><p>-----</p><p>TEAMS MEETING LINK (BELOW)</p><p>________________________________________________________________________________</p><p><b>Microsoft Teams</b> <a href="https://aka.ms/JoinTeamsMeeting?omkt=en-US">Need help?</a> </p><p><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmViZjU2M2QtYTRlMS00OWVhLTk3ZjktMzQ1NzliYmQwODlk%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%2254dd522a-f91e-43de-8390-01307f50ef14%22%7d" target="_blank"><b>Join the meeting now</b></a> </p><p>Meeting ID: 221 976 679 492 82 </p><p></p><p>Passcode: aY2Bn7EB </p>
+* All Hands Training Meetings
+<2026-01-12 Mon 13:00>--<2026-01-12 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2026-01-26 Mon 13:00>--<2026-01-26 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2026-02-09 Mon 13:00>--<2026-02-09 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* All Hands Training Meetings
+<2026-04-20 Mon 13:00>--<2026-04-20 Mon 14:00>
+<a href="https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j" class="pastedDriveLink-0">https://drive.google.com/drive/folders/1dkxX8wUWxVqj9MiG67Q67wCnwfgz6I_j</a>
+
+Join with Google Meet: https://meet.google.com/vws-jkfw-fpp
+Or dial: (CA) +1 587-797-9706 PIN: 875294509#
+More phone numbers: https://tel.meet/vws-jkfw-fpp?pin=3759951648867&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* ACENET Basics: Intro to ACENET and HPC
+<2026-05-12 Tue 12:00>--<2026-05-12 Tue 13:30>
+
+* COSS: Introduction to OpenFOAM
+<2026-06-08 Mon 10:00>--<2026-06-08 Mon 13:00>
+
+* COSS: Incorporating Other Languages into Python
+<2026-06-12 Fri 10:00>--<2026-06-12 Fri 13:00>
+
+* Farewell for Quan
+<2025-12-04 Thu 14:00>--<2025-12-04 Thu 15:00>
+<p>Team,</p><p>Quan is retiring at the end of December after being an integral part of the RAC process since the Compute Canada days. That's an incredible run and institutional knowledge we won't replace easily.</p><p>Let's get together to celebrate properly and give him the send off he deserves.</p><p>Angelica</p>
+
+Join with Google Meet: https://meet.google.com/ixc-mnbg-wbf
+Or dial: (CA) +1 647-732-8241 PIN: 531566144#
+More phone numbers: https://tel.meet/ixc-mnbg-wbf?pin=5487069915017&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* Alliance Operations Team Meeting 2025
+<2025-12-16 Tue 15:00>--<2025-12-16 Tue 16:30>
+<table><tbody><tr><td>  <p>Team, <br>  <br>The 2025 Alliance Operations Staff Meetings will be held via Google Meet  videoconference every third Tuesday of the month (<i>date subject to change, if necessary</i>).<br>  <br>  <br>  •    11:00 am (PT) British Columbia<br>  •    12:00 pm (MT) Alberta<br>  •    2:00 pm (CT) Saskatchewan &amp; Manitoba<br>  •    2:00 pm (ET) Ontario &amp; Quebec<br>  •    4:00 pm (AT) Nova Scotia<br>  •    4:30 pm (NT) Newfoundland<br><br></p><p>Operations Team Meetings Agenda:<br>  <a href="https://docs.google.com/document/d/1YxHtqAYL4kBijen3G3qsVvEIr1N4D66TV1Vp3JYO53M/edit" target="_blank">https://docs.google.com/document/d/1YxHtqAYL4kBijen3G3qsVvEIr1N4D66TV1Vp3JYO53M/edit#</a><br><br></p><p><i>--</i></p><p><i>Please feel free to suggest agenda items at least three days before the  scheduled meeting date.<br>  </i><br>  <br>  Connection Details:</p><p>Google Meet joining info<br>Video call link: <a href="https://meet.google.com/oqo-ecox-xko" target="_blank">https://meet.google.com/oqo-ecox-xko</a><br>Or dial: ‪(CA) +1 647-734-7449‬ PIN: ‪153 483 189‬#<br>More phone numbers: <a href="https://tel.meet/oqo-ecox-xko?pin=4809180374929" target="_blank">https://tel.meet/oqo-ecox-xko?pin=4809180374929</a><br>  <br>  See you then!<br>  <br>  Thanks, <br>  <br>  Angelica<br>  <br>  Angelica Suorineni (she/elle)<br>  Operations Coordinator | Coordonateur des opérations<br>  Digital Research Alliance of Canada | Alliance de recherche numérique du  Canada</p>  </td> </tr> </tbody></table>
+
+Join with Google Meet: https://meet.google.com/whj-cmfn-szw
+Or dial: (CA) +1 647-733-8772 PIN: 872969459#
+More phone numbers: https://tel.meet/whj-cmfn-szw?pin=8767748948828&hs=7
+
+Learn more about Meet at: https://support.google.com/a/users/answer/9282720
+* 2026 Bi-Weekly Alliance Infrastructure Operations and Support Team Meeting 
+<2026-01-13 Tue 16:00>--<2026-01-13 Tue 17:00>
+<p>Team, <br><br>The 2026 Alliance Operations Staff Meetings will be held via Google Meet videoconference biweekly (date subject to change, if necessary).<br><br><br>Link to 2026 Agenda Doc:  <a href="https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing" class="pastedDriveLink-0">https://docs.google.com/spreadsheets/d/1veGT3Xs5woRu_cU5Iv3GYOBGTYDqK68aue7icDqXM7g/edit?usp=sharing</a><br></p>
+
+Join with Google Meet: https://meet.google.com/cjn-vprk-fth
+Or dial: (CA) +1 647-733-1055 PIN: 501701324#
+More phone numbers: https://tel.meet/cjn-vprk-fth?pin=9753914261056&hs=7
 
 Learn more about Meet at: https://support.google.com/a/users/answer/9282720

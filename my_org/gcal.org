@@ -1,55 +1,1998 @@
-*  PRAC
-<2026-04-28 Tue 17:00>--<2026-04-28 Tue 19:00>
-:PROPERTIES:
-:CUSTOM_ID: 32lnu6bghnso4tmc4q84ih9nnd@google.com
-:ICAL_DTEND: 20260428T220000Z
-:ICAL_DTSTAMP: 20260424T131435Z
-:ICAL_CREATED: 20260421T120211Z
-:ICAL_LAST-MODIFIED: 20260421T120211Z
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: OPAQUE
-:END:
+#+TITLE: Calendar
+#+AUTHOR: 
+#+EMAIL: 
+#+DESCRIPTION: converted using the Pical2org python script
+#+CATEGORY: calendar
 
-*  AI Carpentry User Workshop Coworking
-<2026-04-28 Tue 12:00>--<2026-04-28 Tue 13:00>
-:PROPERTIES:
-:CUSTOM_ID: _68o34d9h64oj8l1h64qj2d9ob8mjgcpp6sp3ic1i6kqjgg3nclh2qs3idti2qtbj60r2qrr864mnepb2dtliqeb2cgs3edhoccq2qdj26ss3g_R20260317T160000@google.com
-:ICAL_DTEND: 20260428T180000
-:ICAL_DTSTAMP: 20260424T131435Z
-:ICAL_ORGANIZER: mailto:tobyhodges@carpentries.org
-:ICAL_ATTENDEE: mailto:tobyhodges@carpentries.org
-:ICAL_ATTENDEE: mailto:vahtras@kth.se
-:ICAL_ATTENDEE: mailto:triznam@si.edu
-:ICAL_ATTENDEE: mailto:akkis@ou.edu
-:ICAL_ATTENDEE: mailto:susan.mcclatchy@jax.org
-:ICAL_ATTENDEE: mailto:jastubbs@fsmail.bradley.edu
-:ICAL_ATTENDEE: mailto:whimar@ohsu.edu
-:ICAL_ATTENDEE: mailto:cengel@stanford.edu
-:ICAL_ATTENDEE: mailto:annajiat@gmail.com
-:ICAL_ATTENDEE: mailto:eman.al.amer05@gmail.com
-:ICAL_ATTENDEE: mailto:lex.nederbragt@ibv.uio.no
-:ICAL_ATTENDEE: mailto:druid.bernard@gmail.com
-:ICAL_ATTENDEE: mailto:serickson@ucsb.edu
-:ICAL_ATTENDEE: mailto:giacomo.peru@gmail.com
-:ICAL_ATTENDEE: mailto:renato.alves@embl.de
-:ICAL_ATTENDEE: mailto:f.riemslagh@esciencecenter.nl
-:ICAL_ATTENDEE: mailto:alexander.garzon0205@gmail.com
-:ICAL_ATTENDEE: mailto:ai-carpentry-user-workshop@lists.carpentries.org
-:ICAL_ATTENDEE: mailto:sonja.haenzelmann@awi.de
-:ICAL_ATTENDEE: mailto:matthew.bluteau@ukaea.uk
-:ICAL_ATTENDEE: mailto:h.j.w.dace@tudelft.nl
-:ICAL_ATTENDEE: mailto:s.ahern@ucl.ac.uk
-:ICAL_ATTENDEE: mailto:g.peru@epcc.ed.ac.uk
-:ICAL_ATTENDEE: mailto:f.diblen@esciencecenter.nl
-:ICAL_RECURRENCE-ID: 20260428T170000
-:ICAL_CREATED: 20251114T115206Z
-:ICAL_LAST-MODIFIED: 20260413T094605Z
-:ICAL_LOCATION: https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
-:ICAL_SEQUENCE: 1
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: OPAQUE
-:END:
+
+* head home
+<2025-11-03 Mon 14:30>--<2025-11-03 Mon 15:00>
+
+* CCDB
+<2026-01-20 Tue 14:00>--<2026-01-20 Tue 15:00>
+
+* CCDB
+<2026-01-21 Wed 14:00>--<2026-01-21 Wed 15:00>
+
+* CCDB
+<2026-01-22 Thu 14:00>--<2026-01-22 Thu 15:00>
+
+* CCDB
+<2026-01-23 Fri 14:00>--<2026-01-23 Fri 15:00>
+
+* CCDB
+<2026-01-26 Mon 14:00>--<2026-01-26 Mon 15:00>
+
+* CCDB
+<2026-01-27 Tue 14:00>--<2026-01-27 Tue 15:00>
+
+* CCDB
+<2026-01-28 Wed 14:00>--<2026-01-28 Wed 15:00>
+
+* CCDB
+<2026-01-29 Thu 14:00>--<2026-01-29 Thu 15:00>
+
+* CCDB
+<2026-01-30 Fri 14:00>--<2026-01-30 Fri 15:00>
+
+* CCDB
+<2026-02-02 Mon 14:00>--<2026-02-02 Mon 15:00>
+
+* CCDB
+<2026-02-03 Tue 14:00>--<2026-02-03 Tue 15:00>
+
+* CCDB
+<2026-02-04 Wed 14:00>--<2026-02-04 Wed 15:00>
+
+* CCDB
+<2026-02-05 Thu 14:00>--<2026-02-05 Thu 15:00>
+
+* CCDB
+<2026-02-06 Fri 14:00>--<2026-02-06 Fri 15:00>
+
+* CCDB
+<2026-02-09 Mon 14:00>--<2026-02-09 Mon 15:00>
+
+* CCDB
+<2026-02-10 Tue 14:00>--<2026-02-10 Tue 15:00>
+
+* CCDB
+<2026-02-11 Wed 14:00>--<2026-02-11 Wed 15:00>
+
+* CCDB
+<2026-02-12 Thu 14:00>--<2026-02-12 Thu 15:00>
+
+* CCDB
+<2026-02-13 Fri 14:00>--<2026-02-13 Fri 15:00>
+
+* CCDB
+<2026-02-17 Tue 14:00>--<2026-02-17 Tue 15:00>
+
+* CCDB
+<2026-02-18 Wed 14:00>--<2026-02-18 Wed 15:00>
+
+* CCDB
+<2026-02-19 Thu 14:00>--<2026-02-19 Thu 15:00>
+
+* CCDB
+<2026-02-20 Fri 14:00>--<2026-02-20 Fri 15:00>
+
+* training
+<2025-11-06 Thu 13:00>--<2025-11-06 Thu 16:00>
+
+* PHYS6011
+<2025-09-03 Wed 15:30>--<2025-09-03 Wed 16:30>
+
+* PHYS6011
+<2025-09-05 Fri 15:30>--<2025-09-05 Fri 16:30>
+
+* PHYS6011
+<2025-09-08 Mon 15:30>--<2025-09-08 Mon 16:30>
+
+* PHYS6011
+<2025-09-10 Wed 15:30>--<2025-09-10 Wed 16:30>
+
+* Motus Central - Database and Technology 
+<2025-05-08 Thu 15:00>--<2025-05-08 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-05-15 Thu 15:00>--<2025-05-15 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-05-29 Thu 15:00>--<2025-05-29 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-06-05 Thu 15:00>--<2025-06-05 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-06-12 Thu 15:00>--<2025-06-12 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-06-19 Thu 15:00>--<2025-06-19 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-06-26 Thu 15:00>--<2025-06-26 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-07-03 Thu 15:00>--<2025-07-03 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-07-10 Thu 15:00>--<2025-07-10 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-07-17 Thu 15:00>--<2025-07-17 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-07-24 Thu 15:00>--<2025-07-24 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-07-31 Thu 15:00>--<2025-07-31 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-08-07 Thu 15:00>--<2025-08-07 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-08-14 Thu 15:00>--<2025-08-14 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-08-21 Thu 15:00>--<2025-08-21 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-08-28 Thu 15:00>--<2025-08-28 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-09-04 Thu 15:00>--<2025-09-04 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-09-11 Thu 15:00>--<2025-09-11 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-09-18 Thu 15:00>--<2025-09-18 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-09-25 Thu 15:00>--<2025-09-25 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-10-02 Thu 15:00>--<2025-10-02 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-10-09 Thu 15:00>--<2025-10-09 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-10-16 Thu 15:00>--<2025-10-16 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-10-23 Thu 15:00>--<2025-10-23 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-10-30 Thu 15:00>--<2025-10-30 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-11-06 Thu 15:00>--<2025-11-06 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-11-13 Thu 15:00>--<2025-11-13 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-11-20 Thu 15:00>--<2025-11-20 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-11-27 Thu 15:00>--<2025-11-27 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-12-04 Thu 15:00>--<2025-12-04 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2025-12-18 Thu 15:00>--<2025-12-18 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2026-01-01 Thu 15:00>--<2026-01-01 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Motus Central - Database and Technology 
+<2026-01-08 Thu 15:00>--<2026-01-08 Thu 17:00>
+Motus Central Database and Technology – 2nd hour is a placeholder as needed to allow for overruns.
+
+AGENDA and MINUTES<https://docs.google.com/document/d/1rFBFOkV3GlwEiCjcDv8jmPwYTyQLspDDDfBa1gbNSPM/edit?usp=sharing>
+
+
+Stuart Mackenzie is inviting you to a scheduled Zoom meeting.
+
+Topic: Motus Central Block
+Time: Apr 10, 2025 01:00 PM Eastern Time (US and Canada)
+        Every week on Thu, 98 occurrence(s)
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://birdscanada-org.zoom.us/meeting/tZUpdumppzkoEtSTiUbbKc9gJdhLNsPtKYEY/ics?icsToken=DPQPr1mV9GSfEBfgAAAALAAAALLv1EFfk0YcmCd_Oa9o-TaZb-JqEvWVede7Xk5H5DW6dOFCzDYlIonCgMxCvuTuuKUffG4WO2FKOHT3-DAwMDAwMQ&meetingMasterEventId=hMei76dQTMO8PyNQ2hj1Mg
+Join Zoom Meeting
+https://birdscanada-org.zoom.us/j/81410192280?pwd=7ydolwLbZo7BV6eWodb77322mIaiUb.1
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+---
+
+One tap mobile
++12532050468,,81410192280#,,,,*325342# US
++12532158782,,81410192280#,,,,*325342# US (Tacoma)
+
+---
+
+Dial by your location
+• +1 253 205 0468 US
+• +1 253 215 8782 US (Tacoma)
+• +1 301 715 8592 US (Washington DC)
+• +1 305 224 1968 US
+• +1 309 205 3325 US
+• +1 312 626 6799 US (Chicago)
+• +1 346 248 7799 US (Houston)
+• +1 360 209 5623 US
+• +1 386 347 5053 US
+• +1 507 473 4847 US
+• +1 564 217 2000 US
+• +1 646 931 3860 US
+• +1 669 444 9171 US
+• +1 669 900 6833 US (San Jose)
+• +1 689 278 1000 US
+• +1 719 359 4580 US
+• +1 929 436 2866 US (New York)
+
+Meeting ID: 814 1019 2280
+Passcode: 325342
+
+Find your local number: https://birdscanada-org.zoom.us/u/kbeWNguHob
+
+
+
+
+
+* Subaru
+<2026-04-30 Thu 10:00>--<2026-04-30 Thu 12:00>
+
+* Reservation at Farmers Bistro
+<2025-09-01 Mon 13:00>--<2025-09-01 Mon 14:00>
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNmhyg5pcZ_2CiF0Kq0ffcxdwr0tCgFZEA
+
+* PRAC
+<2025-09-23 Tue 17:00>--<2025-09-23 Tue 19:00>
+
+* CS2545
+<2026-01-21 Wed 12:30>--<2026-01-21 Wed 13:30>
+
+* CS2545
+<2026-01-23 Fri 12:30>--<2026-01-23 Fri 13:30>
+
+* CS2545
+<2026-01-26 Mon 12:30>--<2026-01-26 Mon 13:30>
+
+* CS2545
+<2026-01-28 Wed 12:30>--<2026-01-28 Wed 13:30>
+
+* CS2545
+<2026-01-30 Fri 12:30>--<2026-01-30 Fri 13:30>
+
+* CS2545
+<2026-02-02 Mon 12:30>--<2026-02-02 Mon 13:30>
+
+* CS2545
+<2026-02-04 Wed 12:30>--<2026-02-04 Wed 13:30>
+
+* CS2545
+<2026-02-06 Fri 12:30>--<2026-02-06 Fri 13:30>
+
+* CS2545
+<2026-02-09 Mon 12:30>--<2026-02-09 Mon 13:30>
+
+* CS2545
+<2026-02-11 Wed 12:30>--<2026-02-11 Wed 13:30>
+
+* CS2545
+<2026-02-13 Fri 12:30>--<2026-02-13 Fri 13:30>
+
+* CS2545
+<2026-02-18 Wed 12:30>--<2026-02-18 Wed 13:30>
+
+* CS2545
+<2026-02-20 Fri 12:30>--<2026-02-20 Fri 13:30>
+
+* AI Carpentry User Workshop Coworking
+<2026-03-17 Tue 13:00>--<2026-03-17 Tue 14:00>
 Toby Hodges is inviting you to a scheduled Zoom meeting.
 Join Zoom Meeting
 https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
@@ -60,101 +2003,1679 @@ Passcode: 486623
 ---
 
 One tap mobile
-+15642172000\,\,83972902558# US
-+16465588656\,\,83972902558# US (New York)
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
 
 Join instructions
 https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
 
 
-*  Saddig PhD Defense
-<2026-04-24 Fri 11:00>--<2026-04-24 Fri 12:00>
-:PROPERTIES:
-:CUSTOM_ID: 5ld6cv5dh9i5jtuh116v484g51@google.com
-:ICAL_DTEND: 20260424T150000Z
-:ICAL_DTSTAMP: 20260424T131435Z
-:ICAL_CREATED: 20260422T002131Z
-:ICAL_LAST-MODIFIED: 20260422T002131Z
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: OPAQUE
-:END:
+* AI Carpentry User Workshop Coworking
+<2026-03-31 Tue 12:00>--<2026-03-31 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
 
-*  Grand Mannan Trip
-<2026-07-04 Sat 00:00>--<2026-07-09 Thu 00:00>
-:PROPERTIES:
-:CUSTOM_ID: 1628n26jgqm3a1bfnbg523j6uk@google.com
-:ICAL_DTEND: 20260709
-:ICAL_DTSTAMP: 20260424T131435Z
-:ICAL_CREATED: 20260221T030513Z
-:ICAL_LAST-MODIFIED: 20260221T030513Z
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: TRANSPARENT
-:END:
+Meeting ID: 839 7290 2558
+Passcode: 486623
 
-*  Dentist Appt
-<2026-08-10 Mon 10:00>--<2026-08-10 Mon 11:00>
-:PROPERTIES:
-:CUSTOM_ID: 7ldt2hndat9tq4ddvt42blitl7@google.com
-:ICAL_DTEND: 20260810T140000Z
-:ICAL_DTSTAMP: 20260424T131435Z
-:ICAL_CREATED: 20260220T125209Z
-:ICAL_LAST-MODIFIED: 20260220T125209Z
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: OPAQUE
-:END:
+---
 
-*  Intro to chainmail
-<2026-05-30 Sat 10:00>--<2026-05-30 Sat 16:00>
-:PROPERTIES:
-:CUSTOM_ID: 2n3dpjlr4gobl7fr8ipsq9csk4@google.com
-:ICAL_DTEND: 20260530T190000Z
-:ICAL_DTSTAMP: 20260424T131435Z
-:ICAL_CREATED: 20260422T222439Z
-:ICAL_LAST-MODIFIED: 20260422T222439Z
-:ICAL_LOCATION: Memorial Hall\, Room 26
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: OPAQUE
-:END:
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
 
-*  NS Trip
-<2026-08-22 Sat 00:00>--<2026-08-27 Thu 00:00>
-:PROPERTIES:
-:CUSTOM_ID: 00jns58dv688n0bg71lp7mrpp5@google.com
-:ICAL_DTEND: 20260827
-:ICAL_DTSTAMP: 20260424T131435Z
-:ICAL_CREATED: 20260221T030605Z
-:ICAL_LAST-MODIFIED: 20260221T030605Z
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: TRANSPARENT
-:END:
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
 
-*  Blood donation
+
+* AI Carpentry User Workshop Coworking
+<2026-04-14 Tue 12:00>--<2026-04-14 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* AI Carpentry User Workshop Coworking
+<2026-04-28 Tue 12:00>--<2026-04-28 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* AI Carpentry User Workshop Coworking
+<2026-05-12 Tue 12:00>--<2026-05-12 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* AI Carpentry User Workshop Coworking
+<2026-05-26 Tue 12:00>--<2026-05-26 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* AI Carpentry User Workshop Coworking
+<2026-06-09 Tue 12:00>--<2026-06-09 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* AI Carpentry User Workshop Coworking
+<2026-06-23 Tue 12:00>--<2026-06-23 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* AI Carpentry User Workshop Coworking
+<2026-07-07 Tue 12:00>--<2026-07-07 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* AI Carpentry User Workshop Coworking
+<2026-07-21 Tue 12:00>--<2026-07-21 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* AI Carpentry User Workshop Coworking
+<2026-08-04 Tue 12:00>--<2026-08-04 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* AI Carpentry User Workshop Coworking
+<2026-08-18 Tue 12:00>--<2026-08-18 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* AI Carpentry User Workshop Coworking
+<2026-09-01 Tue 12:00>--<2026-09-01 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* AI Carpentry User Workshop Coworking
+<2026-09-15 Tue 12:00>--<2026-09-15 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* AI Carpentry User Workshop Coworking
+<2026-09-29 Tue 12:00>--<2026-09-29 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* AI Carpentry User Workshop Coworking
+<2026-10-13 Tue 12:00>--<2026-10-13 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* AI Carpentry User Workshop Coworking
+<2026-10-27 Tue 13:00>--<2026-10-27 Tue 14:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* AI Carpentry User Workshop Coworking
+<2026-11-10 Tue 12:00>--<2026-11-10 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* AI Carpentry User Workshop Coworking
+<2026-11-24 Tue 12:00>--<2026-11-24 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* AI Carpentry User Workshop Coworking
+<2026-12-08 Tue 12:00>--<2026-12-08 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* AI Carpentry User Workshop Coworking
+<2026-12-22 Tue 12:00>--<2026-12-22 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* Nextcloud catch-up
+<2025-10-31 Fri 14:00>--<2025-10-31 Fri 15:00>
+Venkat Mahadevan is inviting you to a scheduled Zoom meeting.
+
+Topic: Venkat Mahadevan's Personal Meeting Room
+
+Join Zoom Meeting:
+https://ubc.zoom.us/j/3811021481?pwd=V01oZEJPM3FlL3YzRi94NmJBU3lFZz09
+
+Meeting ID: 381 102 1481
+Passcode: 4915
+
+One tap mobile:
++17789072071,,3811021481#,,,,,,0#,,4915#
+
+Dial by your location:
++1 778 907 2071 (Vancouver)
++1 438 809 7799 (Montreal)
++1 587 328 1099 (Alberta)
++1 613 209 3054 (Ottawa)
++1 647 374 4685 (Toronto)
++1 204 272 7920 (Manitoba)
+
+Meeting ID: 381 102 1481
+Passcode: 4915
+
+Join from a videoconferencing system:
+IP: 159.124.196.25 (Canada Vancouver) or 159.124.168.213 (Canada Toronto)
+Meeting ID: 381 102 1481
+Passcode: 4915
+
+SIP: 3811021481@vn.zmca.us<mailto:3811021481@vn.zmca.us>
+Passcode: 4915
+
+* Nextcloud catch-up
+<2025-11-28 Fri 14:00>--<2025-11-28 Fri 15:00>
+Venkat Mahadevan is inviting you to a scheduled Zoom meeting.
+
+Topic: Venkat Mahadevan's Personal Meeting Room
+
+Join Zoom Meeting:
+https://ubc.zoom.us/j/3811021481?pwd=V01oZEJPM3FlL3YzRi94NmJBU3lFZz09
+
+Meeting ID: 381 102 1481
+Passcode: 4915
+
+One tap mobile:
++17789072071,,3811021481#,,,,,,0#,,4915#
+
+Dial by your location:
++1 778 907 2071 (Vancouver)
++1 438 809 7799 (Montreal)
++1 587 328 1099 (Alberta)
++1 613 209 3054 (Ottawa)
++1 647 374 4685 (Toronto)
++1 204 272 7920 (Manitoba)
+
+Meeting ID: 381 102 1481
+Passcode: 4915
+
+Join from a videoconferencing system:
+IP: 159.124.196.25 (Canada Vancouver) or 159.124.168.213 (Canada Toronto)
+Meeting ID: 381 102 1481
+Passcode: 4915
+
+SIP: 3811021481@vn.zmca.us<mailto:3811021481@vn.zmca.us>
+Passcode: 4915
+
+* Nextcloud catch-up
+<2026-01-30 Fri 14:00>--<2026-01-30 Fri 15:00>
+Venkat Mahadevan is inviting you to a scheduled Zoom meeting.
+
+Topic: Venkat Mahadevan's Personal Meeting Room
+
+Join Zoom Meeting:
+https://ubc.zoom.us/j/3811021481?pwd=V01oZEJPM3FlL3YzRi94NmJBU3lFZz09
+
+Meeting ID: 381 102 1481
+Passcode: 4915
+
+One tap mobile:
++17789072071,,3811021481#,,,,,,0#,,4915#
+
+Dial by your location:
++1 778 907 2071 (Vancouver)
++1 438 809 7799 (Montreal)
++1 587 328 1099 (Alberta)
++1 613 209 3054 (Ottawa)
++1 647 374 4685 (Toronto)
++1 204 272 7920 (Manitoba)
+
+Meeting ID: 381 102 1481
+Passcode: 4915
+
+Join from a videoconferencing system:
+IP: 159.124.196.25 (Canada Vancouver) or 159.124.168.213 (Canada Toronto)
+Meeting ID: 381 102 1481
+Passcode: 4915
+
+SIP: 3811021481@vn.zmca.us<mailto:3811021481@vn.zmca.us>
+Passcode: 4915
+
+* Nextcloud catch-up
+<2026-02-27 Fri 14:00>--<2026-02-27 Fri 15:00>
+Venkat Mahadevan is inviting you to a scheduled Zoom meeting.
+
+Topic: Venkat Mahadevan's Personal Meeting Room
+
+Join Zoom Meeting:
+https://ubc.zoom.us/j/3811021481?pwd=V01oZEJPM3FlL3YzRi94NmJBU3lFZz09
+
+Meeting ID: 381 102 1481
+Passcode: 4915
+
+One tap mobile:
++17789072071,,3811021481#,,,,,,0#,,4915#
+
+Dial by your location:
++1 778 907 2071 (Vancouver)
++1 438 809 7799 (Montreal)
++1 587 328 1099 (Alberta)
++1 613 209 3054 (Ottawa)
++1 647 374 4685 (Toronto)
++1 204 272 7920 (Manitoba)
+
+Meeting ID: 381 102 1481
+Passcode: 4915
+
+Join from a videoconferencing system:
+IP: 159.124.196.25 (Canada Vancouver) or 159.124.168.213 (Canada Toronto)
+Meeting ID: 381 102 1481
+Passcode: 4915
+
+SIP: 3811021481@vn.zmca.us<mailto:3811021481@vn.zmca.us>
+Passcode: 4915
+
+* Nextcloud catch-up
+<2026-03-27 Fri 14:00>--<2026-03-27 Fri 15:00>
+Venkat Mahadevan is inviting you to a scheduled Zoom meeting.
+
+Topic: Venkat Mahadevan's Personal Meeting Room
+
+Join Zoom Meeting:
+https://ubc.zoom.us/j/3811021481?pwd=V01oZEJPM3FlL3YzRi94NmJBU3lFZz09
+
+Meeting ID: 381 102 1481
+Passcode: 4915
+
+One tap mobile:
++17789072071,,3811021481#,,,,,,0#,,4915#
+
+Dial by your location:
++1 778 907 2071 (Vancouver)
++1 438 809 7799 (Montreal)
++1 587 328 1099 (Alberta)
++1 613 209 3054 (Ottawa)
++1 647 374 4685 (Toronto)
++1 204 272 7920 (Manitoba)
+
+Meeting ID: 381 102 1481
+Passcode: 4915
+
+Join from a videoconferencing system:
+IP: 159.124.196.25 (Canada Vancouver) or 159.124.168.213 (Canada Toronto)
+Meeting ID: 381 102 1481
+Passcode: 4915
+
+SIP: 3811021481@vn.zmca.us<mailto:3811021481@vn.zmca.us>
+Passcode: 4915
+
+* Nextcloud catch-up
+<2026-04-24 Fri 14:00>--<2026-04-24 Fri 15:00>
+Venkat Mahadevan is inviting you to a scheduled Zoom meeting.
+
+Topic: Venkat Mahadevan's Personal Meeting Room
+
+Join Zoom Meeting:
+https://ubc.zoom.us/j/3811021481?pwd=V01oZEJPM3FlL3YzRi94NmJBU3lFZz09
+
+Meeting ID: 381 102 1481
+Passcode: 4915
+
+One tap mobile:
++17789072071,,3811021481#,,,,,,0#,,4915#
+
+Dial by your location:
++1 778 907 2071 (Vancouver)
++1 438 809 7799 (Montreal)
++1 587 328 1099 (Alberta)
++1 613 209 3054 (Ottawa)
++1 647 374 4685 (Toronto)
++1 204 272 7920 (Manitoba)
+
+Meeting ID: 381 102 1481
+Passcode: 4915
+
+Join from a videoconferencing system:
+IP: 159.124.196.25 (Canada Vancouver) or 159.124.168.213 (Canada Toronto)
+Meeting ID: 381 102 1481
+Passcode: 4915
+
+SIP: 3811021481@vn.zmca.us<mailto:3811021481@vn.zmca.us>
+Passcode: 4915
+
+* AI Carpentry User Workshop Coworking
+<2026-02-26 Thu 14:30>--<2026-02-26 Thu 15:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-03-12 Thu 15:30>--<2026-03-12 Thu 16:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-03-26 Thu 15:30>--<2026-03-26 Thu 16:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-04-09 Thu 14:30>--<2026-04-09 Thu 15:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-04-23 Thu 14:30>--<2026-04-23 Thu 15:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-05-07 Thu 14:30>--<2026-05-07 Thu 15:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-05-21 Thu 14:30>--<2026-05-21 Thu 15:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-06-04 Thu 14:30>--<2026-06-04 Thu 15:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-06-18 Thu 14:30>--<2026-06-18 Thu 15:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-07-02 Thu 14:30>--<2026-07-02 Thu 15:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-07-16 Thu 14:30>--<2026-07-16 Thu 15:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-07-30 Thu 14:30>--<2026-07-30 Thu 15:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-08-13 Thu 14:30>--<2026-08-13 Thu 15:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-08-27 Thu 14:30>--<2026-08-27 Thu 15:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-09-10 Thu 14:30>--<2026-09-10 Thu 15:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-09-24 Thu 14:30>--<2026-09-24 Thu 15:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-10-08 Thu 14:30>--<2026-10-08 Thu 15:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-10-22 Thu 14:30>--<2026-10-22 Thu 15:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-11-05 Thu 14:30>--<2026-11-05 Thu 15:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-11-19 Thu 14:30>--<2026-11-19 Thu 15:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-12-03 Thu 14:30>--<2026-12-03 Thu 15:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* AI Carpentry User Workshop Coworking
+<2026-12-17 Thu 14:30>--<2026-12-17 Thu 15:30>
+Our running notes document: <a href="https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking">https://codimd.carpentries.org/ai-carpentry-user-workshop-coworking</a> <br> <br>Toby Hodges is inviting you to a scheduled Zoom meeting.<br>Join Zoom Meeting<br><a href="https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1" target="_blank">https://carpentries.zoom.us/j/86313476163?pwd=x4WRIfL0yzlAlsv9My0LYkhns2yvBb.1</a><br><br>Meeting ID: 863 1347 6163<br>Passcode: 658106<br><br>---<br><br>One tap mobile<br>+13126266799,,86313476163# US (Chicago)<br>+13462487799,,86313476163# US (Houston)<br><br>Join instructions<br><a href="https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw" target="_blank">https://carpentries.zoom.us/meetings/86313476163/invitations?signature=woP9jrj_vM5rvcxXA6-_c-1q6c_mWNjakUXfVrfm_Vw</a>
+* PRAC
+<2026-03-31 Tue 17:00>--<2026-03-31 Tue 19:00>
+
+* Statistical Mechanics
+<2026-01-22 Thu 16:00>--<2026-01-22 Thu 17:30>
+
+* Statistical Mechanics
+<2026-01-27 Tue 16:00>--<2026-01-27 Tue 17:30>
+
+* Statistical Mechanics
+<2026-01-29 Thu 16:00>--<2026-01-29 Thu 17:30>
+
+* Statistical Mechanics
+<2026-02-03 Tue 16:00>--<2026-02-03 Tue 17:30>
+
+* Statistical Mechanics
+<2026-02-05 Thu 16:00>--<2026-02-05 Thu 17:30>
+
+* Statistical Mechanics
+<2026-02-10 Tue 16:00>--<2026-02-10 Tue 17:30>
+
+* Statistical Mechanics
+<2026-02-12 Thu 16:00>--<2026-02-12 Thu 17:30>
+
+* Statistical Mechanics
+<2026-02-17 Tue 16:00>--<2026-02-17 Tue 17:30>
+
+* Statistical Mechanics
+<2026-02-19 Thu 16:00>--<2026-02-19 Thu 17:30>
+
+* AI Carpentry User Workshop Coworking
+<2026-02-17 Tue 12:00>--<2026-02-17 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* AI Carpentry User Workshop Coworking
+<2026-03-03 Tue 12:00>--<2026-03-03 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* DRI Operations
+<2026-03-18 Wed 16:00>--<2026-03-18 Wed 17:00>
+
+* Blood donation
 <2026-05-05 Tue 19:30>--<2026-05-05 Tue 20:30>
-:PROPERTIES:
-:CUSTOM_ID: 48a2obrmbl85plq9jj9b2ishmd@google.com
-:ICAL_DTEND: 20260505T233000Z
-:ICAL_DTSTAMP: 20260424T131435Z
-:ICAL_CREATED: 20260310T154200Z
-:ICAL_LAST-MODIFIED: 20260310T154200Z
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: OPAQUE
-:END:
 
-*  Subaru
-<2026-04-30 Thu 10:00>--<2026-04-30 Thu 12:00>
-:PROPERTIES:
-:CUSTOM_ID: 02iek0geui4i93qmpqkuj75c3s@google.com
-:ICAL_DTEND: 20260430T150000Z
-:ICAL_DTSTAMP: 20260424T131435Z
-:ICAL_CREATED: 20260422T130244Z
-:ICAL_LAST-MODIFIED: 20260422T130244Z
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: OPAQUE
-:END:
+* mechanics
+<2025-09-15 Mon 20:00>--<2025-09-15 Mon 21:00>
+
+* Golbarg talk
+<2026-03-19 Thu 13:00>--<2026-03-19 Thu 14:00>
+
+* Saddig PhD Defense
+<2026-04-24 Fri 11:00>--<2026-04-24 Fri 12:00>
+
+* Flight to Reykjavik (FI 606)
+<2025-08-25 Mon 21:30>--<2025-08-26 Tue 01:45>
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DO_seXpgZMfxuqij4f-Ik6TEHvXBGED-Lc
+
+* sean eye appt
+<2025-11-06 Thu 15:20>--<2025-11-06 Thu 16:20>
+
+* AI Carpentry User Workshop Coworking
+<2025-12-04 Thu 14:30>--<2025-12-04 Thu 15:30>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/89229747447?pwd=dGF6Bsbw6VFU4FcPLXDweASadCBcWA.1
+
+Meeting ID: 892 2974 7447
+Passcode: 011893
+
+---
+
+One tap mobile
++16465588656,,89229747447# US (New York)
++16469313860,,89229747447# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/89229747447/invitations?signature=2zqGyGPhUrtY5cqgYzSiK6EN_PiT_jOKei5L-21ExZQ
+
+
+* AI Carpentry User Workshop Coworking
+<2025-12-18 Thu 14:30>--<2025-12-18 Thu 15:30>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/89229747447?pwd=dGF6Bsbw6VFU4FcPLXDweASadCBcWA.1
+
+Meeting ID: 892 2974 7447
+Passcode: 011893
+
+---
+
+One tap mobile
++16465588656,,89229747447# US (New York)
++16469313860,,89229747447# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/89229747447/invitations?signature=2zqGyGPhUrtY5cqgYzSiK6EN_PiT_jOKei5L-21ExZQ
+
+
+* AI Carpentry User Workshop Coworking
+<2026-01-15 Thu 14:30>--<2026-01-15 Thu 15:30>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/89229747447?pwd=dGF6Bsbw6VFU4FcPLXDweASadCBcWA.1
+
+Meeting ID: 892 2974 7447
+Passcode: 011893
+
+---
+
+One tap mobile
++16465588656,,89229747447# US (New York)
++16469313860,,89229747447# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/89229747447/invitations?signature=2zqGyGPhUrtY5cqgYzSiK6EN_PiT_jOKei5L-21ExZQ
+
+
+* NS Trip
+<2026-08-22 Sat>--<2026-08-27 Thu>
+
+* head home
+<2025-11-04 Tue 11:30>--<2025-11-04 Tue 12:00>
+
+* Intro webinar
+<2025-09-25 Thu 13:00>--<2025-09-25 Thu 16:00>
+
+* Dentist Appt
+<2026-08-10 Mon 10:00>--<2026-08-10 Mon 11:00>
+
+* PHYS6011
+<2025-09-12 Fri 08:30>--<2025-09-12 Fri 09:30>
+
+* PHYS6011
+<2025-09-15 Mon 08:30>--<2025-09-15 Mon 09:30>
+
+* PHYS6011
+<2025-09-17 Wed 08:30>--<2025-09-17 Wed 09:30>
+
+* PHYS6011
+<2025-09-19 Fri 08:30>--<2025-09-19 Fri 09:30>
+
+* PHYS6011
+<2025-09-22 Mon 08:30>--<2025-09-22 Mon 09:30>
+
+* PHYS6011
+<2025-09-24 Wed 08:30>--<2025-09-24 Wed 09:30>
+
+* PHYS6011
+<2025-09-26 Fri 08:30>--<2025-09-26 Fri 09:30>
+
+* PHYS6011
+<2025-09-29 Mon 08:30>--<2025-09-29 Mon 09:30>
+
+* PHYS6011
+<2025-10-01 Wed 08:30>--<2025-10-01 Wed 09:30>
+
+* PHYS6011
+<2025-10-03 Fri 08:30>--<2025-10-03 Fri 09:30>
+
+* PHYS6011
+<2025-10-06 Mon 08:30>--<2025-10-06 Mon 09:30>
+
+* PHYS6011
+<2025-10-08 Wed 08:30>--<2025-10-08 Wed 09:30>
+
+* PHYS6011
+<2025-10-10 Fri 08:30>--<2025-10-10 Fri 09:30>
+
+* PHYS6011
+<2025-10-13 Mon 08:30>--<2025-10-13 Mon 09:30>
+
+* physics
+<2025-11-03 Mon 10:00>--<2025-11-03 Mon 12:00>
+
+* Grand Mannan Trip
+<2026-07-04 Sat>--<2026-07-09 Thu>
+
+* PRAC
+<2026-02-24 Tue 17:00>--<2026-02-24 Tue 19:00>
+
+* DRI All Staff
+<2026-03-23 Mon 14:00>--<2026-03-23 Mon 15:30>
+
+* Goose River trip
+<2025-07-12 Sat>--<2025-07-14 Mon>
+
+* PRAC
+<2026-01-27 Tue 17:00>--<2026-01-27 Tue 19:00>
+
+* don furgeson
+<2025-11-05 Wed 11:00>--<2025-11-05 Wed 12:00>
+
+* Senate Meeting
+<2026-03-24 Tue 16:00>--<2026-03-24 Tue 18:00>
+
+* Reservation at Moco Downtown
+<2025-07-02 Wed 19:00>--<2025-07-02 Wed 20:00>
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+* MUN trip
+<2025-10-19 Sun>--<2025-10-26 Sun>
+
+* subaru
+<2025-11-04 Tue 10:00>--<2025-11-04 Tue 11:00>
+
+* Reservation at Isaac's Way
+<2025-06-27 Fri 17:00>--<2025-06-27 Fri 18:00>
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+* Stay at The Bay Dome
+<2026-03-06 Fri>--<2026-03-09 Mon>
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DP564a46_h_Vo8zOqe-THLC-6957V7U8xU
+
+* Data Ethics
+<2025-10-28 Tue 14:00>--<2025-10-28 Tue 15:00>
+
+* Intro to chainmail
+<2026-05-30 Sat 10:00>--<2026-05-30 Sat 16:00>
+
+* Software Carpentry Governance Committee
+<2025-11-18 Tue 12:00>--<2025-11-18 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83562858672?pwd=KxjbgRB3Pr1eUmDe3MrOPgnLACwXBa.1
+
+Meeting ID: 835 6285 8672
+Passcode: 441067
+
+---
+
+One tap mobile
++13052241968,,83562858672# US
++13092053325,,83562858672# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/83562858672/invitations?signature=pCUMSLnyetWxB4YyeN3ur7ozrnxpABLUAyxvSbfdpzo
+
+
+* Software Carpentry Governance Committee
+<2025-12-16 Tue 12:00>--<2025-12-16 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83562858672?pwd=KxjbgRB3Pr1eUmDe3MrOPgnLACwXBa.1
+
+Meeting ID: 835 6285 8672
+Passcode: 441067
+
+---
+
+One tap mobile
++13052241968,,83562858672# US
++13092053325,,83562858672# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/83562858672/invitations?signature=pCUMSLnyetWxB4YyeN3ur7ozrnxpABLUAyxvSbfdpzo
+
+
+* Software Carpentry Governance Committee
+<2026-01-20 Tue 12:00>--<2026-01-20 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83562858672?pwd=KxjbgRB3Pr1eUmDe3MrOPgnLACwXBa.1
+
+Meeting ID: 835 6285 8672
+Passcode: 441067
+
+---
+
+One tap mobile
++13052241968,,83562858672# US
++13092053325,,83562858672# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/83562858672/invitations?signature=pCUMSLnyetWxB4YyeN3ur7ozrnxpABLUAyxvSbfdpzo
+
+
+* Software Carpentry Governance Committee
+<2026-02-17 Tue 12:00>--<2026-02-17 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83562858672?pwd=KxjbgRB3Pr1eUmDe3MrOPgnLACwXBa.1
+
+Meeting ID: 835 6285 8672
+Passcode: 441067
+
+---
+
+One tap mobile
++13052241968,,83562858672# US
++13092053325,,83562858672# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/83562858672/invitations?signature=pCUMSLnyetWxB4YyeN3ur7ozrnxpABLUAyxvSbfdpzo
+
+
+* Software Carpentry Governance Committee
+<2026-03-17 Tue 13:00>--<2026-03-17 Tue 14:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83562858672?pwd=KxjbgRB3Pr1eUmDe3MrOPgnLACwXBa.1
+
+Meeting ID: 835 6285 8672
+Passcode: 441067
+
+---
+
+One tap mobile
++13052241968,,83562858672# US
++13092053325,,83562858672# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/83562858672/invitations?signature=pCUMSLnyetWxB4YyeN3ur7ozrnxpABLUAyxvSbfdpzo
+
+
+* Software Carpentry Governance Committee
+<2026-04-21 Tue 12:00>--<2026-04-21 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83562858672?pwd=KxjbgRB3Pr1eUmDe3MrOPgnLACwXBa.1
+
+Meeting ID: 835 6285 8672
+Passcode: 441067
+
+---
+
+One tap mobile
++13052241968,,83562858672# US
++13092053325,,83562858672# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/83562858672/invitations?signature=pCUMSLnyetWxB4YyeN3ur7ozrnxpABLUAyxvSbfdpzo
+
+
+* Software Carpentry Governance Committee
+<2026-05-19 Tue 12:00>--<2026-05-19 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83562858672?pwd=KxjbgRB3Pr1eUmDe3MrOPgnLACwXBa.1
+
+Meeting ID: 835 6285 8672
+Passcode: 441067
+
+---
+
+One tap mobile
++13052241968,,83562858672# US
++13092053325,,83562858672# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/83562858672/invitations?signature=pCUMSLnyetWxB4YyeN3ur7ozrnxpABLUAyxvSbfdpzo
+
+
+* Software Carpentry Governance Committee
+<2026-06-16 Tue 12:00>--<2026-06-16 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83562858672?pwd=KxjbgRB3Pr1eUmDe3MrOPgnLACwXBa.1
+
+Meeting ID: 835 6285 8672
+Passcode: 441067
+
+---
+
+One tap mobile
++13052241968,,83562858672# US
++13092053325,,83562858672# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/83562858672/invitations?signature=pCUMSLnyetWxB4YyeN3ur7ozrnxpABLUAyxvSbfdpzo
+
+
+* Software Carpentry Governance Committee
+<2026-07-21 Tue 12:00>--<2026-07-21 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83562858672?pwd=KxjbgRB3Pr1eUmDe3MrOPgnLACwXBa.1
+
+Meeting ID: 835 6285 8672
+Passcode: 441067
+
+---
+
+One tap mobile
++13052241968,,83562858672# US
++13092053325,,83562858672# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/83562858672/invitations?signature=pCUMSLnyetWxB4YyeN3ur7ozrnxpABLUAyxvSbfdpzo
+
+
+* Software Carpentry Governance Committee
+<2026-08-18 Tue 12:00>--<2026-08-18 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83562858672?pwd=KxjbgRB3Pr1eUmDe3MrOPgnLACwXBa.1
+
+Meeting ID: 835 6285 8672
+Passcode: 441067
+
+---
+
+One tap mobile
++13052241968,,83562858672# US
++13092053325,,83562858672# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/83562858672/invitations?signature=pCUMSLnyetWxB4YyeN3ur7ozrnxpABLUAyxvSbfdpzo
+
+
+* Software Carpentry Governance Committee
+<2026-09-15 Tue 12:00>--<2026-09-15 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83562858672?pwd=KxjbgRB3Pr1eUmDe3MrOPgnLACwXBa.1
+
+Meeting ID: 835 6285 8672
+Passcode: 441067
+
+---
+
+One tap mobile
++13052241968,,83562858672# US
++13092053325,,83562858672# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/83562858672/invitations?signature=pCUMSLnyetWxB4YyeN3ur7ozrnxpABLUAyxvSbfdpzo
+
+
+* Software Carpentry Governance Committee
+<2026-10-20 Tue 12:00>--<2026-10-20 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83562858672?pwd=KxjbgRB3Pr1eUmDe3MrOPgnLACwXBa.1
+
+Meeting ID: 835 6285 8672
+Passcode: 441067
+
+---
+
+One tap mobile
++13052241968,,83562858672# US
++13092053325,,83562858672# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/83562858672/invitations?signature=pCUMSLnyetWxB4YyeN3ur7ozrnxpABLUAyxvSbfdpzo
+
+
+* Software Carpentry Governance Committee
+<2026-11-17 Tue 12:00>--<2026-11-17 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83562858672?pwd=KxjbgRB3Pr1eUmDe3MrOPgnLACwXBa.1
+
+Meeting ID: 835 6285 8672
+Passcode: 441067
+
+---
+
+One tap mobile
++13052241968,,83562858672# US
++13092053325,,83562858672# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/83562858672/invitations?signature=pCUMSLnyetWxB4YyeN3ur7ozrnxpABLUAyxvSbfdpzo
+
+
+* Software Carpentry Governance Committee
+<2026-12-15 Tue 12:00>--<2026-12-15 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83562858672?pwd=KxjbgRB3Pr1eUmDe3MrOPgnLACwXBa.1
+
+Meeting ID: 835 6285 8672
+Passcode: 441067
+
+---
+
+One tap mobile
++13052241968,,83562858672# US
++13092053325,,83562858672# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/83562858672/invitations?signature=pCUMSLnyetWxB4YyeN3ur7ozrnxpABLUAyxvSbfdpzo
+
+
+* Software Carpentry Governance Committee
+<2027-01-19 Tue 12:00>--<2027-01-19 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83562858672?pwd=KxjbgRB3Pr1eUmDe3MrOPgnLACwXBa.1
+
+Meeting ID: 835 6285 8672
+Passcode: 441067
+
+---
+
+One tap mobile
++13052241968,,83562858672# US
++13092053325,,83562858672# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/83562858672/invitations?signature=pCUMSLnyetWxB4YyeN3ur7ozrnxpABLUAyxvSbfdpzo
+
+
+* Software Carpentry Governance Committee
+<2027-02-16 Tue 12:00>--<2027-02-16 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83562858672?pwd=KxjbgRB3Pr1eUmDe3MrOPgnLACwXBa.1
+
+Meeting ID: 835 6285 8672
+Passcode: 441067
+
+---
+
+One tap mobile
++13052241968,,83562858672# US
++13092053325,,83562858672# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/83562858672/invitations?signature=pCUMSLnyetWxB4YyeN3ur7ozrnxpABLUAyxvSbfdpzo
+
+
+* Software Carpentry Governance Committee
+<2027-03-16 Tue 13:00>--<2027-03-16 Tue 14:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83562858672?pwd=KxjbgRB3Pr1eUmDe3MrOPgnLACwXBa.1
+
+Meeting ID: 835 6285 8672
+Passcode: 441067
+
+---
+
+One tap mobile
++13052241968,,83562858672# US
++13092053325,,83562858672# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/83562858672/invitations?signature=pCUMSLnyetWxB4YyeN3ur7ozrnxpABLUAyxvSbfdpzo
+
+
+* Software Carpentry Governance Committee
+<2027-04-20 Tue 12:00>--<2027-04-20 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83562858672?pwd=KxjbgRB3Pr1eUmDe3MrOPgnLACwXBa.1
+
+Meeting ID: 835 6285 8672
+Passcode: 441067
+
+---
+
+One tap mobile
++13052241968,,83562858672# US
++13092053325,,83562858672# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/83562858672/invitations?signature=pCUMSLnyetWxB4YyeN3ur7ozrnxpABLUAyxvSbfdpzo
+
+
+* Laurel's Birthday
+<2026-03-06 Fri>--<2026-03-09 Mon>
+
+* Nissan
+<2026-04-23 Thu 18:00>--<2026-04-23 Thu 20:00>
+
+* Flute Choir
+<2025-06-11 Wed 18:00>--<2025-06-11 Wed 20:00>
+
+* SCORM Meeting
+<2025-09-18 Thu 13:00>--<2025-09-18 Thu 14:00>
+
+* Dentist
+<2026-02-09 Mon 10:00>--<2026-02-09 Mon 11:00>
+
+* Shumaila talk
+<2026-04-09 Thu 13:00>--<2026-04-09 Thu 14:00>
+
+* AI Carpentry
+<2025-09-22 Mon 16:00>--<2025-09-22 Mon 17:00>
+
+* Reservation at Gahan House Riverside
+<2026-03-17 Tue 18:00>--<2026-03-17 Tue 19:00>
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+* eye surgery
+<2025-09-18 Thu 15:00>--<2025-09-18 Thu 17:00>
+
+* Pre-Screen | Joey Bernard | Senior Full Stack Software Developer
+<2025-10-09 Thu 14:00>--<2025-10-09 Thu 14:45>
+Hi Joey,
+
+This is a preliminary screening interview for the Senior Full Stack Software Developer role at the Digital Research Alliance of Canada.
+
+We look forward to learning more about your experience and discussing the opportunity. Please be prepared to briefly speak about your background and relevant skills.
+
+Here is the link to the posting for your reference: Senior Full Stack Software Developer<https://www.alliancecan.ca/en/career-opportunities/senior-full-stack-software-developer>.
+
+The MS Teams meeting link can be found below – please ensure your camera is enabled.
+
+If you have any questions before the interview, please feel free to reach out.
+
+Best regards,
+
+Remina Sidhu, BBA, CPHR (she/her)
+[cid:image001.png@01DC345B.56B45780]
+Human Resources Business Partner | Partenaire des operations de Ressources Humaines
+
+
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDIyNWVmNmUtMzdmYy00Mzc4LWFlOWEtZTg1N2RlNWQxNDJi%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22610bd808-f81f-455e-9525-0b342a4e84ec%22%7d>
+Meeting ID: 218 359 545 974 9
+Passcode: 8g5gn2me
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=610bd808-f81f-455e-9525-0b342a4e84ec&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_NDIyNWVmNmUtMzdmYy00Mzc4LWFlOWEtZTg1N2RlNWQxNDJi@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* Senator Orientation
+<2025-09-16 Tue 15:00>--<2025-09-16 Tue 16:00>
+
+* DRI Operations
+<2026-01-21 Wed 16:00>--<2026-01-21 Wed 17:00>
+
+* Data Trust Huddle
+<2025-09-17 Wed 11:00>--<2025-09-17 Wed 12:00>
+
+* Ottawa
+<2025-10-06 Mon>--<2025-10-09 Thu>
+
+* Alan Doyle concert
+<2025-07-26 Sat>
+
+* AI Carpentry User Workshop Coworking
+<2025-11-25 Tue 12:00>--<2025-11-25 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* AI Carpentry User Workshop Coworking
+<2025-12-09 Tue 12:00>--<2025-12-09 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* Reservation at One Eared Goat
+<2025-10-23 Thu 18:30>--<2025-10-23 Thu 19:30>
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+* Plant work
+<2025-09-15 Mon 19:00>--<2025-09-15 Mon 20:00>
+
+* Renew gym membership
+<2025-11-03 Mon>
+
+* Thanksgiving
+<2025-10-13 Mon>
+
+* Supper
+<2025-08-05 Tue 17:00>--<2025-08-05 Tue 19:00>
+
+* Interview: Joey Bernard | Senior Full-Stack Software Developer (CCDB)
+<2025-10-16 Thu 14:00>--<2025-10-16 Thu 15:00>
+Hello Joey,
+
+It was a pleasure connecting with you this afternoon. Thank you for confirming your interview.
+
+As mentioned, the meeting is scheduled for 60 minutes and will take place via Microsoft Teams. You can find the meeting link below for your reference. Similar to our pre-screen, we kindly ask that you have both your audio and video enabled during the interview.
+
+We look forward to speaking with you!
+
+Best regards,
+
+Remina Sidhu, BBA, CPHR (she/her)
+
+[cid:image001.png@01DC39DB.6AE006C0]
+
+Human Resources Business Partner | Partenaire des operations de Ressources Humaines
+
+
+
+
+CONFIDENTIALITY NOTICE
+This document and any attachments may contain confidential information intended only for the use of the individual or entity to which it is addressed. If you have received this communication in error, please notify us immediately and delete this message. Thank you.
+
+AVIS DE CONFIDENTIALITÉ
+Le présent document et ses éventuelles pièces jointes peuvent contenir de l’information confidentielle exclusivement destinée à la personne ou à l’entité destinataire. Si vous avez reçu ce message par erreur, veuillez nous le signaler immédiatement et le supprimer. Merci.
+P.S. At the Alliance, we support flexible work arrangements across Canada’s 6 time zones. My workday may look different than your workday. Please do not feel obligated to respond outside of your normal working hours.
+
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDg4MWU3ZmMtNTM1MS00YjRjLWIyMjctMTJiMjc3ZjliZGY4%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22610bd808-f81f-455e-9525-0b342a4e84ec%22%7d>
+Meeting ID: 261 031 159 968 6
+Passcode: 2ZM7w9Q6
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=610bd808-f81f-455e-9525-0b342a4e84ec&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_MDg4MWU3ZmMtNTM1MS00YjRjLWIyMjctMTJiMjc3ZjliZGY4@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* DataNB
+<2025-09-22 Mon 13:00>--<2025-09-22 Mon 14:30>
+
+* nissan
+<2025-11-05 Wed 19:00>--<2025-11-05 Wed 20:00>
+
+* PHYS6011
+<2025-10-15 Wed 09:00>--<2025-10-15 Wed 10:00>
+
+* PHYS6011
+<2025-10-17 Fri 09:00>--<2025-10-17 Fri 10:00>
+
+* PHYS6011
+<2025-10-20 Mon 09:00>--<2025-10-20 Mon 10:00>
+
+* PHYS6011
+<2025-10-22 Wed 09:00>--<2025-10-22 Wed 10:00>
+
+* PHYS6011
+<2025-10-24 Fri 09:00>--<2025-10-24 Fri 10:00>
+
+* PHYS6011
+<2025-10-27 Mon 09:00>--<2025-10-27 Mon 10:00>
+
+* PHYS6011
+<2025-10-29 Wed 09:00>--<2025-10-29 Wed 10:00>
+
+* PHYS6011
+<2025-10-31 Fri 09:00>--<2025-10-31 Fri 10:00>
+
+* PHYS6011
+<2025-11-03 Mon 09:00>--<2025-11-03 Mon 10:00>
+
+* PHYS6011
+<2025-11-05 Wed 09:00>--<2025-11-05 Wed 10:00>
+
+* PHYS6011
+<2025-11-07 Fri 09:00>--<2025-11-07 Fri 10:00>
+
+* PHYS6011
+<2025-11-17 Mon 09:00>--<2025-11-17 Mon 10:00>
+
+* PHYS6011
+<2025-11-19 Wed 09:00>--<2025-11-19 Wed 10:00>
+
+* PHYS6011
+<2025-11-21 Fri 09:00>--<2025-11-21 Fri 10:00>
+
+* PHYS6011
+<2025-11-24 Mon 09:00>--<2025-11-24 Mon 10:00>
+
+* PHYS6011
+<2025-11-26 Wed 09:00>--<2025-11-26 Wed 10:00>
+
+* PHYS6011
+<2025-11-28 Fri 09:00>--<2025-11-28 Fri 10:00>
+
+* PHYS6011
+<2025-12-01 Mon 09:00>--<2025-12-01 Mon 10:00>
+
+* PHYS6011
+<2025-12-03 Wed 09:00>--<2025-12-03 Wed 10:00>
+
+* PHYS6011
+<2025-12-05 Fri 09:00>--<2025-12-05 Fri 10:00>
+
+* PHYS6011
+<2025-12-08 Mon 09:00>--<2025-12-08 Mon 10:00>
+
+* BSC
+<2025-09-15 Mon 21:00>--<2025-09-15 Mon 22:00>
+
+* PRAC
+<2025-10-28 Tue 17:00>--<2025-10-28 Tue 19:00>
+
+* A Carpentries Community Governance Gathering
+<2025-10-30 Thu 10:00>--<2025-10-30 Thu 11:00>
+
+* AI Carpentry User Workshop Coworking
+<2025-11-20 Thu 14:30>--<2025-11-20 Thu 15:30>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/89229747447?pwd=dGF6Bsbw6VFU4FcPLXDweASadCBcWA.1
+
+Meeting ID: 892 2974 7447
+Passcode: 011893
+
+---
+
+One tap mobile
++16465588656,,89229747447# US (New York)
++16469313860,,89229747447# US
+
+Join instructions
+https://carpentries.zoom.us/meetings/89229747447/invitations?signature=2zqGyGPhUrtY5cqgYzSiK6EN_PiT_jOKei5L-21ExZQ
+
+
+* Flight to Halifax (FI 607)
+<2025-09-05 Fri 15:35>--<2025-09-05 Fri 20:30>
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DO_seXpgZMfxuqij4f-Ik6TEHvXBGED-Lc
+
+* Footloose
+<2025-06-27 Fri 19:00>--<2025-06-27 Fri 21:00>
+
+* Senate
+<2025-09-24 Wed 16:00>--<2025-09-24 Wed 18:00>
+
+* Offer of Employment Review | Joey Bernard
+<2025-11-06 Thu 17:00>--<2025-11-06 Thu 17:45>
+Hello Joey,
+
+We will review your offer of employment in full. I will screen share to ensure you are able to view the documentation prior to us sending you the formal material.
+
+Thank you,
+
+Remina Sidhu, BBA, CPHR (she/her)
+
+[cid:image001.png@01DC4D83.E83F0150]
+
+Human Resources Business Partner | Partenaire des operations de Ressources Humaines
+
+
+
+
+CONFIDENTIALITY NOTICE
+This document and any attachments may contain confidential information intended only for the use of the individual or entity to which it is addressed. If you have received this communication in error, please notify us immediately and delete this message. Thank you.
+
+AVIS DE CONFIDENTIALITÉ
+Le présent document et ses éventuelles pièces jointes peuvent contenir de l’information confidentielle exclusivement destinée à la personne ou à l’entité destinataire. Si vous avez reçu ce message par erreur, veuillez nous le signaler immédiatement et le supprimer. Merci.
+P.S. At the Alliance, we support flexible work arrangements across Canada’s 6 time zones. My workday may look different than your workday. Please do not feel obligated to respond outside of your normal working hours.
+
+
+________________________________________________________________________________
+Microsoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>
+Join the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTEwMTc2YTEtYTFkMS00MTViLTk2ZWItNTU0NzRhODk0ZmVi%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22610bd808-f81f-455e-9525-0b342a4e84ec%22%7d>
+Meeting ID: 263 028 508 776 3
+Passcode: Vu9zw3U7
+________________________________
+For organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=610bd808-f81f-455e-9525-0b342a4e84ec&tenantId=803af3d1-db74-4e57-8bce-9effc0b5932f&threadId=19_meeting_OTEwMTc2YTEtYTFkMS00MTViLTk2ZWItNTU0NzRhODk0ZmVi@thread.v2&messageId=0&language=en-US>
+________________________________________________________________________________
+
+
+* Senat Meeting
+<2026-02-17 Tue 16:00>--<2026-02-17 Tue 18:00>
+
+* Bare Naked Ladies Concert
+<2026-09-19 Sat>
+
+* blood donation
+<2025-11-04 Tue 18:30>--<2025-11-04 Tue 19:30>
+
+* training
+<2025-11-04 Tue 13:00>--<2025-11-04 Tue 16:00>
+
+* Ahmed Issawi talk
+<2026-02-12 Thu 13:00>--<2026-02-12 Thu 14:00>
+
+* NB-IRDT Staff Meeting
+<2025-06-09 Mon 15:00>--<2025-06-09 Mon 16:30>
+
+* Reservation at Isaac's Way
+<2026-05-10 Sun 10:00>--<2026-05-10 Sun 11:00>
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPmQIpN6c89RnNdH1qPITJudGC0K972_uI
+
+* Mount Carleton
+<2026-07-31 Fri>--<2026-08-03 Mon>
+
+* Cristian talk
+<2026-03-26 Thu 13:00>--<2026-03-26 Thu 14:00>
+
+* Update Tracy - UNB ITS
+<2025-09-23 Tue 14:30>--<2025-09-23 Tue 15:00>
+
+* PRAC
+<2026-04-28 Tue 17:00>--<2026-04-28 Tue 19:00>
+
+* AI Carpentry User Workshop Coworking
+<2026-01-20 Tue 12:00>--<2026-01-20 Tue 13:00>
+Toby Hodges is inviting you to a scheduled Zoom meeting.
+Join Zoom Meeting
+https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
+
+Meeting ID: 839 7290 2558
+Passcode: 486623
+
+---
+
+One tap mobile
++15642172000,,83972902558# US
++16465588656,,83972902558# US (New York)
+
+Join instructions
+https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
+
+
+* Tim Hunt talk
+<2026-01-29 Thu 13:00>--<2026-01-29 Thu 14:00>
+
+* Vatnshellir Lava Cave Tour
+<2025-08-27 Wed 08:00>--<2025-08-27 Wed 08:50>
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPLg-eMy2X1mr6o2fRYkNyXtwUm5BuG-SQ
+
+* Meet with Tracy
+<2025-09-09 Tue 14:00>--<2025-09-09 Tue 14:30>
+
+* PHYS6106
+<2025-09-04 Thu 13:00>--<2025-09-04 Thu 14:30>
+
+* PHYS6106
+<2025-09-11 Thu 13:00>--<2025-09-11 Thu 14:30>
+
+* PHYS6106
+<2025-10-02 Thu 13:00>--<2025-10-02 Thu 14:30>
+
+* PHYS6106
+<2025-10-09 Thu 13:00>--<2025-10-09 Thu 14:30>
+
+* PHYS6106
+<2025-10-16 Thu 13:00>--<2025-10-16 Thu 14:30>
+
+* PHYS6106
+<2025-10-23 Thu 13:00>--<2025-10-23 Thu 14:30>
+
+* PHYS6106
+<2025-10-30 Thu 13:00>--<2025-10-30 Thu 14:30>
+
+* PHYS6106
+<2025-11-06 Thu 13:00>--<2025-11-06 Thu 14:30>
+
+* PHYS6106
+<2025-11-20 Thu 13:00>--<2025-11-20 Thu 14:30>
+
+* PHYS6106
+<2025-11-27 Thu 13:00>--<2025-11-27 Thu 14:30>
+
+* PHYS6106
+<2025-12-04 Thu 13:00>--<2025-12-04 Thu 14:30>
+
+* PHYS6106
+<2025-12-11 Thu 13:00>--<2025-12-11 Thu 14:30>
+
+* Senate Call
+<2026-01-20 Tue 16:30>--<2026-01-20 Tue 18:30>
+
+* Blood donation
+<2026-03-09 Mon 19:30>--<2026-03-09 Mon 20:30>
+
+* ACENET meetings
+<2025-09-30 Tue>--<2025-10-04 Sat>
+
+* Aliaa talk
+<2026-02-26 Thu 13:00>--<2026-02-26 Thu 14:00>
+
+* DRI PEAK training
+<2026-02-03 Tue 11:00>--<2026-02-03 Tue 12:00>
+<span style="color: rgb(66, 66, 66); font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">PEAK Training</span><br style="color: rgb(66, 66, 66); font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><br style="color: rgb(66, 66, 66); font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><br style="color: rgb(66, 66, 66); font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><br style="color: rgb(66, 66, 66); font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><br style="color: rgb(66, 66, 66); font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><br style="color: rgb(66, 66, 66); font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: rgb(66, 66, 66); font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Join the Teams Meeting from your mobile web browser</span><br style="color: rgb(66, 66, 66); font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><a href="https://visit.teams.microsoft.com/webrtc-svc/api/route?tid=803af3d1-db74-4e57-8bce-9effc0b5932f&amp;convId=19:meeting_N2MzNzA1YzgtNzJjYS00Nzk1LTk3MjMtZTUzMjAzNjE1Njg0@thread.v2&amp;oid=a6eabf7b-f59a-4688-ae95-785167baf5d6&amp;JoinWebUrl=https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2MzNzA1YzgtNzJjYS00Nzk1LTk3MjMtZTUzMjAzNjE1Njg0%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22a6eabf7b-f59a-4688-ae95-785167baf5d6%22%7d&amp;bid=PEAKTraining@alliancecan.ca&amp;biz=3&amp;aE=False&amp;ssid=AxHuRxFqk0y7AchAFj5Mgg2" style="border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-weight: 400; font-stretch: inherit; font-size: 14.6667px; line-height: inherit; font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255);">https://visit.teams.microsoft.com/webrtc-svc/api/route?tid=803af3d1-db74-4e57-8bce-9effc0b5932f&amp;convId=19:meeting_N2MzNzA1YzgtNzJjYS00Nzk1LTk3MjMtZTUzMjAzNjE1Njg0@thread.v2&amp;oid=a6eabf7b-f59a-4688-ae95-785167baf5d6&amp;JoinWebUrl=https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2MzNzA1YzgtNzJjYS00Nzk1LTk3MjMtZTUzMjAzNjE1Njg0%40thread.v2/0?context=%7b%22Tid%22%3a%22803af3d1-db74-4e57-8bce-9effc0b5932f%22%2c%22Oid%22%3a%22a6eabf7b-f59a-4688-ae95-785167baf5d6%22%7d&amp;bid=PEAKTraining@alliancecan.ca&amp;biz=3&amp;aE=False&amp;ssid=AxHuRxFqk0y7AchAFj5Mgg2</a><br style="color: rgb(66, 66, 66); font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web (West European)&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif; font-size: 14.6667px; font-style: normal; 
