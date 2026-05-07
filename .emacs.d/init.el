@@ -5,6 +5,9 @@
   (message ""))
 
 
+;; Am I on the dev box?
+(defvar ccdbdev (or (equal (system-name) "ccdbdev-ng") (equal (system-name) "ccdbdev-ng.driirn.ca")
+
 ;; Setup package management for Emacs
 (require 'package)
 (setq package-archives
@@ -56,8 +59,17 @@
 
 
 
+;; Autocomplete stuff
+(with-eval-after-load 'company
+  (define-key company-mode-map (kbd "<tab>") 'company-indent-or-complete-common))
+(use-package company)
+(use-package company-posframe 
+   :init (company-posframe-mode 1))
+
+
+
 ;; Setup org-mode stuff
-(require 'org)
+(use-package org)
 
 ;; include diary data
 (setq org-agenda-include-diary t)
@@ -68,8 +80,22 @@
 ;; When a TODO is set to a done state, record a timestamp
 (setq org-log-done 'time)
 
+;; Startup unfolded
+(setq org-startup-folded nil)
+
+;; Jump to open clock
+(keymap-global-set "C-c j" 'org-clock-goto)
+
+;; Default inbox
+(setq org-default-notes-file "~/my_org/inbox.org")
+
 ;; Follow the links
 (setq org-return-follows-link  t)
+
+;; Inline images
+(setq org-display-inline-images t)
+(setq org-redisplay-inline-images t)
+(setq org-startup-with-inline-images "inlineimages")
 
 ;; Associate all org files with org mode
 (add-to-list 'auto-mode-alist '("\\.org\\'" . org-mode))
@@ -94,6 +120,51 @@
 
 ;; Wrap the lines in org mode so that things are easier to read
 (add-hook 'org-mode-hook 'visual-line-mode)
+
+;; Setup org capture templates
+(setq org-capture-templates
+      '(;; other entries
+        ("c" "Item to Current Clocked Task" item
+         (clock)
+         "%i%?" :empty-lines 1))
+        ("t" "Todo" entry (file "~/my_org/todo.org")
+         "* TODO %^{Task}\n:PROPERTIES:\n:CREATED: %U\n:END:\n%a\n"
+          :prepend t)
+        ("n" "Note" entry
+         (file "~/my_org/inbox.org")
+         "* %^{Note}\n:PROPERTIES:\n:CREATED: %U\n:END:\n"
+         :prepend t)
+        ("j" "Journal entry" plain
+         (file+datetree+prompt "~/my_org/journal.org")
+         "%K - %a\n%i\n%?\n")
+        ;; other entries
+        ))
+
+;; Setup org todo keywords
+(setq org-todo-keywords
+      '((sequence
+         "STARTED(s)"
+         "TODO(t)"  ; next action
+         "TOBLOG(b)"
+         "WAITING(w@/!)"
+         "READY(r)"
+         "SOMEDAY(.)" "BLOCKED(k@/!)" "|" "DONE(x!)" "CANCELLED(c)")
+        (sequence "PROJECT" "|" "DONE(x)")
+        (sequence "LEARN" "TRY" "TEACH" "|" "COMPLETE(x)")
+        (sequence "TOSKETCH" "SKETCHED" "|" "POSTED")
+        (sequence "TOBUY" "TOSHRINK" "TOCUT"  "TOSEW" "|" "DONE(x)")
+        (sequence "TODELEGATE(-)" "DELEGATED(d)" "|" "COMPLETE(x)")))
+
+;; Setup org babel
+(org-babel-do-load-languages 'org-babel-load-languages
+   '((python . t)
+     (octave . t)
+     (C . t)
+     (shell . t)))
+(setq org-src-fontify-natively t)
+(setq org-confirm-babel-evaluate nil)
+(add-hook 'org-babel-after-execute-hook 'org-display-inline-images 'append)
+(setq org-edit-src-content-indentation 0)
 
 ;;(use-package org-ics-import
 ;;	:load-path "~/.emacs.d/local-lisp/org-ics-import/")
@@ -189,10 +260,26 @@
 (use-package eglot)
 
 ;; eglot for ruby on the dev machine
-(when (string= (system-name) "bernardj.ccdbdev-ng.driirn.ca")
+(when (string= (system-name) ccdbdev-p)
   (with-eval-after-load 'eglot
     (add-to-list 'eglot-server-programs
 		 '(ruby-mode . ("/home/bernardj/ccdb/ccdb_portal/vendor/bundle/ruby/3.2.0/bin/solargraph" "stdio")))))
+
+
+;; Ruby setup
+(use-package rinari)
+(use-package bundler)
+(use-package robe
+   :hook
+   ((ruby-mode-hook . robe-mode)
+    (robe-mode-hook . ac-robe-setup)
+    (ruby-mode-hook . auto-complete-mode)))
+(use-package rspec-mode
+   :config
+   (progn
+      (setq rspec-command-options "--fail-fast --format documentation")
+      (keymap-set rspec-mode-map "C-c , ," 'rspec-rerun)))
+
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.

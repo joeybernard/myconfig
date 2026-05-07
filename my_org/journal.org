@@ -1,0 +1,13 @@
+
+* 2026
+** 2026-05 May
+*** 2026-05-06 Wednesday
+ - 
+
+This is just a test of the journal template
+ - 
+
+And a second entry?
+ - [[file:~/scripts/ical2org.sh::Should refactor this script]]
+# Should refactor this script
+* TODO this is a task for later
