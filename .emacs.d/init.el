@@ -64,7 +64,7 @@
   (define-key company-mode-map (kbd "<tab>") 'company-indent-or-complete-common))
 (use-package company)
 (use-package company-posframe 
-   :init (company-posframe-mode 1))
+  :init (company-posframe-mode 1))
 
 
 
@@ -157,10 +157,10 @@
 
 ;; Setup org babel
 (org-babel-do-load-languages 'org-babel-load-languages
-   '((python . t)
-     (octave . t)
-     (C . t)
-     (shell . t)))
+			     '((python . t)
+			       (octave . t)
+			       (C . t)
+			       (shell . t)))
 (setq org-src-fontify-natively t)
 (setq org-confirm-babel-evaluate nil)
 (add-hook 'org-babel-after-execute-hook 'org-display-inline-images 'append)
@@ -182,17 +182,17 @@
 ;;   '("~/my_org/drac_gcal.org" "~/my_org/unb.org" "~/my_org/drac_outlook.org"
 ;;     "~/my_org/gcal.org"))
 
-(use-package org-roam
-  :ensure t
-  :init
-  (setq org-roam-v2-ack t)
-  :custom
-  (org-roam-directory "~/RoamNotes")
-  :bind (("C-c n l" . org-roam-buffer-toggle)
-         ("C-c n f" . org-roam-node-find)
-         ("C-c n i" . org-roam-node-insert))
-  :config
-  (org-roam-setup))
+;;(use-package org-roam
+;;  :ensure t
+;;  :init
+;;  (setq org-roam-v2-ack t)
+;;  :custom
+;;  (org-roam-directory "~/RoamNotes")
+;;  :bind (("C-c n l" . org-roam-buffer-toggle)
+;;         ("C-c n f" . org-roam-node-find)
+;;         ("C-c n i" . org-roam-node-insert))
+;;  :config
+;;  (org-roam-setup))
 
 
 
@@ -211,16 +211,20 @@
 
 
 ;; Basic Python setup
-(use-package python-mode)
+(use-package python-mode
+  :defer)
 
 
 
 ;; magit setup
-(use-package magit)
+(use-package magit
+  :defer)
 
 
 ;; flyspell setup
-(use-package flyspell)
+(use-package flyspell
+  :defer)
+
 (defun flyspell-on-for-buffer-type ()
   "Enable Flyspell appropriately for the major mode of the current buffer.  Uses `flyspell-prog-mode' for modes derived from `prog-mode', so only strings and comments get checked.  All other buffers get `flyspell-mode' to check all text.  If flyspell is already enabled, does nothing."
   (interactive)
@@ -252,12 +256,14 @@
 
 ;; flycheck setup
 (use-package flycheck
+  :defer
   :config
   (add-hook 'after-init-hook #'global-flycheck-mode))
 
 
 ;; eglot setup
-(use-package eglot)
+(use-package eglot
+  :defer)
 
 ;; eglot for ruby on the dev machine
 (when (string= (system-name) ccdbdev-p)
@@ -267,19 +273,30 @@
 
 
 ;; Ruby setup
-(use-package rinari)
-(use-package bundler)
+(use-package rinari
+  :defer)
 (use-package robe
-   :hook
-   ((ruby-mode-hook . robe-mode)
-    (robe-mode-hook . ac-robe-setup)
-    (ruby-mode-hook . auto-complete-mode)))
+  :defer
+  :hook
+  ((ruby-mode-hook . robe-mode)
+   (robe-mode-hook . ac-robe-setup)
+   (ruby-mode-hook . auto-complete-mode)))
 (use-package rspec-mode
-   :config
-   (progn
-      (setq rspec-command-options "--fail-fast --format documentation")
-      (keymap-set rspec-mode-map "C-c , ," 'rspec-rerun)))
+  :defer
+  :config
+  (progn
+    (setq rspec-command-options "--fail-fast --format documentation")
+    (keymap-set rspec-mode-map "C-c , ," 'rspec-rerun)))
 
+
+;; Try out grove for notes
+(use-package grove
+  :ensure t
+  :bind-keymap ("C-c v" . grove-command-map)
+  :custom
+  (grove-directory "~/notes/")
+  :config
+  (global-grove-mode 1))
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.

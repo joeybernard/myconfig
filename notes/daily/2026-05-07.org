@@ -1,0 +1,5 @@
+#+title: Thursday, May  7, 2026
+#+date: 2026-05-07
+
+
+** This is a test of a more Obsidian like note app. But much simpler.
