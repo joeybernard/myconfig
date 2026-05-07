@@ -6,7 +6,7 @@
 
 
 ;; Am I on the dev box?
-(defvar ccdbdev (or (equal (system-name) "ccdbdev-ng") (equal (system-name) "ccdbdev-ng.driirn.ca")
+(defvar ccdbdev-p (or (equal (system-name) "ccdbdev-ng") (equal (system-name) "ccdbdev-ng.driirn.ca")))
 
 ;; Setup package management for Emacs
 (require 'package)
@@ -126,7 +126,7 @@
       '(;; other entries
         ("c" "Item to Current Clocked Task" item
          (clock)
-         "%i%?" :empty-lines 1))
+         "%i%?" :empty-lines 1)
         ("t" "Todo" entry (file "~/my_org/todo.org")
          "* TODO %^{Task}\n:PROPERTIES:\n:CREATED: %U\n:END:\n%a\n"
           :prepend t)

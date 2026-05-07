@@ -10,4 +10,7 @@ This is just a test of the journal template
 And a second entry?
  - [[file:~/scripts/ical2org.sh::Should refactor this script]]
 # Should refactor this script
+ - 
+
+Finished the initial setup of Emacs configuration.
 * TODO this is a task for later
