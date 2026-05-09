@@ -76,7 +76,6 @@
 
 
 ;; eglot for ruby on the dev machine
-(when (string= (system-name) "bernardj.ccdbdev-ng.driirn.ca")
-  (with-eval-after-load 'eglot
-    (add-to-list 'eglot-server-programs
-                 '(ruby-mode . ("solrgraph" "--stdio")))))
+(with-eval-after-load 'eglot
+   (add-to-list 'eglot-server-programs
+      '(ruby-mode . ("/usr/local/rvm/rubies/ruby-3.2.10/bin/bundle exec solargraph" "stdio"))))
