@@ -199,6 +199,4 @@ Zotero_linux-x86_64
 .stellarium
 Emacs-30.2-nox-x86_64.AppImage
 .cpan
-.emacs.d/*
-!.emacs.d/init.el
-!.emacs.d/local-lisp
+.emacs.d
