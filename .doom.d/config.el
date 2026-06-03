@@ -76,6 +76,10 @@
 
 
 ;; eglot for ruby on the dev machine
+;;(with-eval-after-load 'eglot
+;;   (add-to-list 'eglot-server-programs
+;;      '(ruby-mode . ("/home/bernardj/ccdb/ccdb_portal/vendor/bundle/ruby/3.2.0/gems/solargraph-0.50.0/bin/solargraph" "stdio"))))
+
 (with-eval-after-load 'eglot
-   (add-to-list 'eglot-server-programs
-      '(ruby-mode . ("/usr/local/rvm/rubies/ruby-3.2.10/bin/bundle exec solargraph" "stdio"))))
+  (add-to-list 'eglot-server-programs
+               '((ruby-mode ruby-ts-mode) "bundle" "exec" "solargraph" "stdio")))
