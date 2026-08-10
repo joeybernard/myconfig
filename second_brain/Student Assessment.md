@@ -1,0 +1,14 @@
+---
+tags:
+  - DUT
+  - DUT
+created: 2024-02-19T18:18
+updated: 2025-04-09T21:13
+---
+My basic philosophy for student feedback is one that has been echoed time and again in the readings - test early and often. This is actually a philosophy I learned in software development. Test your code early and often. This way, you can catch issues in your problem solving early, as early changes are much cheaper to make than later changes. Not that students are problems, or pieces of code, but the analogous thinking can lead to very positive results. Learning early that the techniques you are using don't seem to be working with a particular cohort allows you to make changes early enough to have a profound effect on the outcome of the students.
+
+There are a couple of methods that I will including in the next class that I teach. The first is "the muddiest point". I will be having all of my students hand in a muddiest point at the end of the class. This may still be an uncomfortable thing for a student to do, especially at the beginning of a term when they don't know me yet. I think that a solution to this is to have slips of paper available at the beginning of class and hand them out to each student. Then, I would explain to the student that I want them to each write down at least one point that they are confused about during the class. At the end of the class, I will have a small box available for them to put these slips in anonymously. It will take some time for the students to grow comfortable with the idea, but I really do believe that this can go some way towards guiding the focus of our time within the class.
+
+The other mechanism of feedback is to provide for resubmission of any formative assessments. The whole point of formative assessments to learn what parts of the material didn't really gel for the students. While I will be giving detailed feedback on these formative assessments, I can't be sure that this feedback is clear enough for the students. And, in many science classes, there is usually so much information being taught that some topics may only be hit once during these formative assessments. So, I think offering the ability to resubmit again, for maybe up to 50% of the lost marks, would allow for some feedback to me as to whether the feedback I gave is working. Otherwise, I may have ended up in a situation where I don't know whether a student has really learned all of the material. This is really the goal, not just a grade. And, with so much material to cover, most summative assessments only look at a small sample of all of the material for a course.
+
+I am very keen to see if these two techniques will allow for a better assessment of the effectiveness of my teaching, as well as a better assessment of how the students are learning and incorporating the material within their worldview.

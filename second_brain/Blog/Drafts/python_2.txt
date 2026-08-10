@@ -1,0 +1,75 @@
+@Title (probably something like 'The Python column'
+Raspberry Pis are not unlimited
+
+
+@standfirst (what you're coving in this column - a nice hook to reel people in - 10-20 words)
+Memory is a limited resource on the Raspberry Pi. What can you do to make the most use of it?
+
+
+@body copy 1000 words
+Last month, we started with a quick look at Python objects, including an introduction to creating your own. One thing that we only saw in passing was just how ubiquitous objects are in Python. Pretty much everything in Python is an object. If you have gigabytes of memory, how these objects get stored is not a major issue. On a raspberry Pi, however, you are limited. This month, we will look at how Python stores and references objects. We will also look at some code that you can use to interrogate your own code to see what is happening with RAM usage.
+
+The first thing to realize is that everything in Python is an object, of one type or another. You can find out the type of an object with the command "type()". If you were to create a list of integers with the command "a=[1,2,3]", running the command "type(a)" would return list. But it goes even further than that. What happens if you run the command "type(1)"? Does the integer 1 have a type? In this case, you will get the result integer. This makes sense. But it goes even further. The integer 1 is actually an object. Integer objects have a function named "bit_length()", which gives the number of digits needed to represent this integer in binary. If you have "num1=1", you can find the bit length with "num1.bit_length()". But the interesting thing is that, since the integer 1 is an object, you can also execute "(1).bit_length()". This is very different behaviour from most other programming languages.
+
+Since everything is an object, what are variables? Variables are simply labels, pointing to the objects that they represent. This means that you can have more than one variable pointing to a particular variable. If we take the list we defined above, we can create a new label pointing to it with the line "b=a". Now both variables, a and b, point to the same object. You can prove this to yourself by adding something to the end of b. If you run "b.append(4)", typing in "a" will give you the list "[1, 2, 3, 4]". This good to know. You can create new references to objects without accidentally creating extra copies and using up memory unnecessarily. But this also means that if you actually wanted to make a copy, you need to do it explicitly. For lists, you can do this with slices. Slices are used to get a subset of the contents of a list and return them in a new list. The format is "[start:end]", where "start" is the beginning index of the slice and "end" is the finishing index of the slice. If you leave out "start", then the implied index is 0, and if you leave out "end", the implied index is the length of your initial list. Knowing this, you can get a copy of a with "b = a[:]". Now if you alter b, you will not be affecting a. But, if it is so easy to generate references to objects, how can you keep track of how many there are? One of the modules that is included with python is sys. Once you import it, you have a set of functions that allow you to interact with and query the system that the python engine is running on. The specific one that will help us here is getrefcount(). If we run "sys.getrefcount(a)", we should see a result of 2. One for the variable a, and one for python's reference to the object that a points to. If you were to add another reference with the command "c=a", rerunning getrefcount() would give a result of 3. It is interesting to run "sys.getrefcount(1)". You will likely see several hundred, or even several thousand, references to the object "1". Even more evidence that even raw integers are actually objects.
+
+The other thing that is concerning to Raspberry Pi users is how much memory is being used by all of these objects. Since we already have the sys module imported, we can use that to check this out. Another function available is "sys.getsizeof()". This function will return the number of bytes being used by the object in question. On my system, the size of an integer is 8 bytes. You can check this with "sys.getsizeof(1)". With most basic object types, getsizeof will give you the total amount of memory used. So, for example, if you have an empty list with "a=[]", "sys.getsizeof(a)" gives an answer of 72. Adding an entry with "b=[1]" gives a size of 80. A list with two elements takes up 88 bytes. So, the basic size of a list with all of the required meta-data is 72 bytes, and each additional integer adds 8 bytes to the size. Unfortunately, getsizeof doesn't work as well if the object in question is compound. If you have a list of strings rather than integers, this becomes evident very quickly. Executing "sys.getsizeof('a')" gives 38 bytes. But, if we stick this string in a list first and then run getsizeof, it seems to only take 8 bytes. Obviously, what getsizeof is measuring is actually the size of the variable pointing to the string. To get the complete size of the list, you will need to loop through all of the elements and get the size of each individually.
+
+The other measure of RAM is how much is being used by the python interpreter as a whole. You can get this by importing the resource module. In the sample code, you will find a function that uses this module to get the total amount of RAM being used. Unfortunately, this method gives you the maximum amount used up to this point, so you can't see what happens if you try and cleanup your memory usage. In order to do this, you will need to use a different module, such as guppy.
+
+
+@boxout - a good 200 words on a topic related or expanded upon from the body copy. This could include code. 
+When dealing with memory and object oriented programming languages, one thing that comes up is the concept of garbage collection. Whenever you have the ability to reference an object with more than one label, you need to keep track of those references. The system can't free the memory until all references have been removed. In python, you have control over how garbage collection is done. To get this control, you will need to import the gc module. You can turn garbage collection on and off with the functions "gc.enable()" and "gc.disable()". If you want to see how many objects are being tracked by the garbage collector, you can use the function "gc.get_count()". Normally, garbage collection is handled automatically by an algorithm that is meant to maximize memory usage with minimal impact on run-time. But, if you want to force a garbage collection, you can do so with the function "gc.collect()". The number of objects cleaned up is returned. You can set the threshold levels used by the garbage collector with the function "gc.set_threshold()". You can always check what objects are about to be cleaned up with the variable "gc.garbage". With the gc module, you get a lot more control over your system than in most languages.
+
+
+@code - if you can do some example code all the better. We can style it up properly. Max of 50-70 lines, though. 
+# First, you will need to import the module sys
+import sys
+
+# What is the size of an integer?
+sys.getsizeof(1)
+
+# A string?
+sys.getsizeof('a')
+
+# How about lists?
+a = []
+sys.getsizeof(a)
+a.append(1)
+sys.getsizeof(a)
+a.append('abc')
+sys.getsizeof(a)
+
+# Can we count references?
+b = []
+sys.getrefcount(b)
+c = b
+sys.getrefcount(b)
+# Do you get the same from the other variable?
+sys.getrefcount(c)
+
+# How much RAM are you using
+import resource
+def memory_usage():
+   rusage_denom = 1024.
+   mem = resource.getrusage(resource.RUSAGE_SELF).ru_maxrss / rusage_denom
+   return mem
+
+memory_usage()
+list1 = range(10000)
+memory_usage()
+list2 = range(1000000)
+memory_usage()
+# Do we use up more RAM if we just make another reference?
+list3 = list2
+memory_usage()
+
+# Don't forget to cleanup when you are done
+a = b = c = []
+list1 = list2 = list3 = []
+
+import gc
+# How much garbage?
+gc.garbage
+# Go ahead and cleanup
+gc.collect()

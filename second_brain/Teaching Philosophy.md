@@ -1,0 +1,16 @@
+---
+tags:
+  - DUT
+  - DUT
+created: 2024-02-19T15:14
+updated: 2025-04-09T21:13
+---
+Teaching is one of the most important parts of the university experience. It is the primary way that knowledge is passed on from one generation to the next. As a teacher, I see it as my duty to be as effective as possible in that transmission. Since we are still learning how people learn best, I see this is an area where I must constantly be learning the latest improvements and applying those improvements to my own skills as a teacher.
+
+Currently, my experience and interest in the subject that I am teaching is known as a very important aspect of instruction. I believe that students respond positively to being shown this interest. If I allow myself to be vulnerable and show my own interest and excitement, I believe that this encourages their own curiosity and interest.
+
+I use extensive formative assessments to help students gauge how they are learning during the learning process. These also help me to gauge how well I am teaching the information. This provides one level of self-assessment, allowing me to adapt my techniques to better reach the students. The summative assessments are always intended to reflect real-world uses of the knowledge, rather than one intense session of assessment that rather tests the students' abilities to recall the information and its application under stressful situations. This is why I tend to favor either term projects or take home final exams. These tend to better reflect how the material being taught will actually be used.
+
+All of this is predicated on being able to forge a strong bond with the students in the class. By providing a safe and inclusive environment, I strive to make it as easy as possible for students to be upfront with me. I work at trying to make students comfortable with coming to ask me questions. Without that ability, students will not feel comfortable with letting me know when I am not successful in my teaching. The entire premise is that I am meant to be an effective teacher. This is only possible if and when the students are able to provide feedback towards my effectiveness. This is the only way that I am able to tailor my offering to best match the needs of the students. While I don't believe there is a perfect technique, I do believe that I can always improve, even if only marginally. Any improvement is worth pursuing, and that is also something that I believe needs to be shared with the students.
+
+Most of my teaching has been in the sciences. As these inform how we study and learn about the world, I think that grounding lessons within the physicality of the real world is extremely important. A famous quote from Richard Feynman is paraphrased as "when there is a disagreement between theory and experiment, the theory is wrong". Students need to be introduced to the idea that testing theories and hypotheses is the crux of science. To constantly push against the edges to see what parts of our understanding don't hold up to scrutiny. Such an important lesson needs to be encouraged in a safe space where questioning is the norm.

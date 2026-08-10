@@ -1,0 +1,75 @@
+@Title
+
+Talking to the outside world
+
+
+
+@standfirst
+
+In this issue, we'll look at how to use Python to get your Raspberry Pi to talk to the outside world by using the GPIO pins on the board.
+
+
+
+@body (991 words)
+
+Over the last few issues, we've looked at some fundamental concepts in Python around objects, object-oriented programming, and how objects are stored in memory. This issue, let's take a loook at the Raspberry Pi, and one of the unique features not usually offered on single-board computers. Of course, I'm speaking of the GPIO pins. GPIO stands for General Purpose Input/Output. They provide an interface between the Raspberry Pi and the outside world. These pins can act as either inputs into the computer, or outputs to the outside world. With the addition of these pins, the possibilities for the Raspberry Pi explode. It goes from simply a single-board computer to a project platform. Now, you can imagine using it for robotics, or as the smarts within some scientific instrument. Many people are using the Raspberry Pi as the core for home automation projects. It really is only limited by your imagination. We will focus on how to talk to the GPIO pins, rather than how to wire up the electronics. While the Linux kernel has modules to support communicating with the GPIO pins, this isn't enough. You will also need support within whichever programming language you are using. Since this column is about Python programming, we will focus only on those Python modules available for your use. Luckily, if you are using a standard distribution, like Raspbian, then you will have this available to you out of the box. If you are using some other distribution, or if you are really adventurous and have rolled one yourself, you will need to go out and grab a relevant Python module from the web. In this article, we will be looking at the RPi.GPIO module. But this is not your only option.
+
+Before we move on to the actual code, we should take a little time to look at the elctronics first. While there is not enough time to do a crash course, there are a few items that everyone should know about how the GPIO pins are implemented on the Raspberry Pi. The first thing to note is that there are two versions of the Raspberry Pi, and the layout of the pins is different on both. You should verify which version you have before actually attaching any wires. There are 26 pins, laid out as two rows of 13. You have a series of ground pins, +5 volts and +3.3 volts power pins, along with all of the actual data pins. There are 8 GPIO pins that are available, but they are unprotected. They are designed to use +3.3 volt voltage levels, and anything higher (like +5 volts voltage levels) may damage your Raspberry Pi. The current can be configured up to 16mA. The intention is that you would not connect directly to the GPIO pins, but attach an interface board that would handle buffering of inputs and voltage control in order to protect your Raspberry Pi. These pins can be used in multiple different function modes, including I2C, SPI and PWM.
+
+Once you have your circuit all wired up, it is time to start actually talking to it. When you are just starting out, you may want to simply start up the Python interpreter and enter your code directly. That way, you can experiment and try things out. Once you get a feeling for how things work, you will be more comfortable writing Python scripts to do more complicated tasks. The first step is to import the 'RPi.GPIO' module. You probably won't want to write this out over and over again, so you will probably want to import it with a line like 'import RPi.GPIO as GPIO'. Once imported, you can find out what version of board and RPi you have. The board revision is given by 'GPIO.RPI_REVISION', and the version of the RPi module is given by 'GPIO.VERSION'. The next step is to set the numbering system you wish to use to address the pins. You can choose either BOARD (which uses the same numbering scheme as the physical pin numbers) or BCM (which uses the channel numbers on the Broadcom SOC). In most cases, you will want to use the BOARD numbering system, which you can set witht he line 'GPIO.setmode(GPIO.BOARD)'. The next step is to initialize each pin you wish to use. You need to tell Python how you want to use each pin, whether it is supposed to be an input pin or an output pin. For this article, you will want to set some pins as outputs. Say you want to use pin 8. You can do this with the line 'GPIO.setup(8, GPIO.OUT)'. You can even set an initial value for output. If you wanted to start by having the light turned on, you would use 'GPIO.setup(8, GPIO.OUT, initial=GPIO.HIGH)'. You can now start sending data to the pin. You can set the voltage either high or low with the commands 'GPIO.output(8, GPIO.HIGH)' or 'GPIO.output(8, GPIO.LOW)'. When you start writing more complicated code, you may need to check what state a particular pin is in. You can do this with the command 'GPIO.gpio_function(pin)'. It will return one of the values from GPIO.INPUT, GPIO.OUTPUT, GPIO.SPI, GPIO.I2C, GPIO.PWM, GPIO.SERIAL, and GPIO.UNKNOWN. Once you are all done, you need to cleanup after yourself. You can do this with the command 'GPIO.cleanup()'. If you only want to cleanup particular channels, you can do so with 'GPIO.cleanup(8)'.
+
+Now that you know how to talk to the outside world, next issue we will look at how to read from the outside world. Combining this with some matplotlib code will give you the tools to build some basic instrumentation. Until then, play around with more complicated programs to take control of the world around you. Just always be careful when playing with power around your board. You don't want to accidentally cook it and release the magic blue smoke (the electronics nerds among you will get that reference). And always remember to have fun.
+
+
+
+@boxout - (193 words)
+
+Digital output is only on or off, high or low. So, how can you output anything different? One option is PWM, or Pulse Width Modulation. This system essentially sends out a series of highs and lows at some set frequency. This is useful in robotics, where you can use PWM signals to run servo motors. Your Raspberry Pi can also output PWM. To use it, you need to create a PWM object instance with the command 'p = GPIO.PWM(pin, freq)', where 'pin' is the output pin you wish to use and 'freq' is the frequency of the output pulses. You also need to use the setup command to set the output mode of the pin in question. To start the output, you need to use 'p.start(dc)' where 'dc' is the duty cycle (between 0.0 and 100.0). Once you are done, you can stop the output with 'p.stop()' and then cleanup with 'GPIO.cleanup()'. You could use this functionality to blink your LED at some set frequency. You can change the output frequency with 'p.ChangeFrequency(freq)', and the duty cycle with 'p.ChangeDutyCycle(dc)'. In this way, you can create some rather complex output patterns for your circuits.
+
+
+
+@code
+
+# We will be sending signals out from our Raspberry Pi
+
+# We will need the time module
+import time
+
+# First, import the GPIO module
+import RPi.GPIO as GPIO
+
+# Set the numbering mode for the pins
+GPIO.setmode(GPIO.BOARD)
+
+# Set pin 12 in output mode
+GPIO.setup(12, GPIO.OUT)
+
+# Now, turn the LED on, sleep for 1 second, then turn it off
+GPIO.output(12, GPIO.HIGH)
+time.sleep(1)
+GPIO.output(12, GPIO.LOW)
+
+# Now that we are done, we can cleanup
+GPIO.cleanup()
+
+###############################################
+# We can use PWM to blink our LED
+
+# Set the mode
+GPIO.setmode(GPIO.BOARD)
+
+# Set the pin
+GPIO.setup(12, GPIO.OUT)
+
+# Create a PWM instance
+p = GPIO.PWM(12, 20)  # channel=12, frequency=20Hz
+
+# Start the PWM signal
+p.start(1)
+
+# We will let this go until someone presses return
+raw_input('Press return to stop:')
+
+# Now we can stop the PWM object and cleanup
+p.stop()
+GPIO.cleanup()
