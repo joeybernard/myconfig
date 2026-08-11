@@ -1,4 +1,0 @@
-- load data from Excel files
-- create a new Python Project
-- web scraping
-- search PDFs for keywords
