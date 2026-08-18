@@ -83,3 +83,9 @@
 (with-eval-after-load 'eglot
   (add-to-list 'eglot-server-programs
                '((ruby-mode ruby-ts-mode) "bundle" "exec" "solargraph" "stdio")))
+
+
+(add-to-list 'auto-mode-alist '("\\.html\\.erb\\'" . web-mode))
+(add-to-list 'auto-mode-alist '("\\.erb\\'" . web-mode))
+
+

@@ -56,4 +56,5 @@
 
 ;; eglot setup
 (package! eglot)
+(package! lab)
 
