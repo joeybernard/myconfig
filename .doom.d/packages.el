@@ -57,3 +57,4 @@
 ;; eglot setup
 (package! eglot)
 (package! obsidian)
+(package! lab)
