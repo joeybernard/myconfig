@@ -56,4 +56,4 @@
 
 ;; eglot setup
 (package! eglot)
-
+(package! obsidian)
