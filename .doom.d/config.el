@@ -89,3 +89,7 @@
 (add-to-list 'auto-mode-alist '("\\.erb\\'" . web-mode))
 
 
+(setq-default indent-tabs-mode nil)
+(setq-default tab-width 2)
+(setq standard-indent 2)
+
