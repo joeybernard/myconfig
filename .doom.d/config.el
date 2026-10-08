@@ -104,3 +104,15 @@
 (setq tooltip-delay 1.0)
 (setq tooltip-short-delay 0.08)
 (setq icomplete-compute-delay 0.01)
+
+;; Calendar Stuff
+(use-package! org-ics-import
+  :after org
+  :custom
+  (org-ics-import-update-interval 3600) ; Update every hour in seconds
+  (org-ics-import-calendars-alist '(
+    ("https://calendar.google.com/calendar/ical/druid.bernard%40gmail.com/private-6fe0c18dc92c51f1c6646fc3f7c94203/basic.ics" . "~/my_org/gcal.org")
+  ))
+  (org-ics-import-exclude-strings '("Cancelled"))
+  (org-ics-import-exclude-passed-events t))
+

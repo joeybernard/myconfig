@@ -57,3 +57,5 @@
 ;; eglot setup
 (package! eglot)
 (package! lab)
+(package! org-ics-import :recipe (:host nil :repo "https://git.sr.ht/~struanr/org-ics-import.el"))
+

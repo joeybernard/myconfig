@@ -13,4 +13,10 @@ And a second entry?
  - 
 
 Finished the initial setup of Emacs configuration.
+** 2026-10 October
+*** 2026-10-08 Thursday
+**** [2026-10-08 Thu 10:37]
+***** TODO Run the following prompt to get appropriate columns in the RAC CSV queries
+change no files. there is logic in the resource request section of the rrg application form that decides what is available for each resource. show how to use the same
+type of logic in the script 'data_requests/rac/rac_queries.rb' so that the csv output only contains resources that are available to be selected in the rrg application form
 * TODO this is a task for later
