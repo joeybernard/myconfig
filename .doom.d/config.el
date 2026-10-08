@@ -93,3 +93,14 @@
 (setq-default tab-width 2)
 (setq standard-indent 2)
 
+;; Settings to speed up Emacs
+(setq show-paren-delay 0.05)
+(setq font-lock-maximum-decoration '((t . 2)))
+(setq treesit-font-lock-level 2)
+(setq inhibit-compacting-font-caches t)
+(setq redisplay-skip-fontification-on-input t)
+(setq fast-but-imprecise-scrolling t)
+(setq which-key-idle-delay 0.5)
+(setq tooltip-delay 1.0)
+(setq tooltip-short-delay 0.08)
+(setq icomplete-compute-delay 0.01)
