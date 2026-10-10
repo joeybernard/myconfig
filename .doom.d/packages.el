@@ -58,4 +58,8 @@
 (package! eglot)
 (package! lab)
 (package! org-ics-import :recipe (:host nil :repo "https://git.sr.ht/~struanr/org-ics-import.el"))
+(package! org-roam)
 
+;; themes
+(package! vegetative-theme)
+(package! color-theme-modern)

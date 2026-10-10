@@ -1,93 +1,9 @@
-*  Physics Seminar - Dr. Jim Shaffer\, Quantum Valley Ideas Lab
-<2026-12-03 Thu 13:00>--<2026-12-03 Thu 14:00>
-:PROPERTIES:
-:CUSTOM_ID: 2tpaiflnqec5s66amsutg7eqoj@google.com
-:ICAL_DTEND: 20261203T140000
-:ICAL_DTSTAMP: 20261008T145059Z
-:ICAL_RECURRENCE-ID: 20261203T130000
-:ICAL_CREATED: 20260915T221827Z
-:ICAL_LAST-MODIFIED: 20261006T135603Z
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: OPAQUE
-:END:
-
-*  Physics Seminar - Edward Wilson-Ewing\, UNB Math & Stats
-<2027-01-21 Thu 13:00>--<2027-01-21 Thu 14:00>
-:PROPERTIES:
-:CUSTOM_ID: 1hdilp1nvomor937i1547m3m40@google.com
-:ICAL_DTEND: 20270121T180000Z
-:ICAL_DTSTAMP: 20261008T145059Z
-:ICAL_CREATED: 20261006T135730Z
-:ICAL_LAST-MODIFIED: 20261006T135731Z
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: OPAQUE
-:END:
-
-*  Dentist Appt
-<2027-02-11 Thu 11:00>--<2027-02-11 Thu 12:00>
-:PROPERTIES:
-:CUSTOM_ID: 02f90r90nccap732956q65imh5@google.com
-:ICAL_DTEND: 20270211T160000Z
-:ICAL_DTSTAMP: 20261008T145059Z
-:ICAL_CREATED: 20260914T182947Z
-:ICAL_LAST-MODIFIED: 20260914T182947Z
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: OPAQUE
-:END:
-
-*  MVIs for cars
-<2028-04-01 Sat 00:00>--<2028-04-02 Sun 00:00>
-:PROPERTIES:
-:CUSTOM_ID: 7q19nqgqmk2tml287pgj614j1b@google.com
-:ICAL_DTEND: 20280402
-:ICAL_DTSTAMP: 20261008T145059Z
-:ICAL_CREATED: 20260501T181318Z
-:ICAL_LAST-MODIFIED: 20260501T181318Z
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: TRANSPARENT
-:END:
-
-*  Physics Seminar - Dr. Brent Petersen\, UNB ECE
-<2026-10-29 Thu 13:00>--<2026-10-29 Thu 14:00>
-:PROPERTIES:
-:CUSTOM_ID: 2tpaiflnqec5s66amsutg7eqoj@google.com
-:ICAL_DTEND: 20261029T140000
-:ICAL_DTSTAMP: 20261008T145059Z
-:ICAL_RECURRENCE-ID: 20261029T130000
-:ICAL_CREATED: 20260915T221827Z
-:ICAL_LAST-MODIFIED: 20261006T135603Z
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: OPAQUE
-:END:
-
-*  Trainers Monthly Meeting (primary)
-<2026-11-05 Thu 10:00>--<2026-11-05 Thu 11:00>
-:PROPERTIES:
-:CUSTOM_ID: 34deppgn93p81v1q7tghvl3jc7_R20261105T140000@google.com
-:ICAL_DTEND: 20261105T150000Z
-:ICAL_RRULE: FREQ=MONTHLY;BYDAY=1TH
-:ICAL_DTSTAMP: 20261008T145059Z
-:ICAL_ORGANIZER: mailto:oseuuoht0tvjbokgg3noh8c47g@group.calendar.google.com
-:ICAL_ATTENDEE: mailto:druid.bernard@gmail.com
-:ICAL_CREATED: 20201005T143223Z
-:ICAL_LAST-MODIFIED: 20260929T144308Z
-:ICAL_LOCATION: https://carpentries.zoom.us/my/carpentriesroom2?pwd=WmVCOUlPUm1laFk5SUp1UWg5cjhEUT09\, https://carpentries.zoom.us/my/carpentriesroom2
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: OPAQUE
-:END:
-Note: this is a meeting for the&nbsp\;<a href="https://carpentries.org/trainers/">Instructor Trainer</a>&nbsp\;community only. It is not open to Instructors or other community-members.&nbsp\;<br><br>Meeting 1<br>Zoom link: <a href="https://carpentries.zoom.us/my/carpentriesroom2?pwd=WmVCOUlPUm1laFk5SUp1UWg5cjhEUT09">https://carpentries.zoom.us/my/carpentriesroom2?pwd=WmVCOUlPUm1laFk5SUp1UWg5cjhEUT09</a>&nbsp\;<br>The password for this zoom call is&nbsp\;<b>202020</b><br>Etherpad:&nbsp\;<a href="https://pad.carpentries.org/trainers">https://pad.carpentries.org/trainers</a>
 *  AI Carpentry User Workshop Coworking
 <2026-10-13 Tue 12:00>--<2026-10-13 Tue 13:00>
 :PROPERTIES:
 :CUSTOM_ID: _68o34d9h64oj8l1h64qj2d9ob8mjgcpp6sp3ic1i6kqjgg3nclh2qs3idti2qtbj60r2qrr864mnepb2dtliqeb2cgs3edhoccq2qdj26ss3g_R20260623T150000@google.com
 :ICAL_DTEND: 20261013T180000
-:ICAL_DTSTAMP: 20261008T145059Z
+:ICAL_DTSTAMP: 20261009T151337Z
 :ICAL_ORGANIZER: mailto:tobyhodges@carpentries.org
 :ICAL_ATTENDEE: mailto:tobyhodges@carpentries.org
 :ICAL_ATTENDEE: mailto:vahtras@kth.se
@@ -117,7 +33,7 @@ Note: this is a meeting for the&nbsp\;<a href="https://carpentries.org/trainers/
 :ICAL_ATTENDEE: mailto:muellerr@zbmed.de
 :ICAL_RECURRENCE-ID: 20261013T170000
 :ICAL_CREATED: 20251114T115206Z
-:ICAL_LAST-MODIFIED: 20261005T090035Z
+:ICAL_LAST-MODIFIED: 20261008T191803Z
 :ICAL_LOCATION: https://carpentries.zoom.us/j/83972902558?pwd=Vb9yhzUud08g5BHABOROZb57ebS3aG.1
 :ICAL_SEQUENCE: 1
 :ICAL_STATUS: CONFIRMED
@@ -140,29 +56,40 @@ Join instructions
 https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
 
 
-*  OpenStax partner webinar: Learning verification in the AI era — practical strategies for assessing what students know
-<2026-10-14 Wed 16:00>--<2026-10-14 Wed 16:45>
+*  Travelers 2027 Release
+<2026-10-19 Mon 00:00>--<2026-10-20 Tue 00:00>
 :PROPERTIES:
-:CUSTOM_ID: 58ds3mtadkgt9q9i5ch1gosv6j@google.com
-:ICAL_DTEND: 20261014T194500Z
-:ICAL_DTSTAMP: 20261008T145059Z
-:ICAL_CREATED: 20261006T180512Z
-:ICAL_LAST-MODIFIED: 20261006T180512Z
-:ICAL_LOCATION: Event
+:CUSTOM_ID: 53ko2s2vaed2fm9phq8vs5blrh@google.com
+:ICAL_DTEND: 20261020
+:ICAL_DTSTAMP: 20261009T151337Z
+:ICAL_CREATED: 20260828T181728Z
+:ICAL_LAST-MODIFIED: 20260828T181728Z
 :ICAL_SEQUENCE: 0
 :ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: OPAQUE
+:ICAL_TRANSP: TRANSPARENT
 :END:
-Thank you for registering for OpenStax partner webinar: Learning verification in the AI era — practical strategies for assessing what students know. <br><br>LIVE EVENT DATE:  October 14\, 2026 <br>LIVE EVENT TIME:  02:00 PM CDT <br><br>  <br><br>Use the link below to enter the event up to 15 minutes before the start. <br><br>EVENT LINK:  https://event.on24.com/wcc/r/5462777/BC340CFA97CF915B0293D7D79606C871 <br>EMAIL:  bernardj@unb.ca <br><br>Thank you and enjoy the event!
-*  Physics Seminar - Dominic Couillard
-<2026-11-26 Thu 13:00>--<2026-11-26 Thu 14:00>
+
+*  Renew gym membership
+<2026-11-01 Sun 00:00>--<2026-11-02 Mon 00:00>
 :PROPERTIES:
-:CUSTOM_ID: 2tpaiflnqec5s66amsutg7eqoj@google.com
-:ICAL_DTEND: 20261126T140000
-:ICAL_DTSTAMP: 20261008T145059Z
-:ICAL_RECURRENCE-ID: 20261126T130000
-:ICAL_CREATED: 20260915T221827Z
-:ICAL_LAST-MODIFIED: 20261006T135603Z
+:CUSTOM_ID: 1ghgeqoto26lbjubrdrcgtg02s@google.com
+:ICAL_DTEND: 20261102
+:ICAL_DTSTAMP: 20261009T151337Z
+:ICAL_CREATED: 20260605T160716Z
+:ICAL_LAST-MODIFIED: 20260605T160716Z
+:ICAL_SEQUENCE: 0
+:ICAL_STATUS: CONFIRMED
+:ICAL_TRANSP: TRANSPARENT
+:END:
+
+*  Dentist Appt
+<2027-02-11 Thu 11:00>--<2027-02-11 Thu 12:00>
+:PROPERTIES:
+:CUSTOM_ID: 02f90r90nccap732956q65imh5@google.com
+:ICAL_DTEND: 20270211T160000Z
+:ICAL_DTSTAMP: 20261009T151337Z
+:ICAL_CREATED: 20260914T182947Z
+:ICAL_LAST-MODIFIED: 20260914T182947Z
 :ICAL_SEQUENCE: 0
 :ICAL_STATUS: CONFIRMED
 :ICAL_TRANSP: OPAQUE
@@ -173,94 +100,8 @@ Thank you for registering for OpenStax partner webinar: Learning verification in
 :PROPERTIES:
 :CUSTOM_ID: 2tpaiflnqec5s66amsutg7eqoj@google.com
 :ICAL_DTEND: 20261015T140000
-:ICAL_DTSTAMP: 20261008T145059Z
+:ICAL_DTSTAMP: 20261009T151337Z
 :ICAL_RECURRENCE-ID: 20261015T130000
-:ICAL_CREATED: 20260915T221827Z
-:ICAL_LAST-MODIFIED: 20261006T135603Z
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: OPAQUE
-:END:
-
-*  Physics Seminar - Sanjeev Seahra\, UNB Math & Stats
-<2027-02-18 Thu 13:00>--<2027-02-18 Thu 14:00>
-:PROPERTIES:
-:CUSTOM_ID: 6e9hvqnocjtvjdnc86l8888bcr@google.com
-:ICAL_DTEND: 20270218T180000Z
-:ICAL_DTSTAMP: 20261008T145059Z
-:ICAL_CREATED: 20261006T135803Z
-:ICAL_LAST-MODIFIED: 20261006T135803Z
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: OPAQUE
-:END:
-
-*  Flight to Ottawa (AC 7749)
-<2026-10-27 Tue 16:05>--<2026-10-27 Tue 17:54>
-:PROPERTIES:
-:CUSTOM_ID: 0l5pgakdlj5rep1jtdaac9lkuk@google.com
-:ICAL_DTEND: 20261027T205400Z
-:ICAL_DTSTAMP: 20261008T145059Z
-:ICAL_ATTENDEE: mailto:druid.bernard@gmail.com
-:ICAL_CLASS: PRIVATE
-:ICAL_CREATED: 20261002T032908Z
-:ICAL_LAST-MODIFIED: 20261002T032908Z
-:ICAL_LOCATION: Fredericton YFC
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: TRANSPARENT
-:END:
-To see detailed information for automatically created events like this one\, use the official Google Calendar app. https://g.co/calendar
-
-This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPW-u-ZtNV4NtX0Fxc2yyeCGqyuCpunfIs
-
-*  Physics Seminar - Vincent Belzile
-<2026-11-19 Thu 13:00>--<2026-11-19 Thu 14:00>
-:PROPERTIES:
-:CUSTOM_ID: 2tpaiflnqec5s66amsutg7eqoj@google.com
-:ICAL_DTEND: 20261119T140000
-:ICAL_DTSTAMP: 20261008T145059Z
-:ICAL_RECURRENCE-ID: 20261119T130000
-:ICAL_CREATED: 20260915T221827Z
-:ICAL_LAST-MODIFIED: 20261006T135603Z
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: OPAQUE
-:END:
-
-*  Renew gym membership
-<2026-11-01 Sun 00:00>--<2026-11-02 Mon 00:00>
-:PROPERTIES:
-:CUSTOM_ID: 1ghgeqoto26lbjubrdrcgtg02s@google.com
-:ICAL_DTEND: 20261102
-:ICAL_DTSTAMP: 20261008T145059Z
-:ICAL_CREATED: 20260605T160716Z
-:ICAL_LAST-MODIFIED: 20260605T160716Z
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: TRANSPARENT
-:END:
-
-*  Physics Seminar - Owen Doty
-<2027-01-07 Thu 13:00>--<2027-01-07 Thu 14:00>
-:PROPERTIES:
-:CUSTOM_ID: 63qh4um8bplcp5jh3070q9lrnl@google.com
-:ICAL_DTEND: 20270107T180000Z
-:ICAL_DTSTAMP: 20261008T145059Z
-:ICAL_CREATED: 20261006T135656Z
-:ICAL_LAST-MODIFIED: 20261006T135657Z
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: OPAQUE
-:END:
-
-*  Physics Seminar - Dr. Stijn de Baerdemacker\, UNB Chemistry
-<2026-10-08 Thu 13:00>--<2026-10-08 Thu 14:00>
-:PROPERTIES:
-:CUSTOM_ID: 2tpaiflnqec5s66amsutg7eqoj@google.com
-:ICAL_DTEND: 20261008T140000
-:ICAL_DTSTAMP: 20261008T145059Z
-:ICAL_RECURRENCE-ID: 20261008T130000
 :ICAL_CREATED: 20260915T221827Z
 :ICAL_LAST-MODIFIED: 20261006T135603Z
 :ICAL_SEQUENCE: 0
@@ -273,7 +114,7 @@ This event was created from an email you received in Gmail. https://mail.google.
 :PROPERTIES:
 :CUSTOM_ID: _68o34d9h64oj8l1h64qj2d9ob8mjgcpp6sp3ic1i6kqjgg3nclh2qs3idti2qtbj60r2qrr864mnepb2dtliqeb2cgs3edhoccq2qdj26ss3g_R20260623T150000@google.com
 :ICAL_DTEND: 20261027T180000
-:ICAL_DTSTAMP: 20261008T145059Z
+:ICAL_DTSTAMP: 20261009T151337Z
 :ICAL_ORGANIZER: mailto:tobyhodges@carpentries.org
 :ICAL_ATTENDEE: mailto:tobyhodges@carpentries.org
 :ICAL_ATTENDEE: mailto:vahtras@kth.se
@@ -326,12 +167,169 @@ Join instructions
 https://carpentries.zoom.us/meetings/83972902558/invitations?signature=6uRWhGzqhl1dZJeUhla9vOYZ4V7OnikOxcpXwAVFvA8
 
 
+*  Flight to Ottawa (AC 7749)
+<2026-10-27 Tue 16:05>--<2026-10-27 Tue 17:54>
+:PROPERTIES:
+:CUSTOM_ID: 0l5pgakdlj5rep1jtdaac9lkuk@google.com
+:ICAL_DTEND: 20261027T205400Z
+:ICAL_DTSTAMP: 20261009T151337Z
+:ICAL_ATTENDEE: mailto:druid.bernard@gmail.com
+:ICAL_CLASS: PRIVATE
+:ICAL_CREATED: 20261002T032908Z
+:ICAL_LAST-MODIFIED: 20261002T032908Z
+:ICAL_LOCATION: Fredericton YFC
+:ICAL_SEQUENCE: 0
+:ICAL_STATUS: CONFIRMED
+:ICAL_TRANSP: TRANSPARENT
+:END:
+To see detailed information for automatically created events like this one\, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPW-u-ZtNV4NtX0Fxc2yyeCGqyuCpunfIs
+
+*  Physics Seminar - Owen Doty
+<2027-01-07 Thu 13:00>--<2027-01-07 Thu 14:00>
+:PROPERTIES:
+:CUSTOM_ID: 63qh4um8bplcp5jh3070q9lrnl@google.com
+:ICAL_DTEND: 20270107T180000Z
+:ICAL_DTSTAMP: 20261009T151337Z
+:ICAL_CREATED: 20261006T135656Z
+:ICAL_LAST-MODIFIED: 20261006T135657Z
+:ICAL_SEQUENCE: 0
+:ICAL_STATUS: CONFIRMED
+:ICAL_TRANSP: OPAQUE
+:END:
+
+*  Physics Seminar - Edward Wilson-Ewing\, UNB Math & Stats
+<2027-01-21 Thu 13:00>--<2027-01-21 Thu 14:00>
+:PROPERTIES:
+:CUSTOM_ID: 1hdilp1nvomor937i1547m3m40@google.com
+:ICAL_DTEND: 20270121T180000Z
+:ICAL_DTSTAMP: 20261009T151337Z
+:ICAL_CREATED: 20261006T135730Z
+:ICAL_LAST-MODIFIED: 20261006T135731Z
+:ICAL_SEQUENCE: 0
+:ICAL_STATUS: CONFIRMED
+:ICAL_TRANSP: OPAQUE
+:END:
+
+*  Physics Seminar - Dr. Brent Petersen\, UNB ECE
+<2026-10-29 Thu 13:00>--<2026-10-29 Thu 14:00>
+:PROPERTIES:
+:CUSTOM_ID: 2tpaiflnqec5s66amsutg7eqoj@google.com
+:ICAL_DTEND: 20261029T140000
+:ICAL_DTSTAMP: 20261009T151337Z
+:ICAL_RECURRENCE-ID: 20261029T130000
+:ICAL_CREATED: 20260915T221827Z
+:ICAL_LAST-MODIFIED: 20261006T135603Z
+:ICAL_SEQUENCE: 0
+:ICAL_STATUS: CONFIRMED
+:ICAL_TRANSP: OPAQUE
+:END:
+
+*  Trainers Monthly Meeting (primary)
+<2026-11-05 Thu 10:00>--<2026-11-05 Thu 11:00>
+:PROPERTIES:
+:CUSTOM_ID: 34deppgn93p81v1q7tghvl3jc7_R20261105T140000@google.com
+:ICAL_DTEND: 20261105T150000Z
+:ICAL_RRULE: FREQ=MONTHLY;BYDAY=1TH
+:ICAL_DTSTAMP: 20261009T151337Z
+:ICAL_ORGANIZER: mailto:oseuuoht0tvjbokgg3noh8c47g@group.calendar.google.com
+:ICAL_ATTENDEE: mailto:druid.bernard@gmail.com
+:ICAL_CREATED: 20201005T143223Z
+:ICAL_LAST-MODIFIED: 20260929T144308Z
+:ICAL_LOCATION: https://carpentries.zoom.us/my/carpentriesroom2?pwd=WmVCOUlPUm1laFk5SUp1UWg5cjhEUT09\, https://carpentries.zoom.us/my/carpentriesroom2
+:ICAL_SEQUENCE: 0
+:ICAL_STATUS: CONFIRMED
+:ICAL_TRANSP: OPAQUE
+:END:
+Note: this is a meeting for the&nbsp\;<a href="https://carpentries.org/trainers/">Instructor Trainer</a>&nbsp\;community only. It is not open to Instructors or other community-members.&nbsp\;<br><br>Meeting 1<br>Zoom link: <a href="https://carpentries.zoom.us/my/carpentriesroom2?pwd=WmVCOUlPUm1laFk5SUp1UWg5cjhEUT09">https://carpentries.zoom.us/my/carpentriesroom2?pwd=WmVCOUlPUm1laFk5SUp1UWg5cjhEUT09</a>&nbsp\;<br>The password for this zoom call is&nbsp\;<b>202020</b><br>Etherpad:&nbsp\;<a href="https://pad.carpentries.org/trainers">https://pad.carpentries.org/trainers</a>
+*  Physics Seminar - Sanjeev Seahra\, UNB Math & Stats
+<2027-02-18 Thu 13:00>--<2027-02-18 Thu 14:00>
+:PROPERTIES:
+:CUSTOM_ID: 6e9hvqnocjtvjdnc86l8888bcr@google.com
+:ICAL_DTEND: 20270218T180000Z
+:ICAL_DTSTAMP: 20261009T151337Z
+:ICAL_CREATED: 20261006T135803Z
+:ICAL_LAST-MODIFIED: 20261006T135803Z
+:ICAL_SEQUENCE: 0
+:ICAL_STATUS: CONFIRMED
+:ICAL_TRANSP: OPAQUE
+:END:
+
+*  Physics Seminar - Dr. Jim Shaffer\, Quantum Valley Ideas Lab
+<2026-12-03 Thu 13:00>--<2026-12-03 Thu 14:00>
+:PROPERTIES:
+:CUSTOM_ID: 2tpaiflnqec5s66amsutg7eqoj@google.com
+:ICAL_DTEND: 20261203T140000
+:ICAL_DTSTAMP: 20261009T151337Z
+:ICAL_RECURRENCE-ID: 20261203T130000
+:ICAL_CREATED: 20260915T221827Z
+:ICAL_LAST-MODIFIED: 20261006T135603Z
+:ICAL_SEQUENCE: 0
+:ICAL_STATUS: CONFIRMED
+:ICAL_TRANSP: OPAQUE
+:END:
+
+*  Eye Appointment
+<2026-11-12 Thu 08:00>--<2026-11-12 Thu 09:00>
+:PROPERTIES:
+:CUSTOM_ID: 2jas0coskrt71la809l8s1r5fo@google.com
+:ICAL_DTEND: 20261112T130000Z
+:ICAL_DTSTAMP: 20261009T151337Z
+:ICAL_CREATED: 20260513T165859Z
+:ICAL_LAST-MODIFIED: 20260513T165859Z
+:ICAL_SEQUENCE: 0
+:ICAL_STATUS: CONFIRMED
+:ICAL_TRANSP: OPAQUE
+:END:
+
+*  Physics Seminar - Vincent Belzile
+<2026-11-19 Thu 13:00>--<2026-11-19 Thu 14:00>
+:PROPERTIES:
+:CUSTOM_ID: 2tpaiflnqec5s66amsutg7eqoj@google.com
+:ICAL_DTEND: 20261119T140000
+:ICAL_DTSTAMP: 20261009T151337Z
+:ICAL_RECURRENCE-ID: 20261119T130000
+:ICAL_CREATED: 20260915T221827Z
+:ICAL_LAST-MODIFIED: 20261006T135603Z
+:ICAL_SEQUENCE: 0
+:ICAL_STATUS: CONFIRMED
+:ICAL_TRANSP: OPAQUE
+:END:
+
+*  Physics Seminar - Dominic Couillard
+<2026-11-26 Thu 13:00>--<2026-11-26 Thu 14:00>
+:PROPERTIES:
+:CUSTOM_ID: 2tpaiflnqec5s66amsutg7eqoj@google.com
+:ICAL_DTEND: 20261126T140000
+:ICAL_DTSTAMP: 20261009T151337Z
+:ICAL_RECURRENCE-ID: 20261126T130000
+:ICAL_CREATED: 20260915T221827Z
+:ICAL_LAST-MODIFIED: 20261006T135603Z
+:ICAL_SEQUENCE: 0
+:ICAL_STATUS: CONFIRMED
+:ICAL_TRANSP: OPAQUE
+:END:
+
+*  MVIs for cars
+<2028-04-01 Sat 00:00>--<2028-04-02 Sun 00:00>
+:PROPERTIES:
+:CUSTOM_ID: 7q19nqgqmk2tml287pgj614j1b@google.com
+:ICAL_DTEND: 20280402
+:ICAL_DTSTAMP: 20261009T151337Z
+:ICAL_CREATED: 20260501T181318Z
+:ICAL_LAST-MODIFIED: 20260501T181318Z
+:ICAL_SEQUENCE: 0
+:ICAL_STATUS: CONFIRMED
+:ICAL_TRANSP: TRANSPARENT
+:END:
+
 *  Flight to Fredericton (AC 7750)
 <2026-10-30 Fri 17:10>--<2026-10-30 Fri 18:54>
 :PROPERTIES:
 :CUSTOM_ID: l2f841g24u13bktlp049acsuek@google.com
 :ICAL_DTEND: 20261030T215400Z
-:ICAL_DTSTAMP: 20261008T145059Z
+:ICAL_DTSTAMP: 20261009T151337Z
 :ICAL_ATTENDEE: mailto:druid.bernard@gmail.com
 :ICAL_CLASS: PRIVATE
 :ICAL_CREATED: 20261002T032908Z
@@ -345,28 +343,17 @@ To see detailed information for automatically created events like this one\, use
 
 This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPW-u-ZtNV4NtX0Fxc2yyeCGqyuCpunfIs
 
-*  Travelers 2027 Release
-<2026-10-19 Mon 00:00>--<2026-10-20 Tue 00:00>
+*  OpenStax partner webinar: Learning verification in the AI era — practical strategies for assessing what students know
+<2026-10-14 Wed 16:00>--<2026-10-14 Wed 16:45>
 :PROPERTIES:
-:CUSTOM_ID: 53ko2s2vaed2fm9phq8vs5blrh@google.com
-:ICAL_DTEND: 20261020
-:ICAL_DTSTAMP: 20261008T145059Z
-:ICAL_CREATED: 20260828T181728Z
-:ICAL_LAST-MODIFIED: 20260828T181728Z
-:ICAL_SEQUENCE: 0
-:ICAL_STATUS: CONFIRMED
-:ICAL_TRANSP: TRANSPARENT
-:END:
-
-*  Eye Appointment
-<2026-11-12 Thu 08:00>--<2026-11-12 Thu 09:00>
-:PROPERTIES:
-:CUSTOM_ID: 2jas0coskrt71la809l8s1r5fo@google.com
-:ICAL_DTEND: 20261112T130000Z
-:ICAL_DTSTAMP: 20261008T145059Z
-:ICAL_CREATED: 20260513T165859Z
-:ICAL_LAST-MODIFIED: 20260513T165859Z
+:CUSTOM_ID: 58ds3mtadkgt9q9i5ch1gosv6j@google.com
+:ICAL_DTEND: 20261014T194500Z
+:ICAL_DTSTAMP: 20261009T151337Z
+:ICAL_CREATED: 20261006T180512Z
+:ICAL_LAST-MODIFIED: 20261006T180512Z
+:ICAL_LOCATION: Event
 :ICAL_SEQUENCE: 0
 :ICAL_STATUS: CONFIRMED
 :ICAL_TRANSP: OPAQUE
 :END:
+Thank you for registering for OpenStax partner webinar: Learning verification in the AI era — practical strategies for assessing what students know. <br><br>LIVE EVENT DATE:  October 14\, 2026 <br>LIVE EVENT TIME:  02:00 PM CDT <br><br>  <br><br>Use the link below to enter the event up to 15 minutes before the start. <br><br>EVENT LINK:  https://event.on24.com/wcc/r/5462777/BC340CFA97CF915B0293D7D79606C871 <br>EMAIL:  bernardj@unb.ca <br><br>Thank you and enjoy the event!
